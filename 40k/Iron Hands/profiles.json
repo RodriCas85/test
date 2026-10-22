@@ -1,0 +1,89 @@
+[
+  {
+    "Id": "profile_2c1e-850c-46cc-a167",
+    "Name": "Iron Father Feirros",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2566"
+      },
+      {
+        "Id": "rule_219d-340d-6681-ab1"
+      },
+      {
+        "Id": "rule_2095-1be1-e5cc-1cee"
+      },
+      {
+        "Id": "rule_c393-649d-7810-bcae"
+      },
+      {
+        "Id": "rule_b3b3-c43c-41b1-a086"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "equipment_1764763240156"
+      },
+      {
+        "Id": "9d7b-c00c-41ff-87f"
+      },
+      {
+        "Id": "4bf3-994f-1703-47c2"
+      },
+      {
+        "Id": "cc4d-3452-c86d-9ffb"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_7fc6-306e-0a01-ce9f",
+    "Name": "Caanok Var",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2567"
+      },
+      {
+        "Id": "rule_10ac-79f8-b15d-f71e"
+      },
+      {
+        "Id": "rule_1799-5ca3-1b00-be16"
+      },
+      {
+        "Id": "rule_02a1-6815-f043-2fd8"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "equipment_1764763144673"
+      },
+      {
+        "Id": "24a8-048e-3348-9638"
+      },
+      {
+        "Id": "c162-f94f-fa04-9014"
+      }
+    ],
+    "BaseId": "5"
+  }
+]

@@ -1,0 +1,1050 @@
+[
+  {
+    "Id": "profile_55d8-cfb6-d9f-48a0",
+    "Name": "Canis Rex",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2492"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3934"
+      },
+      {
+        "Id": "rule_3933"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "822a-223f-fbd-21e0"
+      },
+      {
+        "Id": "433f-6684-ff4f-23b7"
+      },
+      {
+        "Id": "equipment_1762431302280"
+      },
+      {
+        "Id": "74ec-e144-10c4-7ece"
+      },
+      {
+        "Id": "51c7-ad78-6365-91ee"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_1459-b06d-639b-e171",
+    "Name": "Armiger Warglaive",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2493"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_3936"
+      },
+      {
+        "Id": "rule_878",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3985"
+      },
+      {
+        "Id": "19b5-e47a-9e29-d6db"
+      },
+      {
+        "Id": "38d-4520-1309-4074"
+      },
+      {
+        "Id": "3a79-406d-aaa7-ed6c"
+      },
+      {
+        "Id": "5e11-8d35-b7a7-ba38"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_a7e1-39bc-7da4-5e7c",
+    "Name": "Armiger Helverin",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2494"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rules_1775643913335"
+      },
+      {
+        "Id": "rule_878",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3985"
+      },
+      {
+        "Id": "3d6c-b927-b515-c0d8"
+      },
+      {
+        "Id": "19b5-e47a-9e29-d6db"
+      },
+      {
+        "Id": "b6b7-cce0-ad60-bdf4"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_c895-8913-fee7-678e",
+    "Name": "Knight Paladin",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2495"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3939",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3938"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3984"
+      },
+      {
+        "Id": "4b6f-2df5-d7b6-34dd"
+      },
+      {
+        "Id": "19b5-e47a-9e29-d6db"
+      },
+      {
+        "Id": "e63e-93fd-e131-fe85"
+      },
+      {
+        "Id": "a8ae-6973-4131-ab78"
+      },
+      {
+        "Id": "17bb-6ba0-56b1-3d3"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_9730-cfa8-fbcf-5aa9",
+    "Name": "Knight Errant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2496"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3941",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3940"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3984"
+      },
+      {
+        "Id": "4b6f-2df5-d7b6-34dd"
+      },
+      {
+        "Id": "7ec3-aee0-2545-428e"
+      },
+      {
+        "Id": "17bb-6ba0-56b1-3d3"
+      },
+      {
+        "Id": "a8ae-6973-4131-ab78"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_cb8f-96dc-a97e-c852",
+    "Name": "Knight Gallant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2497"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3943",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3942"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3984"
+      },
+      {
+        "Id": "4b6f-2df5-d7b6-34dd"
+      },
+      {
+        "Id": "equipment_1775637571530"
+      },
+      {
+        "Id": "equipment_1775637553811"
+      },
+      {
+        "Id": "cea7-7bb7-44c4-89d4"
+      },
+      {
+        "Id": "f123-9d4-e554-1559"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_4770-d5eb-3d0d-6d49",
+    "Name": "Knight Warden",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2498"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3945",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3944"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3984"
+      },
+      {
+        "Id": "c28d-679c-9e28-af08"
+      },
+      {
+        "Id": "7b42-981d-db0-4e83"
+      },
+      {
+        "Id": "4b6f-2df5-d7b6-34dd"
+      },
+      {
+        "Id": "17bb-6ba0-56b1-3d3"
+      },
+      {
+        "Id": "a8ae-6973-4131-ab78"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_e9ca-1260-3fd4-beb6",
+    "Name": "Knight Crusader",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2499"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_3947",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3946"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3984"
+      },
+      {
+        "Id": "c28d-679c-9e28-af08"
+      },
+      {
+        "Id": "7b42-981d-db0-4e83"
+      },
+      {
+        "Id": "4b6f-2df5-d7b6-34dd"
+      },
+      {
+        "Id": "7ec3-aee0-2545-428e"
+      },
+      {
+        "Id": "equipment_1775633735448"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_cea2-2ace-efda-f52d",
+    "Name": "Knight Preceptor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2500"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3949",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3948"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3984"
+      },
+      {
+        "Id": "118d-63f7-70a3-629a"
+      },
+      {
+        "Id": "6205-84d2-cab4-8894"
+      },
+      {
+        "Id": "553f-100d-a8d5-5a25"
+      },
+      {
+        "Id": "a8ae-6973-4131-ab78"
+      },
+      {
+        "Id": "17bb-6ba0-56b1-3d3"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_6715-86ee-6799-89a2",
+    "Name": "Knight Castellan",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2501"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3950",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3951"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3986"
+      },
+      {
+        "Id": "d8eb-d595-9bdc-3cf"
+      },
+      {
+        "Id": "71f5-dc3a-6019-34af"
+      },
+      {
+        "Id": "8057-e9f4-1d1-41f0"
+      },
+      {
+        "Id": "8710-73e3-af0d-d850"
+      },
+      {
+        "Id": "a5d2-c8c3-3928-fdb6"
+      },
+      {
+        "Id": "bd3-71c3-fe65-ab78"
+      },
+      {
+        "Id": "equipment_1775633735448"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_482a-8ce4-8a22-c621",
+    "Name": "Knight Valiant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2502"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3952",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rules_1775639821576"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3986"
+      },
+      {
+        "Id": "feeb-790a-99d5-67fc"
+      },
+      {
+        "Id": "8710-73e3-af0d-d850"
+      },
+      {
+        "Id": "2fc1-856c-bd08-2f05"
+      },
+      {
+        "Id": "a5d2-c8c3-3928-fdb6"
+      },
+      {
+        "Id": "bd3-71c3-fe65-ab78"
+      },
+      {
+        "Id": "equipment_1775633735448"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_68a2-c0af-9c9e-24",
+    "Name": "Acastus Knight Asterius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2503"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "2D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3954"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3986"
+      },
+      {
+        "Id": "1a75-a944-d240-6743"
+      },
+      {
+        "Id": "7bef-2b4a-7e72-86d4"
+      },
+      {
+        "Id": "575d-daf8-e4c9-7e55"
+      },
+      {
+        "Id": "equipment_1775644320994"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_e6ec-843a-ab40-28a",
+    "Name": "Acastus Knight Porphyrion",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2504"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "2D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3955"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3986"
+      },
+      {
+        "Id": "eb3a-97a1-f83-1fcc"
+      },
+      {
+        "Id": "3576-4d0d-5fbb-8d1a"
+      },
+      {
+        "Id": "6f32-c97f-e3e-8dc0"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_7c8d-6043-5b0-73e2",
+    "Name": "Cerastus Knight Lancer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2505"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3958",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3956"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_3986"
+      },
+      {
+        "Id": "c77-ff4f-7801-5bc9"
+      },
+      {
+        "Id": "96f2-c13b-cf32-6785"
+      },
+      {
+        "Id": "11a0-34b2-1f4b-854"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_139a-660e-cadf-471c",
+    "Name": "Cerastus Knight Castigator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2506"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3960"
+      },
+      {
+        "Id": "rule_3959"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3986"
+      },
+      {
+        "Id": "68fa-efa8-4959-bdc6"
+      },
+      {
+        "Id": "5fbe-9cfd-dbf8-6752"
+      },
+      {
+        "Id": "79af-f718-ea61-3240"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_791d-8b09-266f-8f61",
+    "Name": "Cerastus Knight Acheron",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2507"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3963",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3961"
+      },
+      {
+        "Id": "rule_878",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3986"
+      },
+      {
+        "Id": "20a7-a693-187c-3cff"
+      },
+      {
+        "Id": "c2bd-d1fa-d106-19ec"
+      },
+      {
+        "Id": "3267-9d45-fb27-929d"
+      },
+      {
+        "Id": "ae19-5f40-8f99-8d1b"
+      }
+    ],
+    "BaseId": "11"
+  },
+  {
+    "Id": "profile_c436-5110-1b57-4c43",
+    "Name": "Cerastus Knight Atrapos",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2508"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3966",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3964"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3986"
+      },
+      {
+        "Id": "c9f0-76bb-4602-e4f7"
+      },
+      {
+        "Id": "8729-3dcc-8ed7-752a"
+      },
+      {
+        "Id": "4312-4668-8ce2-3045"
+      },
+      {
+        "Id": "2f4-5b32-a9b5-7abc"
+      },
+      {
+        "Id": "7dcf-78c3-82e1-b6fa"
+      },
+      {
+        "Id": "8f72-a428-9ee4-acb2"
+      }
+    ],
+    "BaseId": "11"
+  },
+  {
+    "Id": "profile_3148-a4a3-ecb-b23f",
+    "Name": "Questoris Knight Magaera",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2509"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3969",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3967"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3984"
+      },
+      {
+        "Id": "e803-b7a9-6d6b-85cf"
+      },
+      {
+        "Id": "ea44-b29b-859c-45ac"
+      },
+      {
+        "Id": "a8ae-6973-4131-ab78"
+      },
+      {
+        "Id": "17bb-6ba0-56b1-3d3"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_b556-4e8-b576-9191",
+    "Name": "Questoris Knight Styrix",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2510"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_3972",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rule_3971"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3984"
+      },
+      {
+        "Id": "63a2-7ba2-3845-f2de"
+      },
+      {
+        "Id": "8e62-813d-11cb-9310"
+      },
+      {
+        "Id": "17bb-6ba0-56b1-3d3"
+      },
+      {
+        "Id": "a8ae-6973-4131-ab78"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_3bc2-f11c-17f4-befe",
+    "Name": "Armiger Moirax",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2511"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_3973"
+      },
+      {
+        "Id": "rule_878",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_3985"
+      },
+      {
+        "Id": "9401-8675-2bac-35b"
+      },
+      {
+        "Id": "b5d6-3736-74ec-1e93"
+      },
+      {
+        "Id": "b6b7-cce0-ad60-bdf4"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_1762505151603",
+    "Name": "Knight Defender",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2512"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rules_1775636439437",
+        "Info": "(Bondsman)"
+      },
+      {
+        "Id": "rules_1775636468301"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+ (Ranged)"
+      },
+      {
+        "Id": "rule_325"
+      },
+      {
+        "Id": "equipment_1762432085991"
+      },
+      {
+        "Id": "equipment_1762432138205"
+      },
+      {
+        "Id": "equipment_1762432193416"
+      },
+      {
+        "Id": "equipment_1762432296100"
+      },
+      {
+        "Id": "equipment_1762432345362"
+      },
+      {
+        "Id": "equipment_1775633735448"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_1762508334855",
+    "Name": "Sir Hekhtur",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2513"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "7bf3-8655-62ac-6f0d"
+      },
+      {
+        "Id": "6038-ef92-cb43-2288"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profiles_1775465244212",
+    "Name": "Knight Destrier",
+    "Type": "Profile",
+    "BaseId": "26",
+    "Children": [
+      {
+        "Id": "statlines_1775465178821"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1775472335680"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rules_1775472210683"
+      },
+      {
+        "Id": "rules_1775472223322"
+      },
+      {
+        "Id": "rules_1775472240135"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "equipment_1775465439411"
+      },
+      {
+        "Id": "equipment_1775465491172"
+      },
+      {
+        "Id": "equipment_1775465568921"
+      },
+      {
+        "Id": "equipment_1775472171386"
+      }
+    ]
+  }
+]

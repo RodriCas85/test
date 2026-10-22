@@ -1,0 +1,71 @@
+[
+  {
+    "Id": "2ac6-e240-55c0-1e34",
+    "Name": "Fist of Dorn",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2487"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "7dfb-44c4-1d55-3e2f",
+    "Name": "Artificer Grav Gun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2488"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Vehicle 2+"
+      }
+    ]
+  },
+  {
+    "Id": "870d-a10c-b215-1395",
+    "Name": "Hand of Defiance",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2489"
+      }
+    ]
+  },
+  {
+    "Id": "49c3-48e8-5856-65d3",
+    "Name": "Dorn's Arrow",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2490"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "faba-867d-75d6-3747",
+    "Name": "Fist of Retribution",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2491"
+      }
+    ]
+  }
+]

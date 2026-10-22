@@ -1,0 +1,2129 @@
+[
+  {
+    "Id": "8576-b61a-fda9-9ec6",
+    "Name": "➤ Lakrimae - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2139"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "a230-d987-b4fa-381b",
+    "Name": "➤ Lakrimae - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2140"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "e650-65-3ad9-a97e",
+    "Name": "➤ Hellforged weapons - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2141"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "412b-2ba9-4ca-3523",
+    "Name": "➤ Hellforged weapons - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2142"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "d957-3e1d-68b7-f121",
+    "Name": "Plague spewer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774859670592"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "8877-9ef7-eb6b-2ac0",
+    "Name": "Plague bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2143"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "5ae4-2211-556b-525a",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774856014808"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "2b4-c96a-2d9e-7103",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774856082223"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "5f4d-e552-82f1-cb26",
+    "Name": "Combi-weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2144"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "4"
+      }
+    ]
+  },
+  {
+    "Id": "450d-c7de-a25a-f0ec",
+    "Name": "Astartes chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1989"
+      }
+    ]
+  },
+  {
+    "Id": "2edd-1e37-6a6-d3d8",
+    "Name": "Plague fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2145"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "7cea-c6-7093-3a8b",
+    "Name": "Plague-encrusted exalted weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2146"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "9562-5504-46cc-e504",
+    "Name": "Combi-bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2147"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "4726-2289-b378-98b1",
+    "Name": "Twin lightning claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2148"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "36d0-64e7-1536-8ea0",
+    "Name": "Combi-weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2149"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "7df-7c10-b76e-7645",
+    "Name": "Plague fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2150"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "a4e0-6d4f-18eb-6c3e",
+    "Name": "Twin plague spewer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2151"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "e971-bf4d-9f4a-dfc1",
+    "Name": "Power fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2152"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "1f4a-a63-4949-cc05",
+    "Name": "➤ Manreaper - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2153"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "df56-965-4501-bdea",
+    "Name": "➤ Manreaper - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2154"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "7d2c-9ce3-c742-6c18",
+    "Name": "Force weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1873"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "2965-3811-ec3a-f23e",
+    "Name": "Chainfist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1010"
+      }
+    ]
+  },
+  {
+    "Id": "29f4-1f35-313c-c541",
+    "Name": "Plague fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2155"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "2597-2759-9da5-4d39",
+    "Name": "Twin lightning claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_955"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "9554-4d21-b017-c5db",
+    "Name": "➤ Curse of the Leper - witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2156"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "5131-606f-c02d-1342",
+    "Name": "➤ Curse of the Leper - focused witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2157"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "71c6-30d1-6bc1-7e4",
+    "Name": "Chainfist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2158"
+      }
+    ]
+  },
+  {
+    "Id": "126f-1a5d-9f30-8b9e",
+    "Name": "Corrupted staff",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2159"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "c194-926-96cb-fb88",
+    "Name": "➤ Plague Wind - witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2160"
+      },
+      {
+        "Id": "rule_30"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "1b9c-f8f2-1119-ba08",
+    "Name": "➤ Plague Wind - focused witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2161"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_30"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "ba9a-3428-5efd-84a1",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774856312907"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "c66c-e11b-4d29-faa3",
+    "Name": "Heavy plague weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774861128920"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "4b87-f327-ce75-b766",
+    "Name": "Meltagun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774860874731"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "7255-2a07-bcd4-93bc",
+    "Name": "Plague belcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2162"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "4+"
+      }
+    ]
+  },
+  {
+    "Id": "ef92-92b5-e7b6-226a",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774857011903"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "c000-af84-6418-c9c2",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774857047655"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "20be-d869-9c10-cc40",
+    "Name": "Boltgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774607354070"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "e976-be8c-9bcf-5971",
+    "Name": "➤ Plasma gun - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774859087255"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "5297-1119-3e9e-e1a9",
+    "Name": "➤ Plasma gun - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774859151372"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "3b39-3a5-e3cd-9189",
+    "Name": "Plague knives",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774858653633"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "5965-424b-8b1-dfd2",
+    "Name": "Blight launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774859567328"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "fa7b-9ec6-ad2a-6a5e",
+    "Name": "Bubotic weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774859384612"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "ba8b-a838-eb29-2bf",
+    "Name": "Flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_914"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "ea3-bd88-2824-97fe",
+    "Name": "Heavy stubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2163"
+      }
+    ]
+  },
+  {
+    "Id": "bfa4-b708-b6d1-9705",
+    "Name": "➤ Grenade launcher - frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1188"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "fcdc-3914-9cde-bff7",
+    "Name": "➤ Grenade launcher - krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1189"
+      }
+    ]
+  },
+  {
+    "Id": "85e7-a3dc-febe-c3d6",
+    "Name": "Cultist firearm",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2164"
+      }
+    ]
+  },
+  {
+    "Id": "e958-eee4-6d40-730c",
+    "Name": "Brutal assault weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2037"
+      }
+    ]
+  },
+  {
+    "Id": "a087-349f-b3ba-484e",
+    "Name": "Improvised weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2165"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "800-ba00-5b7b-7b70",
+    "Name": "Cursed plague bell",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2166"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_8"
+      }
+    ]
+  },
+  {
+    "Id": "75ee-6e64-a7ff-d5cc",
+    "Name": "Close combat weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2167"
+      }
+    ]
+  },
+  {
+    "Id": "9f0e-dd2c-e441-575b",
+    "Name": "Plague sprayer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2168"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "51d9-5d08-5e53-298a",
+    "Name": "Hyper blight grenades",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2169"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "b16e-7ed8-38c-9769",
+    "Name": "Plague knives",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2170"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "bc1e-1518-720e-b7d6",
+    "Name": "Injector pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2171"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_14"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "84f4-ed83-4958-192a",
+    "Name": "Balesword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2172"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "1b4e-eb7f-e1ed-e888",
+    "Name": "➤ Manreaper - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2173"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "4a48-a633-4a5-34b3",
+    "Name": "➤ Manreaper - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2174"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "26c9-a99c-cd78-d287",
+    "Name": "Plaguespurt gauntlet",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2175"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "6112-1dae-efd8-7e6e",
+    "Name": "Twin autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774866891589"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "6f0d-2c9b-b408-e7ee",
+    "Name": "Helbrute fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774866812861"
+      }
+    ]
+  },
+  {
+    "Id": "acd-8001-40a3-8f56",
+    "Name": "Plasma cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2176"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "7ad0-2c20-b5f6-e5ed",
+    "Name": "Twin heavy bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2177"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "e0c2-8978-cab-e401",
+    "Name": "Twin lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774866976794"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "49a2-2f73-4a80-43a2",
+    "Name": "Heavy flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774867108431"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "8c57-d963-4645-a5c3",
+    "Name": "Flail of corruption",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2178"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "295c-2e30-e0-d85b",
+    "Name": "Reaper autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2193"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "ab2c-fb60-ec6d-b252",
+    "Name": "Bubotic blade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2179"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "b101-f555-a5ea-3b5",
+    "Name": "Bile spurt",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2180"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "bf71-1c1a-6078-5dda",
+    "Name": "➤ Missile launcher - frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774867424532"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "4140-f071-8015-8bbf",
+    "Name": "➤ Missile launcher - krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774867467094"
+      }
+    ]
+  },
+  {
+    "Id": "d9a-ba7c-eb7-94e0",
+    "Name": "Gnashing maw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2181"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "c06c-cfc-69e0-d455",
+    "Name": "Multi-melta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2182"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "3438-f1fa-5a60-61b3",
+    "Name": "Plague probe",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2183"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "eb42-265a-1ce3-6c97",
+    "Name": "Plaguespitter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2184"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "7a47-b8d5-50a1-a51f",
+    "Name": "Fleshmower",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2185"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "2088-b03a-9735-ea58",
+    "Name": "Plagueburst mortar",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2186"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_15"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "dc7d-2eeb-97ac-2298",
+    "Name": "Rothail volley gun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2187"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "4bdd-bf4b-b546-1b6a",
+    "Name": "Heavy slugger",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2188"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "45b1-85d6-9d92-a1ec",
+    "Name": "Entropy cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2189"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "7f38-768-debb-e35e",
+    "Name": "Soulshatter lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774864340328"
+      }
+    ]
+  },
+  {
+    "Id": "2b30-8ef7-813-a0e7",
+    "Name": "Havoc launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774862445376"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "6b62-481b-3c71-91db",
+    "Name": "Predator twin lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774864897887"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "3de1-2383-90b-6505",
+    "Name": "Predator autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2190"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "d36c-5268-4aad-b6d5",
+    "Name": "Lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774865376997"
+      }
+    ]
+  },
+  {
+    "Id": "5dd0-18ad-b17-847c",
+    "Name": "Heavy bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2191"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "6b7b-ae3d-95bf-3fb",
+    "Name": "Battle cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2192"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "d3cb-4396-6234-45e5",
+    "Name": "Defiler claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1941"
+      }
+    ]
+  },
+  {
+    "Id": "ddee-6bcc-6de6-e7bb",
+    "Name": "Reaper autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2193"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "d2c5-13a-852b-2c53",
+    "Name": "Twin heavy flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1208"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "db55-d4ab-5467-8411",
+    "Name": "Defiler scourge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1943"
+      },
+      {
+        "Id": "rule_6"
+      }
+    ]
+  },
+  {
+    "Id": "b747-bfa-150a-684b",
+    "Name": "Rotwind",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2194"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "360a-9c03-685c-889d",
+    "Name": "Lantern",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2195"
+      },
+      {
+        "Id": "rule_1"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "D3"
+      }
+    ]
+  },
+  {
+    "Id": "95ee-86e9-30fa-e895",
+    "Name": "➤ Silence - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2196"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "dca9-eb74-21da-e003",
+    "Name": "➤ Silence - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2197"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "6a59-41ba-2f2e-a7cf",
+    "Name": "Plague knife",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2198"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "434d-d0e-dbd8-8a6a",
+    "Name": "Miasmic gouts",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2199"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "80e1-7f63-975e-5a9",
+    "Name": "Accursed weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1867"
+      }
+    ]
+  },
+  {
+    "Id": "d65d-3675-7c25-4ea2",
+    "Name": "Paired accursed weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1990"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "800-c71-2cd6-90f0",
+    "Name": "Nurgling's claws and teeth",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1992"
+      },
+      {
+        "Id": "rule_6"
+      }
+    ]
+  },
+  {
+    "Id": "8f75-c0af-7097-6976",
+    "Name": "Brutal weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1995"
+      }
+    ]
+  },
+  {
+    "Id": "37b6-1307-d4e0-2a30",
+    "Name": "Belly flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1997"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "4cf6-937b-76fa-f69f",
+    "Name": "Armoured hull",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_237"
+      }
+    ]
+  },
+  {
+    "Id": "8e35-5ed6-10fb-2792",
+    "Name": "Armoured hull",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1985"
+      }
+    ]
+  },
+  {
+    "Id": "1546-e8c7-e604-16b4",
+    "Name": "Autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1986"
+      }
+    ]
+  },
+  {
+    "Id": "e542-cb3f-c47d-d7a0",
+    "Name": "Diseased claws and fangs",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1998"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "de8-f6c5-967b-f95f",
+    "Name": "➤ Infernal Gaze - witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1874"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "ff38-8889-f7f0-9ddd",
+    "Name": "➤ Infernal Gaze - focused witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1875"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_2"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "df11-c233-c45d-47d4",
+    "Name": "Nurgling's claws and teeth",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1988"
+      },
+      {
+        "Id": "rule_6"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "4baa-e10a-1e17-7c61",
+    "Name": "Astartes chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1036"
+      }
+    ]
+  },
+  {
+    "Id": "d3b4-1a70-8513-90e6",
+    "Name": "Infernal cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2200"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "cd04-fabf-1bc6-8054",
+    "Name": "Great plague blade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2201"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "7f-a8ca-4079-cd08",
+    "Name": "Power scourge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774867053977"
+      }
+    ]
+  },
+  {
+    "Id": "88f9-bb4a-a1ac-c4b3",
+    "Name": "Helbrute hammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2202"
+      }
+    ]
+  },
+  {
+    "Id": "5b99-16ca-d45e-fff4",
+    "Name": "Putrid vomit",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1612"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "a88a-9eea-3dc1-d1ba",
+    "Name": "Plague flail",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1613"
+      }
+    ]
+  },
+  {
+    "Id": "5472-647b-fd1d-5e6f",
+    "Name": "Bileblade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1614"
+      },
+      {
+        "Id": "rule_6"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "7b6b-71ab-d866-2529",
+    "Name": "➤ Bilesword - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1615"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "7397-1071-2bfb-a508",
+    "Name": "➤ Bilesword - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2203"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "9d10-7402-0551-3666",
+    "Name": "Doomsday bell",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2204"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rules_1774519953954"
+      }
+    ]
+  },
+  {
+    "Id": "3be1-babc-bd38-75c4",
+    "Name": "Streams of brackish filth",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774857723196"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "f635-2eed-33fc-e529",
+    "Name": "➤ Gnarlrod - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774857789830"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "1920-050c-5218-96c3",
+    "Name": "➤ Gnarlrod - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774857834634"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_30"
+      }
+    ]
+  },
+  {
+    "Id": "30b3-048a-087b-2b0e",
+    "Name": "Plaguesword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774861543498"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "7c91-7570-b64e-f6db",
+    "Name": "Death's heads",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774868870950"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "bcdd-6f17-d849-db97",
+    "Name": "Foul mouthparts",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774868934080"
+      },
+      {
+        "Id": "rule_6"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "45c1-da84-2d8f-c3f0",
+    "Name": "Putrid appendages",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774862668386"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "559f-8dc2-444f-417b",
+    "Name": "Diseased claws and teeth",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774868645107"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "319c-abde-2b20-2da4",
+    "Name": "Heavy blight launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2205"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774859489985",
+    "Name": "Power Fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774859447458"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774862375727",
+    "Name": "Combi-weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774862331510"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "4+"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774862537815",
+    "Name": "Armoured tracks",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774862507098"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774864155265",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774864116633"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774865444992",
+    "Name": "Heavy Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2191"
+      },
+      {
+        "Id": "rule_17"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774865974948",
+    "Name": "Hideous Mutations",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774865927899"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774866719838",
+    "Name": "Close Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774866680425"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774955510038",
+    "Name": "Hades battle cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774955469833"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774955575944",
+    "Name": "Esctoplasma destructor",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774955535275"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774955987255",
+    "Name": "Excruciator cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774955934641"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956280291",
+    "Name": "Magma cutters",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774955997349"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956303625",
+    "Name": "Heavy Baleflamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774956321653"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956417353",
+    "Name": "Hades lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774956378486"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956475839",
+    "Name": "Heavy reaper autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774956427266"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956563233",
+    "Name": "➤ Heavy missile launcher - krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774956508964"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956621350",
+    "Name": "➤ Heavy missile launcher - frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774956586788"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956692537",
+    "Name": "➤ Shearing claws - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774956656158"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956742333",
+    "Name": "➤ Shearing claws - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774956707733"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1774956807707",
+    "Name": "Electroscourge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774956760429"
+      },
+      {
+        "Id": "rule_6"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775460681620",
+    "Name": "Ectoplasma Destructor",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1774955535275"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  }
+]

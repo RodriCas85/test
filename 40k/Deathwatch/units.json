@@ -1,0 +1,139 @@
+[
+  {
+    "Id": "unit_f7c3-45d2-a7ac-d8bc",
+    "Name": "Watch Master",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, IMPERIUM, WATCH MASTER, ADEPTUS ASTARTES, DEATHWATCH, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_db91-f6d2-e8ff-cfcd"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3d7c-2de-31ea-b028",
+    "Name": "Watch Captain Artemis",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, IMPERIUM, WATCH CAPTAIN ARTEMIS, ADEPTUS ASTARTES, DEATHWATCH, CAPTAIN, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_9704-dfd4-a221-49c1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_d861-972b-54f9-bdfa",
+    "Name": "Corvus Blackstar",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "FLY, VEHICLE, IMPERIUM, TRANSPORT, CORVUS BLACKSTAR, ADEPTUS ASTARTES, DEATHWATCH, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_e6cc-6a7c-9617-3ab1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_390e-706b-a059-378b",
+    "Name": "Deathwatch Terminator Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, DEATHWATCH TERMINATOR SQUAD, TERMINATOR, KILL TEAM, ADEPTUS ASTARTES, DEATHWATCH"
+    },
+    "BasicProfileIds": [
+      "profile_45fa-9a7-8352-362e",
+      "profile_4595-7ad2-617a-c07d"
+    ],
+    "DefaultFront": 2,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_a077-e1c9-f8f0-d38",
+    "Name": "Fortis Kill Team",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, FORTIS KILL TEAM, ADEPTUS ASTARTES, DEATHWATCH, TACTICUS, KILL TEAM, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_ccfb-e995-308b-4b7a",
+      "profile_7bf3-4c74-4427-717c",
+      "profile_6b7a-74a4-f316-36cf",
+      "profile_4962-be6c-d809-e206"
+    ],
+    "DefaultFront": 12,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_1765796241695",
+    "Name": "Indomitor Kill Team",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, INDOMITOR KILL TEAM, GRAVIS, ADEPTUS ASTARTES, DEATHWATCH, KILL TEAM"
+    },
+    "BasicProfileIds": [
+      "profile_84f7-2150-fe04-4f8b"
+    ],
+    "DefaultFront": 4,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_2544-5189-7806-30f3",
+    "Name": "Spectrus Kill Team",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, SMOKE, SPECTRUS KILL TEAM, KILL TEAM, ADEPTUS ASTARTES, DEATHWATCH, PHOBOS, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_ca58-2c6d-1b85-bc76"
+    ],
+    "DefaultFront": 2,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_8778-e3cb-2c6f-b23d",
+    "Name": "Deathwatch Veterans",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, IMPERIUM, ADEPTUS ASTARTES, DEATHWATCH, KILL TEAM, DEATHWATCH VETERANS, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_ba3d-91bd-62a4-44ec",
+      "profile_075f-d1fd-2889-31cf"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_c679-f252-32b1-ebcc",
+    "Name": "Talonstrike Kill Team",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, DEATHWATCH, INFANTRY, FLY, JUMP PACK, GRENADES, IMPERIUM, KILL TEAM, TALONSTRIKE KILL TEAM"
+    },
+    "BasicProfileIds": [
+      "profile_13c9-7b74-3736-15b4",
+      "profile_d773-5ee0-d647-efaa",
+      "profile_68d2-9aaa-f6cb-f4dc"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_550a-f5c4-d6a9-a09e",
+    "Name": "Decimus Kill Team",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, DEATHWATCH, INFANTRY, BATTLELINE, IMPERIUM, KILL TEAM, TACTICUS, DECIMUS KILL TEAM, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_407d-7aa3-78a1-0d7e"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  }
+]

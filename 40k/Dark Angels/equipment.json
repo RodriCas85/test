@@ -1,0 +1,831 @@
+[
+  {
+    "Id": "5ed7-47f8-c-d88c",
+    "Name": "Lion's Wrath",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2056"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Infantry 4+"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "60b6-cc33-a89e-8430",
+    "Name": "The Sword of Secrets",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2057"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "31d4-9fb6-a699-1174",
+    "Name": "Master-crafted storm bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2058"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "32a8-dd80-651-3378",
+    "Name": "The Sword of Silence",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2059"
+      }
+    ]
+  },
+  {
+    "Id": "3104-8d29-e431-05d7",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "ffde-95ee-4df6-6dea",
+    "Name": "Master-crafted plasma cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2060"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "45dc-cbf3-fcfa-8039",
+    "Name": "Twin storm bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2061"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "60ca-a584-144d-3077",
+    "Name": "The Raven Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2062"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "fd5a-72db-5bc8-7025",
+    "Name": "The Deliverer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2063"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "fc03-30cd-58b6-788f",
+    "Name": "➤ Mind Wipe - witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2064"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      },
+      {
+        "Id": "rule_kw_precision"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      }
+    ]
+  },
+  {
+    "Id": "fdaf-6291-16d1-6051",
+    "Name": "➤ Mind Wipe - focused witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_fdaf-6291-16d1-6051"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Character 4+"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_precision"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      }
+    ]
+  },
+  {
+    "Id": "a896-5701-6c4a-7753",
+    "Name": "Traitor's Bane",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2066"
+      },
+      {
+        "Id": "rule_kw_precision"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      }
+    ]
+  },
+  {
+    "Id": "4f30-1743-64e9-4e82",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4f30-1743-64e9-4e82"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "4ff3-d79b-5a5c-5e2f",
+    "Name": "➤ Crozius Arcanum and Power Weapon - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2067"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "48ef-c02b-cfa4-9797",
+    "Name": "➤ Crozius Arcanum and Power Weapon - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2068"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "f6e1-fa37-f674-3966",
+    "Name": "➤ Arma Luminis - bolt",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2069"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "708a-4618-fdfd-8775",
+    "Name": "➤ Arma Luminis - plasma",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2070"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "9008-3db1-12b7-6d88",
+    "Name": "➤ Fealty - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2071"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "246b-3626-72d1-6262",
+    "Name": "➤ Fealty - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2072"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "7814-635d-622a-c628",
+    "Name": "Enmity’s Edge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2073"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Psyker 2+"
+      }
+    ]
+  },
+  {
+    "Id": "afcc-75f3-b4df-3302",
+    "Name": "Vortex Grenade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_afcc-75f3-b4df-3302"
+      },
+      {
+        "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "ef5c-295b-6117-663c",
+    "Name": "Thief of Secrets",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ef5c-295b-6117-663c"
+      }
+    ]
+  },
+  {
+    "Id": "6dc6-4f92-c8b4-ebda",
+    "Name": "Imperium's Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_6dc6-4f92-c8b4-ebda"
+      }
+    ]
+  },
+  {
+    "Id": "2bf-8f35-b42-c432",
+    "Name": "Armoured Hull",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2077"
+      }
+    ]
+  },
+  {
+    "Id": "8971-1042-724e-7ee1",
+    "Name": "Twin heavy bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_edd0-6f1c-83e7-c0ea"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "80f7-1a8d-b7ae-e553",
+    "Name": "Blacksword missiles",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2074"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Fly 2+"
+      }
+    ]
+  },
+  {
+    "Id": "8692-a94f-2cf1-eeda",
+    "Name": "Avenger mega bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2075"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "d03-9ff4-329b-d586",
+    "Name": "Nephilim lascannons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2076"
+      }
+    ]
+  },
+  {
+    "Id": "61b-8473-2e5a-ff5e",
+    "Name": "Hurricane bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2078"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "6"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "96ce-acc2-fe8d-f7e1",
+    "Name": "Rift cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2079"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "7850-13a-cdea-60ed",
+    "Name": "➤ Plasma storm battery - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2081"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "d5f0-93ae-7ea9-ebd3",
+    "Name": "➤ Plasma storm battery - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2082"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "d65c-c8bc-d3e9-e354",
+    "Name": "Assault Cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771625322960"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "93a7-3a89-5acc-f91b",
+    "Name": "Heavy Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_93a7-3a89-5acc-f91b"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "e485-a67b-e15a-d4f0",
+    "Name": "➤ Plasma talon - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2085"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "d6d6-4b62-66a9-a657",
+    "Name": "➤ Plasma talon - Supercharged",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2086"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "7d10-cfe3-411d-4d4a",
+    "Name": "Corvus Hammers",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7d10-cfe3-411d-4d4a"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "c2f0-8273-a3f0-43eb",
+    "Name": "Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771622653358"
+      },
+      {
+        "Id": "rule_kw_pistol"
+      }
+    ]
+  },
+  {
+    "Id": "ff96-544f-1a33-6c54",
+    "Name": "➤ Grenade Launcher - Krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ff96-544f-1a33-6c54"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "623f-5421-81e6-28db",
+    "Name": "➤ Grenade Launcher - Frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_623f-5421-81e6-28db"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "d093-797a-4c76-eea3",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_d093-797a-4c76-eea3"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "ad4-d6c8-b8b9-7902",
+    "Name": "Master-crafted power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771622847191"
+      }
+    ]
+  },
+  {
+    "Id": "df38-45ec-63b7-7e80",
+    "Name": "Mace of Absolution",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2100"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Monster/Vehicle 4+"
+      }
+    ]
+  },
+  {
+    "Id": "754c-1c40-61be-665b",
+    "Name": "Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2090"
+      }
+    ]
+  },
+  {
+    "Id": "1011-2c75-98ea-8655",
+    "Name": "Great Weapon of the Unforgiven",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2091"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "4ac-e29c-cb25-4af6",
+    "Name": "Relic Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2092"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "83a0-da0c-752f-b4b3",
+    "Name": "Storm bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "3a24-34af-7558-5365",
+    "Name": "Power fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771625173114"
+      }
+    ]
+  },
+  {
+    "Id": "bdbd-f82e-7d79-5556",
+    "Name": "➤ Chainfist - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_bdbd-f82e-7d79-5556"
+      }
+    ]
+  },
+  {
+    "Id": "32a5-0d06-7e77-b1e3",
+    "Name": "➤ Chainfist - Hunter: Monster/Vehicle",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_32a5-0d06-7e77-b1e3"
+      }
+    ]
+  },
+  {
+    "Id": "ff3c-a4ca-4cf9-933f",
+    "Name": "Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ff3c-a4ca-4cf9-933f"
+      }
+    ]
+  },
+  {
+    "Id": "c718-bdaf-b0b4-3f35",
+    "Name": "➤ Plasma cannon - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_c718-bdaf-b0b4-3f35"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "33e2-fdb7-dea5-9e36",
+    "Name": "➤ Plasma cannon - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_33e2-fdb7-dea5-9e36"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      }
+    ]
+  },
+  {
+    "Id": "8158-c8b3-6940-5199",
+    "Name": "Heavy Flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1771625417534"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "0dcb-7280-3d30-0e33",
+    "Name": "➤ Cyclone missile launcher - frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_0dcb-7280-3d30-0e33"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "98f0-5dc8-118f-3d9e",
+    "Name": "➤ Cyclone missile launcher - krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_98f0-5dc8-118f-3d9e"
+      }
+    ]
+  },
+  {
+    "Id": "b18b-ef78-357-e4f2",
+    "Name": "➤ Calibanite Greatsword - Strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2094"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "45b5-9b55-6f1e-fab9",
+    "Name": "➤ Calibanite Greatsword - Sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2095"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "2"
+      }
+    ]
+  }
+]

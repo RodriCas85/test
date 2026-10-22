@@ -1,0 +1,463 @@
+[
+  {
+    "Id": "profile_db91-f6d2-e8ff-cfcd",
+    "Name": "Watch Master",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_db91-f6d2-e8ff-cfcd"
+      },
+      {
+        "Id": "rule_e78f-da76-e79d-304a"
+      },
+      {
+        "Id": "rule_d4de-4cfa-ee54-d422"
+      },
+      {
+        "Id": "rule_6240-ce76-8480-ccfe"
+      },
+      {
+        "Id": "rule_3a88-c8f1-2c7b-85e4"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "d1f3-99a9-d3b9-20d1"
+      },
+      {
+        "Id": "af24-5cc3-6b6a-b66b"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_9704-dfd4-a221-49c1",
+    "Name": "Watch Captain Artemis",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_9704-dfd4-a221-49c1"
+      },
+      {
+        "Id": "rule_c481-d4ab-58f1-858d"
+      },
+      {
+        "Id": "rule_14e1-8336-a9b2-40c3"
+      },
+      {
+        "Id": "rule_8863-f9da-9fe5-8262"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "f250-8a64-779a-ca3a"
+      },
+      {
+        "Id": "f25c-9d73-6855-c35a"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_e6cc-6a7c-9617-3ab1",
+    "Name": "Corvus Blackstar",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_e6cc-6a7c-9617-3ab1"
+      },
+      {
+        "Id": "rule_2424-fdd-d5c0-1d78"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_eec5-5f54-9c03-c305"
+      },
+      {
+        "Id": "rule_bec5-4288-34a6-ccfa"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "5"
+      },
+      {
+        "Id": "b1e7-499-b467-b78"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_45fa-9a7-8352-362e",
+    "Name": "Deathwatch Terminator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_fbb6-8d06-f810-4677"
+      },
+      {
+        "Id": "rule_c729-b51b-629d-5df9"
+      },
+      {
+        "Id": "rule_72d-cf90-8721-2810"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4595-7ad2-617a-c07d",
+    "Name": "Deathwatch Terminator Sergeant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_fbb6-8d06-f810-4677"
+      },
+      {
+        "Id": "rule_c729-b51b-629d-5df9"
+      },
+      {
+        "Id": "rule_72d-cf90-8721-2810"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_ccfb-e995-308b-4b7a",
+    "Name": "Kill Team Intercessor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_c06b-bca8-50c3-b63e"
+      },
+      {
+        "Id": "rule_cd92-208e-7559-9c9b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "091a-2eb1-b71d-7102"
+      },
+      {
+        "Id": "c61a-1024-ae80-dd9a"
+      },
+      {
+        "Id": "a6dc-1923-9f2a-9aea"
+      },
+      {
+        "Id": "4aaf-3138-04dc-608f"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_7bf3-4c74-4427-717c",
+    "Name": "Kill Team Intercessor with bolt rifle",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_c06b-bca8-50c3-b63e"
+      },
+      {
+        "Id": "rule_cd92-208e-7559-9c9b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "c61a-1024-ae80-dd9a"
+      },
+      {
+        "Id": "1e8c-da24-6662-a2e3"
+      },
+      {
+        "Id": "091a-2eb1-b71d-7102"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_6b7a-74a4-f316-36cf",
+    "Name": "Kill Team Intercessor with bolt rifle and grenade launcher",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_c06b-bca8-50c3-b63e"
+      },
+      {
+        "Id": "rule_cd92-208e-7559-9c9b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "c61a-1024-ae80-dd9a"
+      },
+      {
+        "Id": "1e8c-da24-6662-a2e3"
+      },
+      {
+        "Id": "091a-2eb1-b71d-7102"
+      },
+      {
+        "Id": "ff96-544f-1a33-6c54"
+      },
+      {
+        "Id": "623f-5421-81e6-28db"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_4962-be6c-d809-e206",
+    "Name": "Kill Team Sergeant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_ef04-837e-5305-2883"
+      },
+      {
+        "Id": "rule_cd92-208e-7559-9c9b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "c61a-1024-ae80-dd9a"
+      },
+      {
+        "Id": "1e8c-da24-6662-a2e3"
+      },
+      {
+        "Id": "091a-2eb1-b71d-7102"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_84f7-2150-fe04-4f8b",
+    "Name": "Kill Team Heavy Intercessor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_0c56-a376-2f28-4266"
+      },
+      {
+        "Id": "rule_f8b6-3181-7e49-fb57"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "c61a-1024-ae80-dd9a"
+      },
+      {
+        "Id": "7ec1-db50-b43e-accb"
+      },
+      {
+        "Id": "706c-da54-2d65-4603"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_ca58-2c6d-1b85-bc76",
+    "Name": "Kill Team Infiltrator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_0ea5-a4b3-fd52-f94b"
+      },
+      {
+        "Id": "rule_afc0-1ac-ce23-3a4f"
+      },
+      {
+        "Id": "rule_ada6-bac1-ffe0-d6f7",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_c05d-f4c3-f091-4938"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "c61a-1024-ae80-dd9a"
+      },
+      {
+        "Id": "7ec1-db50-b43e-accb"
+      },
+      {
+        "Id": "482f-8359-6be6-4028"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_ba3d-91bd-62a4-44ec",
+    "Name": "Veteran",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_8cfe-ed9f-bf3e-4335"
+      },
+      {
+        "Id": "rule_079c-c14f-83f1-25a6"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "a52-b080-e77f-d369"
+      },
+      {
+        "Id": "9f27-9fb9-aace-fe07"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_075f-d1fd-2889-31cf",
+    "Name": "Sgt",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_8cfe-ed9f-bf3e-4335"
+      },
+      {
+        "Id": "rule_079c-c14f-83f1-25a6"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "8213-cf63-41e1-befd"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_13c9-7b74-3736-15b4",
+    "Name": "Intercessor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_c58a-b496-ac64-9781"
+      },
+      {
+        "Id": "rule_088e-3c36-f4e3-6140"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_d773-5ee0-d647-efaa",
+    "Name": "Heavy Intercessor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_32f2-fdf1-ee27-8c68"
+      },
+      {
+        "Id": "rule_088e-3c36-f4e3-6140"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "7ec1-db50-b43e-accb"
+      },
+      {
+        "Id": "aae9-d039-e99b-9311"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_68d2-9aaa-f6cb-f4dc",
+    "Name": "Kill Team Sergeant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_88c1-4908-1f18-b1bc"
+      },
+      {
+        "Id": "rule_088e-3c36-f4e3-6140"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_407d-7aa3-78a1-0d7e",
+    "Name": "Deathwatch Veteran",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_8cfe-ed9f-bf3e-4335"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_079c-c14f-83f1-25a6"
+      },
+      {
+        "Id": "8213-cf63-41e1-befd"
+      }
+    ],
+    "BaseId": "1"
+  }
+]

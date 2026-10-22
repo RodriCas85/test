@@ -1,0 +1,1021 @@
+[
+  {
+    "Id": "statline_2040",
+    "Name": "Azrael",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_2056",
+    "Name": "Lion's Wrath",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2057",
+    "Name": "The Sword of Secrets",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-4",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2041",
+    "Name": "Belial",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "6",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_2058",
+    "Name": "Master-crafted storm bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2059",
+    "Name": "The Sword of Silence",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2042",
+    "Name": "Sammael",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "7",
+      "LD": "6+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_3104-8d29-e431-05d7",
+    "Name": "Bolt pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2060",
+    "Name": "Master-crafted plasma cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_2061",
+    "Name": "Twin storm bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2062",
+    "Name": "The Raven Sword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2043",
+    "Name": "Ezekiel",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_2063",
+    "Name": "The Deliverer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2064",
+    "Name": "➤ Mind Wipe - witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "D6"
+    }
+  },
+  {
+    "Id": "statline_fdaf-6291-16d1-6051",
+    "Name": "➤ Mind Wipe - focused witchfire",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "D3+3"
+    }
+  },
+  {
+    "Id": "statline_2066",
+    "Name": "Traitor's Bane",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2044",
+    "Name": "Asmodai",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "3+",
+      "W": "4",
+      "LD": "5+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_4f30-1743-64e9-4e82",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2067",
+    "Name": "➤ Crozius Arcanum and Power Weapon - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2068",
+    "Name": "➤ Crozius Arcanum and Power Weapon - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2045",
+    "Name": "Lion El'Jonson",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "10",
+      "SV": "2+",
+      "W": "16",
+      "LD": "5+",
+      "OC": "4",
+      "InSv": "3+"
+    }
+  },
+  {
+    "Id": "statline_2069",
+    "Name": "➤ Arma Luminis - bolt",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2070",
+    "Name": "➤ Arma Luminis - plasma",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_2071",
+    "Name": "➤ Fealty - strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "12",
+      "AP": "-4",
+      "D": "4"
+    }
+  },
+  {
+    "Id": "statline_2072",
+    "Name": "➤ Fealty - sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "12",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2046",
+    "Name": "Lazarus",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "3+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_2073",
+    "Name": "Enmity’s Edge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2047",
+    "Name": "Nephilim Jetfighter",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "T": "8",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "-",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_afcc-75f3-b4df-3302",
+    "Name": "Vortex Grenade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "6\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "*",
+      "AP": "*",
+      "D": "*"
+    }
+  },
+  {
+    "Id": "statline_ef5c-295b-6117-663c",
+    "Name": "Thief of Secrets",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_6dc6-4f92-c8b4-ebda",
+    "Name": "Imperium's Sword",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "7",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_2077",
+    "Name": "Armoured Hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_edd0-6f1c-83e7-c0ea",
+    "Name": "Twin heavy bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2074",
+    "Name": "Blacksword missiles",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "D3+2"
+    }
+  },
+  {
+    "Id": "statline_2075",
+    "Name": "Avenger mega bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "10",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2076",
+    "Name": "Nephilim lascannons",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D3+3"
+    }
+  },
+  {
+    "Id": "statline_2048",
+    "Name": "Ravenwing Dark Talon",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "T": "8",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "-",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_2078",
+    "Name": "Hurricane bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2079",
+    "Name": "Rift cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "D3+1",
+      "BS": "3+",
+      "S": "16",
+      "AP": "-4",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_2049",
+    "Name": "Land Speeder Vengeance",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "14\"",
+      "T": "9",
+      "SV": "3+",
+      "W": "11",
+      "LD": "6+",
+      "OC": "3",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_2081",
+    "Name": "➤ Plasma storm battery - standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3+3",
+      "BS": "3+",
+      "S": "9",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2082",
+    "Name": "➤ Plasma storm battery - supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "D3+3",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1771625322960",
+    "Name": "Assault Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "6",
+      "BS": "3+",
+      "S": "6",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_93a7-3a89-5acc-f91b",
+    "Name": "Heavy Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2050",
+    "Name": "Ravenwing Darkshroud",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "14\"",
+      "T": "8",
+      "SV": "3+",
+      "W": "10",
+      "LD": "6+",
+      "OC": "3",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_4fdd-d999-22cc-3968",
+    "Name": "Ravenwing Black Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "2",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_2085",
+    "Name": "➤ Plasma talon - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_2086",
+    "Name": "➤ Plasma talon - Supercharged",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_7d10-cfe3-411d-4d4a",
+    "Name": "Corvus Hammers",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771622653358",
+    "Name": "Bolt Pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "4",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_ff96-544f-1a33-6c54",
+    "Name": "➤ Grenade Launcher - Krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_623f-5421-81e6-28db",
+    "Name": "➤ Grenade Launcher - Frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "4",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_f80c-d861-9c-8899",
+    "Name": "Ravenwing Ancient",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "2",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_d093-797a-4c76-eea3",
+    "Name": "Bolt pistol",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_3d3c-de2-f42f-1a2e",
+    "Name": "Ravenwing Apothecary",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "2",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_a5d2-9274-970a-3932",
+    "Name": "Ravenwing Champion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "6",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "2",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statlines_1771622847191",
+    "Name": "Master-crafted power weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_5e70-a1d4-9f2f-2414",
+    "Name": "Deathwing Knight",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_2100",
+    "Name": "Mace of Absolution",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2090",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_b16f-9ecf-1c28-7fe8",
+    "Name": "Knight Master",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_2091",
+    "Name": "Great Weapon of the Unforgiven",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2092",
+    "Name": "Relic Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2081-666b-15c3-57cc",
+    "Name": "Deathwing Terminator",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "5\"",
+      "T": "6",
+      "SV": "2+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_83a0-da0c-752f-b4b3",
+    "Name": "Storm bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1771625173114",
+    "Name": "Power fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_bdbd-f82e-7d79-5556",
+    "Name": "➤ Chainfist - Standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "4+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_32a5-0d06-7e77-b1e3",
+    "Name": "➤ Chainfist - Hunter: Monster/Vehicle",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "12",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_ff3c-a4ca-4cf9-933f",
+    "Name": "Power Weapon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_c718-bdaf-b0b4-3f35",
+    "Name": "➤ Plasma cannon - standard",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_33e2-fdb7-dea5-9e36",
+    "Name": "➤ Plasma cannon - supercharge",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "3+",
+      "S": "8",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statlines_1771625417534",
+    "Name": "Heavy Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_0dcb-7280-3d30-0e33",
+    "Name": "➤ Cyclone missile launcher - frag",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "8",
+      "BS": "3+",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_98f0-5dc8-118f-3d9e",
+    "Name": "➤ Cyclone missile launcher - krak",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "10",
+      "AP": "-2",
+      "D": "D3+3"
+    }
+  },
+  {
+    "Id": "statline_7b20-3d1f-c252-30c5",
+    "Name": "Inner Circle Companion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "6\"",
+      "T": "5",
+      "SV": "3+",
+      "W": "3",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_2094",
+    "Name": "➤ Calibanite Greatsword - Strike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "3+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_2095",
+    "Name": "➤ Calibanite Greatsword - Sweep",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "3+",
+      "S": "6",
+      "AP": "-2",
+      "D": "1"
+    }
+  }
+]

@@ -1,0 +1,1330 @@
+[
+  {
+    "Id": "822a-223f-fbd-21e0",
+    "Name": "➤ Las-impulsor - high intensity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2514"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "433f-6684-ff4f-23b7",
+    "Name": "➤ Las-impulsor - low intensity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2515"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "74ec-e144-10c4-7ece",
+    "Name": "➤ Freedom's Hand - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2516"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "51c7-ad78-6365-91ee",
+    "Name": "➤ Freedom's Hand - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2517"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "95dd-25ae-f5e0-f3f8",
+    "Name": "Chainbreaker multi-laser",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2518"
+      }
+    ]
+  },
+  {
+    "Id": "6038-ef92-cb43-2288",
+    "Name": "Close combat weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2519"
+      }
+    ]
+  },
+  {
+    "Id": "7bf3-8655-62ac-6f0d",
+    "Name": "Hekhtur's pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2520"
+      },
+      {
+        "Id": "rule_1"
+      }
+    ]
+  },
+  {
+    "Id": "3a79-406d-aaa7-ed6c",
+    "Name": "➤ Reaper chain-cleaver - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2521"
+      }
+    ]
+  },
+  {
+    "Id": "5e11-8d35-b7a7-ba38",
+    "Name": "➤ Reaper chain-cleaver - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2522"
+      }
+    ]
+  },
+  {
+    "Id": "38d-4520-1309-4074",
+    "Name": "Thermal spear",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2523"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "4"
+      }
+    ]
+  },
+  {
+    "Id": "3d6c-b927-b515-c0d8",
+    "Name": "Armiger autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2524"
+      }
+    ]
+  },
+  {
+    "Id": "19b5-e47a-9e29-d6db",
+    "Name": "Questoris heavy stubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2525"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "a8ae-6973-4131-ab78",
+    "Name": "➤ Reaper chainsword - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775636965671"
+      }
+    ]
+  },
+  {
+    "Id": "17bb-6ba0-56b1-3d3",
+    "Name": "➤ Reaper chainsword - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775636922330"
+      }
+    ]
+  },
+  {
+    "Id": "cea7-7bb7-44c4-89d4",
+    "Name": "➤ Thunderstrike gauntlet - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2526"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "f123-9d4-e554-1559",
+    "Name": "➤ Thunderstrike gauntlet - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2527"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "118d-63f7-70a3-629a",
+    "Name": "➤ Las-impulsor - high intensity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2528"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "6205-84d2-cab4-8894",
+    "Name": "➤ Las-impulsor - low intensity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2529"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "553f-100d-a8d5-5a25",
+    "Name": "Preceptor multi-laser",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2530"
+      }
+    ]
+  },
+  {
+    "Id": "d8eb-d595-9bdc-3cf",
+    "Name": "➤ Plasma decimator - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2531"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "71f5-dc3a-6019-34af",
+    "Name": "➤ Plasma decimator - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2532"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "8057-e9f4-1d1-41f0",
+    "Name": "Volcano lance",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2533"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "feeb-790a-99d5-67fc",
+    "Name": "Conflagration cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2534"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "2fc1-856c-bd08-2f05",
+    "Name": "Thundercoil harpoon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2535"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "4b6f-2df5-d7b6-34dd",
+    "Name": "Meltagun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775634467176"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "3b13-7770-1d2b-9e66",
+    "Name": "Questoris heavy stubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2536"
+      }
+    ]
+  },
+  {
+    "Id": "a5d2-c8c3-3928-fdb6",
+    "Name": "Twin meltagun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2537"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "c28d-679c-9e28-af08",
+    "Name": "Avenger gatling cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2538"
+      }
+    ]
+  },
+  {
+    "Id": "e63e-93fd-e131-fe85",
+    "Name": "Rapid-fire battle cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2539"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "D6+3"
+      }
+    ]
+  },
+  {
+    "Id": "7ec3-aee0-2545-428e",
+    "Name": "Thermal cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2540"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_11",
+        "Info": "6"
+      }
+    ]
+  },
+  {
+    "Id": "8710-73e3-af0d-d850",
+    "Name": "Shieldbreaker missile launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2541"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rules_1775551718420",
+        "Info": "4+"
+      }
+    ]
+  },
+  {
+    "Id": "bd3-71c3-fe65-ab78",
+    "Name": "Twin siegebreaker cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2542"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "7b42-981d-db0-4e83",
+    "Name": "Heavy flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775634248597"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      }
+    ]
+  },
+  {
+    "Id": "575d-daf8-e4c9-7e55",
+    "Name": "Twin conversion beam cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2543"
+      },
+      {
+        "Id": "rule_3422"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "D3"
+      }
+    ]
+  },
+  {
+    "Id": "1a75-a944-d240-6743",
+    "Name": "Asterius volkite culverin",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644343248"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "7bef-2b4a-7e72-86d4",
+    "Name": "Karacnos mortar battery",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2544"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_15"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "6f32-c97f-e3e-8dc0",
+    "Name": "Twin magna lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644648938"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "eb3a-97a1-f83-1fcc",
+    "Name": "Acastus autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644530745"
+      }
+    ]
+  },
+  {
+    "Id": "1898-d8d0-7e42-652d",
+    "Name": "Lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644735915"
+      }
+    ]
+  },
+  {
+    "Id": "3576-4d0d-5fbb-8d1a",
+    "Name": "Acastus ironstorm missile pod",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644584715"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_10"
+      },
+      {
+        "Id": "rule_15"
+      }
+    ]
+  },
+  {
+    "Id": "ee88-6de7-ede9-c612",
+    "Name": "Helios defence missiles",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2545"
+      },
+      {
+        "Id": "rule_10"
+      },
+      {
+        "Id": "rules_1770281727320",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "96f2-c13b-cf32-6785",
+    "Name": "➤ Cerastus shock lance - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "rule_16"
+      },
+      {
+        "Id": "statlines_1775642877911"
+      }
+    ]
+  },
+  {
+    "Id": "c77-ff4f-7801-5bc9",
+    "Name": "Cerastus shock lance",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "2"
+      },
+      {
+        "Id": "statlines_1775642826902"
+      }
+    ]
+  },
+  {
+    "Id": "11a0-34b2-1f4b-854",
+    "Name": "➤ Cerastus shock lance - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775642912327"
+      }
+    ]
+  },
+  {
+    "Id": "68fa-efa8-4959-bdc6",
+    "Name": "Castigator bolt cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775641944352"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "5fbe-9cfd-dbf8-6752",
+    "Name": "➤ Tempest warblade - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775642088560"
+      }
+    ]
+  },
+  {
+    "Id": "79af-f718-ea61-3240",
+    "Name": "➤ Tempest warblade - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775642121585"
+      }
+    ]
+  },
+  {
+    "Id": "c2bd-d1fa-d106-19ec",
+    "Name": "Twin heavy bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775640305695"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "20a7-a693-187c-3cff",
+    "Name": "Acheron flame cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "statlines_1775640262657"
+      }
+    ]
+  },
+  {
+    "Id": "3267-9d45-fb27-929d",
+    "Name": "➤ Reaper chainfist - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775640343624"
+      }
+    ]
+  },
+  {
+    "Id": "ae19-5f40-8f99-8d1b",
+    "Name": "➤ Reaper chainfist - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775640385098"
+      }
+    ]
+  },
+  {
+    "Id": "fcad-44c-ff88-9d66",
+    "Name": "➤ Reaper chainsword - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1722"
+      }
+    ]
+  },
+  {
+    "Id": "c460-106f-f9f2-69d4",
+    "Name": "➤ Reaper chainsword - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1723"
+      }
+    ]
+  },
+  {
+    "Id": "dc7b-57c8-2678-6b40",
+    "Name": "➤ Thunderstrike gauntlet - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2546"
+      }
+    ]
+  },
+  {
+    "Id": "d2f7-1f2a-e319-9e6a",
+    "Name": "➤ Thunderstrike gauntlet - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2547"
+      }
+    ]
+  },
+  {
+    "Id": "8f72-a428-9ee4-acb2",
+    "Name": "➤ Atrapos lascutter - high intensity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2548"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "7dcf-78c3-82e1-b6fa",
+    "Name": "➤ Atrapos lascutter - low intensity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2549"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "8729-3dcc-8ed7-752a",
+    "Name": "➤ Atrapos lascutter - high intensity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2550"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "c9f0-76bb-4602-e4f7",
+    "Name": "➤ Atrapos lascutter - low intensity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2551"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "4312-4668-8ce2-3045",
+    "Name": "➤ Graviton singularity cannon - singularity",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775641646009"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_4"
+      },
+      {
+        "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "2f4-5b32-a9b5-7abc",
+    "Name": "➤ Graviton singularity cannon - contained",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775641589017"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "ea44-b29b-859c-45ac",
+    "Name": "Phased plasma-fusil",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775643154611"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "e803-b7a9-6d6b-85cf",
+    "Name": "Lightning cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775643079819"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "63a2-7ba2-3845-f2de",
+    "Name": "Graviton crusher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775643710035"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "8e62-813d-11cb-9310",
+    "Name": "Volkite chierovile",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2552"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "3a9f-c444-b1d4-c31c",
+    "Name": "Twin rad cleanser",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775643393040"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_7"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "b5d6-3736-74ec-1e93",
+    "Name": "Volkite veuglaire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775645022352"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "9401-8675-2bac-35b",
+    "Name": "Graviton pulsar",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644963775"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rules_1770281688087",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "b9d1-1e57-836-a531",
+    "Name": "Lightning lock",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775645315515"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "fec2-9b94-3ebd-f1a4",
+    "Name": "Conversion beam cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2553"
+      },
+      {
+        "Id": "rule_3422"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "D3"
+      }
+    ]
+  },
+  {
+    "Id": "ec3a-304-38d3-eb09",
+    "Name": "Siege claw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775645202346"
+      }
+    ]
+  },
+  {
+    "Id": "165d-95f5-f19e-8016",
+    "Name": "Rad cleanser",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775645139390"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rules_1770281506417",
+        "Info": "2+"
+      }
+    ]
+  },
+  {
+    "Id": "b6b7-cce0-ad60-bdf4",
+    "Name": "Armoured feet",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644024565"
+      }
+    ]
+  },
+  {
+    "Id": "ee46-9279-756e-de84",
+    "Name": "Icarus autocannons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2554"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "712a-105f-a24e-badb",
+    "Name": "Ironstorm missile pod",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2555"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_15"
+      }
+    ]
+  },
+  {
+    "Id": "4dbb-a82d-89ff-e62e",
+    "Name": "Stormspear rocket pod",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2556"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762431302280",
+    "Name": "Questoris multi-laser",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2557"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762431766337",
+    "Name": "Twin Icarus autocannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2558"
+      },
+      {
+        "Id": "rules_1770281727320",
+        "Info": "2+"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762432085991",
+    "Name": "Conversion beam obliterator",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2559"
+      },
+      {
+        "Id": "rule_9",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3422"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762432138205",
+    "Name": "➤Plasma executor – standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2560"
+      },
+      {
+        "Id": "rule_13"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762432193416",
+    "Name": "➤Plasma executor – supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2561"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762432296100",
+    "Name": "Phosphor blaster",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2562"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762432345362",
+    "Name": "Twin incendine combustor",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2563"
+      },
+      {
+        "Id": "rule_18"
+      },
+      {
+        "Id": "rule_20"
+      },
+      {
+        "Id": "rule_7"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762510001131",
+    "Name": "➤ Hekaton siege claw – strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2564"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1762510128819",
+    "Name": "➤ Hekaton siege claw – sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2565"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465439411",
+    "Name": "Chastiser gatling cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465391033"
+      },
+      {
+        "Id": "rule_5"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465491172",
+    "Name": "Frag bombard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465455766"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_13"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "D6+3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465568921",
+    "Name": "Questoris heavy stubber",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465535746"
+      },
+      {
+        "Id": "rule_5"
+      },
+      {
+        "Id": "rule_19",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465700403",
+    "Name": "➤ Bellatus reaper chainsword – strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465592255"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775465716179",
+    "Name": "➤ Bellatus reaper chainsword – sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775465634697"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775472034002",
+    "Name": "➤ Thundershock spear – strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775471918086"
+      },
+      {
+        "Id": "rule_16"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775472088912",
+    "Name": "➤ Thundershock spear – sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775472046892"
+      },
+      {
+        "Id": "rule_16"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775472171386",
+    "Name": "Titanic feet",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775472132090"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775633735448",
+    "Name": "Titanic feet",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775633578393"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775637553811",
+    "Name": "➤ Reaper chainsword - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775637510619"
+      },
+      {
+        "Id": "rule_17"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775637571530",
+    "Name": "➤ Reaper chainsword - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775637458054"
+      },
+      {
+        "Id": "rule_4"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1775644320994",
+    "Name": "Titanic feet",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1775644286087"
+      }
+    ]
+  }
+]

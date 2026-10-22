@@ -1,0 +1,1712 @@
+[
+  {
+    "Id": "profile_ca62-cc3a-b9a2-9c50",
+    "Name": "Orikan the Diviner",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2673"
+      },
+      {
+        "Id": "rules_1781170418086",
+        "Info": ""
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_184"
+      },
+      {
+        "Id": "rule_185",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_186"
+      },
+      {
+        "Id": "e091-87a3-25fd-3d92"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_2421-336c-d2d0-fef5",
+    "Name": "Imotekh the Stormlord",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2674"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_188",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_190"
+      },
+      {
+        "Id": "rule_191"
+      },
+      {
+        "Id": "8c94-1bc5-8234-bdfd"
+      },
+      {
+        "Id": "890c-f3c2-7836-3de9"
+      },
+      {
+        "Id": "aaa7-fb9-a561-3732"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_b58-b800-d98e-9e43",
+    "Name": "Illuminor Szeras",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2675"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_12"
+      },
+      {
+        "Id": "rule_199"
+      },
+      {
+        "Id": "rule_200"
+      },
+      {
+        "Id": "rule_201",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_202"
+      },
+      {
+        "Id": "c780-9e28-a20b-bca5"
+      },
+      {
+        "Id": "4ce9-c2fe-5695-e7b6"
+      },
+      {
+        "Id": "743d-ad75-63c3-16fe"
+      }
+    ],
+    "BaseId": "16"
+  },
+  {
+    "Id": "profile_27ca-42d0-dc26-8695",
+    "Name": "Trazyn the Infinite",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2676"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_208",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_209"
+      },
+      {
+        "Id": "rule_210"
+      },
+      {
+        "Id": "e703-6bad-c55a-4400"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_47c8-8c7-55bc-4279",
+    "Name": "Royal Warden",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2677"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_212"
+      },
+      {
+        "Id": "rule_213"
+      },
+      {
+        "Id": "a21a-2661-a68-9800"
+      },
+      {
+        "Id": "843a-9fc9-5d3e-1e5c"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_d565-ca18-99bd-b5c0",
+    "Name": "Skorpekh Lord",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2678"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_215"
+      },
+      {
+        "Id": "rule_216"
+      },
+      {
+        "Id": "rule_217",
+        "Info": "4+"
+      },
+      {
+        "Id": "2dc1-20a9-798f-ae39"
+      },
+      {
+        "Id": "9d93-d2bb-40d8-5108"
+      },
+      {
+        "Id": "f46e-571-18e5-42e1"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_5a1c-b997-3cb3-5506",
+    "Name": "Lokhust Lord",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2679"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_219",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_220"
+      },
+      {
+        "Id": "rule_221"
+      },
+      {
+        "Id": "3bb9-cfd3-a1f4-1d39"
+      },
+      {
+        "Id": "7403-f6-6b4-944f"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_27c2-cff5-9ce5-176d",
+    "Name": "Catacomb Command Barge",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2680"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_227",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_228",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_229"
+      },
+      {
+        "Id": "9b0b-7c7f-e2ef-3f29"
+      },
+      {
+        "Id": "3bb9-cfd3-a1f4-1d39"
+      },
+      {
+        "Id": "679a-7b7b-e0e8-1de5"
+      },
+      {
+        "Id": "rule_230"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_255f-c2da-feed-5c8b",
+    "Name": "Overlord",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2681"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_341"
+      },
+      {
+        "Id": "rule_231"
+      },
+      {
+        "Id": "rule_232",
+        "Info": "4+"
+      },
+      {
+        "Id": "da09-ceb4-d0ec-e297"
+      },
+      {
+        "Id": "ee65-1ae9-d6a8-bd85"
+      },
+      {
+        "Id": "rule_3"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_8de-5db6-b19e-104c",
+    "Name": "Technomancer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2682"
+      },
+      {
+        "Id": "rules_1781170418086",
+        "Info": ""
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_235"
+      },
+      {
+        "Id": "rule_236"
+      },
+      {
+        "Id": "542b-4858-7bca-539e"
+      },
+      {
+        "Id": "b711-1774-efa4-2a82"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_b4b-f591-8741-ffd5",
+    "Name": "Psychomancer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2683"
+      },
+      {
+        "Id": "rules_1781170418086",
+        "Info": ""
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_238",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_239"
+      },
+      {
+        "Id": "3a24-e414-683e-bd2"
+      },
+      {
+        "Id": "cf52-891-eedd-b476"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_e241-7e15-5a1d-54fb",
+    "Name": "Chronomancer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2684"
+      },
+      {
+        "Id": "rules_1781170418086",
+        "Info": ""
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_241"
+      },
+      {
+        "Id": "rule_242"
+      },
+      {
+        "Id": "rule_243",
+        "Info": "4+"
+      },
+      {
+        "Id": "e665-4c61-8e94-15a0"
+      },
+      {
+        "Id": "6c9d-d231-c92e-45fa"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_2d47-39ce-ad3a-b47d",
+    "Name": "Plasmancer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2685"
+      },
+      {
+        "Id": "rules_1781170418086",
+        "Info": ""
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_245"
+      },
+      {
+        "Id": "rule_246"
+      },
+      {
+        "Id": "128a-5a6c-a027-7cbf"
+      },
+      {
+        "Id": "5efc-d74b-a7cd-c449"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_b82c-b711-6d65-30b5",
+    "Name": "Necron Warriors",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2686"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_247"
+      },
+      {
+        "Id": "1b73-4952-9b2a-e193"
+      },
+      {
+        "Id": "a21a-2661-a68-9800"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_6335-f9f1-2f48-4b16",
+    "Name": "Immortals",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2687"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_248"
+      },
+      {
+        "Id": "1037-e515-220f-7274"
+      },
+      {
+        "Id": "8551-128a-bd14-e9a7"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_9215-6472-fced-5024",
+    "Name": "Canoptek Reanimator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2688"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_249",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "600b-6620-1a45-3eb"
+      },
+      {
+        "Id": "7bd6-e428-8f03-6d38"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_1953-376f-1d09-dde4",
+    "Name": "Hexmark Destroyer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2689"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_250"
+      },
+      {
+        "Id": "rule_251"
+      },
+      {
+        "Id": "a21a-2661-a68-9800"
+      },
+      {
+        "Id": "edee-a8c5-da40-3546"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_494a-883-74b5-7dd4",
+    "Name": "Lychguard",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2690"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_253"
+      },
+      {
+        "Id": "e869-961d-a0ad-6ebf"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_c8a6-d361-66fc-c3af",
+    "Name": "Deathmarks",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2691"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_254"
+      },
+      {
+        "Id": "d103-220a-14-bebd"
+      },
+      {
+        "Id": "equipment_1771232813356"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_d871-93d1-8152-c52a",
+    "Name": "Flayed Ones",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2692"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_255"
+      },
+      {
+        "Id": "a421-ef3a-ae37-4262"
+      }
+    ],
+    "BaseId": "8"
+  },
+  {
+    "Id": "profile_ada9-f613-e1d8-dfb",
+    "Name": "Cryptothralls",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2693"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_256"
+      },
+      {
+        "Id": "rule_257"
+      },
+      {
+        "Id": "rule_258"
+      },
+      {
+        "Id": "aee8-c283-188a-e452"
+      },
+      {
+        "Id": "dc1d-1951-6a45-606c"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_14d-53e1-498-7525",
+    "Name": "Skorpekh Destroyers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2694"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_259"
+      },
+      {
+        "Id": "5fb9-6d8e-9546-8f9b"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_2320-fe01-4368-be15",
+    "Name": "Triarch Stalker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2695"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "8\""
+      },
+      {
+        "Id": "rule_260",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_261"
+      },
+      {
+        "Id": "b9ff-de53-d39f-c6d0"
+      },
+      {
+        "Id": "619d-1c81-7792-b712"
+      },
+      {
+        "Id": "4ce4-6834-7f86-1815"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_3b43-46a-877b-1c65",
+    "Name": "C'tan Shard of the Deceiver",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2696"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_339"
+      },
+      {
+        "Id": "rule_340"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_262",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_263"
+      },
+      {
+        "Id": "e706-6d5a-296e-2900"
+      },
+      {
+        "Id": "386e-e5bb-7856-3b19"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_3e4c-e6ce-4c39-19e3",
+    "Name": "C'tan Shard of the Nightbringer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2697"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_339"
+      },
+      {
+        "Id": "rule_340"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_264",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_265"
+      },
+      {
+        "Id": "ed19-391a-6463-ac3b"
+      },
+      {
+        "Id": "2148-bfe5-6337-b045"
+      },
+      {
+        "Id": "38b5-927b-ad2-a0e"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_9947-bca5-ee0f-16e4",
+    "Name": "C'tan Shard of the Void Dragon",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2698"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_339"
+      },
+      {
+        "Id": "rule_340"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_266",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_267"
+      },
+      {
+        "Id": "9107-e2b3-80b7-561"
+      },
+      {
+        "Id": "90d-5745-8a47-8e72"
+      },
+      {
+        "Id": "c6a8-9ad6-eaf2-784d"
+      },
+      {
+        "Id": "b8a1-c2e9-7745-b65e"
+      },
+      {
+        "Id": "b769-1498-686d-e27a"
+      }
+    ],
+    "BaseId": "16"
+  },
+  {
+    "Id": "profile_4702-9574-e392-eea1",
+    "Name": "Transcendent C'tan",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2699"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_339"
+      },
+      {
+        "Id": "rule_340"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_268",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_269"
+      },
+      {
+        "Id": "rule_270"
+      },
+      {
+        "Id": "b099-197b-ef50-5cc6"
+      },
+      {
+        "Id": "406b-c293-1a3f-4f38"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_9341-1de5-e911-84d2",
+    "Name": "Canoptek Spyders",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2700"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_272"
+      },
+      {
+        "Id": "e02c-69ca-d6f6-245c"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_971b-8c49-4470-694a",
+    "Name": "Canoptek Scarab Swarms",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2701"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_273"
+      },
+      {
+        "Id": "rule_274"
+      },
+      {
+        "Id": "bd8d-363e-2b15-d79d"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_689c-1c75-aeac-10fa",
+    "Name": "Ophydian Destroyers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2702"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_275"
+      },
+      {
+        "Id": "a6df-1492-4593-b91c"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_1bd4-7120-de85-41fa",
+    "Name": "Tomb Blades",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2703"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "9\""
+      },
+      {
+        "Id": "rule_277"
+      },
+      {
+        "Id": "bf8a-cce3-4fb2-4356"
+      },
+      {
+        "Id": "equipment_1771234588972"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_4587-c358-f38c-592c",
+    "Name": "Triarch Praetorians",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2704"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_281"
+      },
+      {
+        "Id": "c99c-c9c2-93f5-335b"
+      },
+      {
+        "Id": "d146-d9c2-810d-3ca5"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_619a-b8da-477b-3995",
+    "Name": "Canoptek Wraiths",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2705"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_282"
+      },
+      {
+        "Id": "rule_283",
+        "Info": "4+"
+      },
+      {
+        "Id": "d85f-a077-c347-5d52"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_9b54-de16-5f4a-154c",
+    "Name": "Annihilation Barge",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2706"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_284"
+      },
+      {
+        "Id": "rule_285",
+        "Info": "4+"
+      },
+      {
+        "Id": "9b0b-7c7f-e2ef-3f29"
+      },
+      {
+        "Id": "e975-712f-73be-52c1"
+      },
+      {
+        "Id": "3877-caf9-6eb1-9139"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_7c71-cfc9-f2c9-ad9a",
+    "Name": "Doomsday Ark",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2707"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_286",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_287"
+      },
+      {
+        "Id": "rule_288"
+      },
+      {
+        "Id": "95b8-61a6-b225-fe78"
+      },
+      {
+        "Id": "5758-94f7-19de-b941"
+      },
+      {
+        "Id": "3877-caf9-6eb1-9139"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_44f8-fcc5-33db-5aec",
+    "Name": "Lokhust Destroyers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2708"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_289"
+      },
+      {
+        "Id": "9b0b-7c7f-e2ef-3f29"
+      },
+      {
+        "Id": "equipment_1771232813356"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_49b-3fbc-163-dbb2",
+    "Name": "Lokhust Heavy Destroyers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2709"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_290"
+      },
+      {
+        "Id": "4160-7fc0-75c0-535"
+      },
+      {
+        "Id": "equipment_1771232813356"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_7519-6b4a-c8d5-72b0",
+    "Name": "Canoptek Doomstalker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2710"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_291"
+      },
+      {
+        "Id": "rule_292"
+      },
+      {
+        "Id": "rule_293",
+        "Info": "4+"
+      },
+      {
+        "Id": "4e8d-ef6c-b059-73c2"
+      },
+      {
+        "Id": "9ed1-a85a-26b7-fa8e"
+      },
+      {
+        "Id": "f022-93f3-d4b5-4723"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_112f-249b-2b31-18b7",
+    "Name": "Ghost Ark",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2711"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_294",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_295"
+      },
+      {
+        "Id": "dc44-fdb4-c306-1613"
+      },
+      {
+        "Id": "3877-caf9-6eb1-9139"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_c74f-ad90-fa44-9205",
+    "Name": "Night Scythe",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2712"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_296"
+      },
+      {
+        "Id": "rule_297"
+      },
+      {
+        "Id": "rule_298"
+      },
+      {
+        "Id": "8014-ef6a-c1e9-a933"
+      },
+      {
+        "Id": "3877-caf9-6eb1-9139"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_5906-d95a-ab3e-19d4",
+    "Name": "Doom Scythe",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2713"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_299"
+      },
+      {
+        "Id": "rule_300"
+      },
+      {
+        "Id": "75d7-ac76-dac1-d816"
+      },
+      {
+        "Id": "e975-712f-73be-52c1"
+      },
+      {
+        "Id": "3877-caf9-6eb1-9139"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_95e0-73ef-66fa-be35",
+    "Name": "Obelisk",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2714"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_301"
+      },
+      {
+        "Id": "rule_302"
+      },
+      {
+        "Id": "3650-8cc1-fd2b-625b"
+      },
+      {
+        "Id": "c6fc-c8d-56d2-3324"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_dd52-5616-8d3a-4041",
+    "Name": "Tesseract Vault",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2715"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+3"
+      },
+      {
+        "Id": "rule_303"
+      },
+      {
+        "Id": "rule_304"
+      },
+      {
+        "Id": "rule_305",
+        "Info": "4+"
+      },
+      {
+        "Id": "3650-8cc1-fd2b-625b"
+      },
+      {
+        "Id": "8f-4479-602e-6ea9"
+      },
+      {
+        "Id": "equipment_1760260564237"
+      },
+      {
+        "Id": "equipment_1760260705592"
+      },
+      {
+        "Id": "equipment_1760260773957"
+      }
+    ],
+    "BaseId": "18"
+  },
+  {
+    "Id": "profile_d5b9-ce3b-1ca1-5b71",
+    "Name": "Monolith",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2716"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_306"
+      },
+      {
+        "Id": "rule_307"
+      },
+      {
+        "Id": "6bf8-16c0-9110-37e"
+      },
+      {
+        "Id": "d431-ae78-fb15-ae6f"
+      },
+      {
+        "Id": "42ba-a9fa-18da-e9ad"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profile_d6a0-ee6-dc2a-c253",
+    "Name": "Szarekh",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2717"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_308",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_309"
+      },
+      {
+        "Id": "rule_310"
+      },
+      {
+        "Id": "rule_311"
+      },
+      {
+        "Id": "9429-cbf8-2aba-b39c"
+      },
+      {
+        "Id": "8477-8fb5-1088-6956"
+      },
+      {
+        "Id": "e80c-da1b-c625-6640"
+      },
+      {
+        "Id": "rules_1770895666620",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rules_1770895681117",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rules_1770895689680",
+        "Info": "(Aura)"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_3836-dd6-8f9d-d5af",
+    "Name": "Convergence of Dominion",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2718"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_313",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_314"
+      },
+      {
+        "Id": "rule_315"
+      },
+      {
+        "Id": "a69f-822c-4c1f-cd2d"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_af7e-af40-2ff1-330a",
+    "Name": "Seraptek Heavy Construct",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2719"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_324"
+      },
+      {
+        "Id": "rule_325"
+      },
+      {
+        "Id": "rule_326",
+        "Info": "5+"
+      },
+      {
+        "Id": "f7bc-c56-e829-fc4a"
+      },
+      {
+        "Id": "66f9-8c5a-6b24-cf8f"
+      },
+      {
+        "Id": "94a2-f8f6-6dbf-c4cb"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_b45b-bcca-6563-9f8f",
+    "Name": "Overlord with Translocation Shroud",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_2720"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rule_341"
+      },
+      {
+        "Id": "rule_335"
+      },
+      {
+        "Id": "rule_336",
+        "Info": "4+"
+      },
+      {
+        "Id": "ee65-1ae9-d6a8-bd85"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_226"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770890759820",
+    "Name": "Geomancer",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statlines_1770890687423"
+      },
+      {
+        "Id": "rules_1781170418086",
+        "Info": ""
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rules_1770890877903"
+      },
+      {
+        "Id": "rules_1770890908007"
+      },
+      {
+        "Id": "equipment_1770890979945"
+      },
+      {
+        "Id": "equipment_1770891839151"
+      },
+      {
+        "Id": "equipment_1770891873554"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770892648314",
+    "Name": "Nekrosor Ammentar",
+    "Type": "Profile",
+    "BaseId": "16",
+    "Children": [
+      {
+        "Id": "statlines_1770892663821"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rules_1770892767576"
+      },
+      {
+        "Id": "rules_1770892790270"
+      },
+      {
+        "Id": "rules_1770892797880"
+      },
+      {
+        "Id": "rules_1770892810058"
+      },
+      {
+        "Id": "equipment_1770893709887"
+      },
+      {
+        "Id": "equipment_1770893751414"
+      },
+      {
+        "Id": "equipment_1770893773576"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770895498309",
+    "Name": "Triarchal Menhir",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statlines_1770895442652"
+      },
+      {
+        "Id": "8ae9-2131-707e-c25a"
+      },
+      {
+        "Id": "3a69-7555-c9a8-ca87"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770896928685",
+    "Name": "Canoptek Macrocytes",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1770896881592"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "8\""
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rules_1770897229661"
+      },
+      {
+        "Id": "rules_1770897244884"
+      },
+      {
+        "Id": "rules_1770897260599"
+      },
+      {
+        "Id": "equipment_1770897660890"
+      },
+      {
+        "Id": "equipment_1770897627623"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1770898580967",
+    "Name": "Canoptek Tomb Crawlers",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statlines_1770898613361"
+      },
+      {
+        "Id": "rule_345"
+      },
+      {
+        "Id": "rules_1770898725930"
+      },
+      {
+        "Id": "rules_1770898741945"
+      },
+      {
+        "Id": "equipment_1770899016736"
+      },
+      {
+        "Id": "equipment_1770899055389"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791195327713",
+    "Name": "Plasmacyte",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_276",
+        "Info": ""
+      }
+    ]
+  }
+]

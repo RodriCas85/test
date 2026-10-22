@@ -1,0 +1,1218 @@
+[
+  {
+    "Id": "ef5c-295b-6117-663c",
+    "Name": "Thief of Secrets",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ef5c-295b-6117-663c"
+      }
+    ]
+  },
+  {
+    "Id": "6dc6-4f92-c8b4-ebda",
+    "Name": "Imperium's Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_6dc6-4f92-c8b4-ebda"
+      }
+    ]
+  },
+  {
+    "Id": "afcc-75f3-b4df-3302",
+    "Name": "Vortex Grenade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_afcc-75f3-b4df-3302"
+      },
+      {
+        "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "d1f3-99a9-d3b9-20d1",
+    "Name": "Vigil spear",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_d1f3-99a9-d3b9-20d1"
+      }
+    ]
+  },
+  {
+    "Id": "af24-5cc3-6b6a-b66b",
+    "Name": "Vigil spear",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_af24-5cc3-6b6a-b66b"
+      },
+      {
+        "Id": "rule_kw_lance"
+      }
+    ]
+  },
+  {
+    "Id": "f250-8a64-779a-ca3a",
+    "Name": "Hellfire Extremis",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_f250-8a64-779a-ca3a"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Infantry 4+"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      },
+      {
+        "Id": "rule_kw_ignores-cover"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "f25c-9d73-6855-c35a",
+    "Name": "Master-crafted power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_f25c-9d73-6855-c35a"
+      }
+    ]
+  },
+  {
+    "Id": "b695-6a40-93a3-f048",
+    "Name": "Armoured Hull",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_b695-6a40-93a3-f048"
+      }
+    ]
+  },
+  {
+    "Id": "85c5-d77a-762-df62",
+    "Name": "Hurricane bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_85c5-d77a-762-df62"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "6"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "11d9-6915-a37f-3504",
+    "Name": "Twin assault cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_9cb5-df8b-513f-7310"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "fe26-6685-7cb7-67c9",
+    "Name": "Twin lascannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_99ec-a2b1-66de-543e"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "b1e7-499-b467-b78",
+    "Name": "Blackstar rocket launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_b1e7-499-b467-b78"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "58c9-ffce-1cb1-e267",
+    "Name": "Stormstrike missile launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_58c9-ffce-1cb1-e267"
+      }
+    ]
+  },
+  {
+    "Id": "83a0-da0c-752f-b4b3",
+    "Name": "Storm bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "9f27-9fb9-aace-fe07",
+    "Name": "Power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_358b-8872-11ef-8159"
+      }
+    ]
+  },
+  {
+    "Id": "663d-7f7d-1e20-7c2b",
+    "Name": "Thunder Hammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_690f-4f3d-056a-23c0"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "bdbd-f82e-7d79-5556",
+    "Name": "➤ Chainfist - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_bdbd-f82e-7d79-5556"
+      }
+    ]
+  },
+  {
+    "Id": "32a5-0d06-7e77-b1e3",
+    "Name": "➤ Chainfist - Hunter: Monster/Vehicle",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_32a5-0d06-7e77-b1e3"
+      }
+    ]
+  },
+  {
+    "Id": "87f-efba-9858-45bc",
+    "Name": "Power fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3a24-34af-7558-5365"
+      }
+    ]
+  },
+  {
+    "Id": "991-c41b-7d4c-ac72",
+    "Name": "Twin lightning claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7f1a-9741-2ce8-dd5e"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "7a52-ba2c-7f06-2b53",
+    "Name": "Assault Cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2217"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "f6d4-6a8f-9eab-fc4a",
+    "Name": "Heavy Flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2219"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "8184-16b0-2aed-3ac9",
+    "Name": "➤ Plasma cannon - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_8184-16b0-2aed-3ac9"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "7b46-473b-f810-b925",
+    "Name": "➤ Plasma cannon - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7b46-473b-f810-b925"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      }
+    ]
+  },
+  {
+    "Id": "0dcb-7280-3d30-0e33",
+    "Name": "➤ Cyclone missile launcher - frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_0dcb-7280-3d30-0e33"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "98f0-5dc8-118f-3d9e",
+    "Name": "➤ Cyclone missile launcher - krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_98f0-5dc8-118f-3d9e"
+      }
+    ]
+  },
+  {
+    "Id": "091a-2eb1-b71d-7102",
+    "Name": "Knives and Fists",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_091a-2eb1-b71d-7102"
+      }
+    ]
+  },
+  {
+    "Id": "c61a-1024-ae80-dd9a",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_d093-797a-4c76-eea3"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "a6dc-1923-9f2a-9aea",
+    "Name": "Castellan Launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_a6dc-1923-9f2a-9aea"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      }
+    ]
+  },
+  {
+    "Id": "4aaf-3138-04dc-608f",
+    "Name": "Superfrag missile launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2222"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      }
+    ]
+  },
+  {
+    "Id": "6f0d-9f9f-21d6-a85e",
+    "Name": "Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_6f0d-9f9f-21d6-a85e"
+      }
+    ]
+  },
+  {
+    "Id": "fe04-97bc-6b13-fd1c",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_fe04-97bc-6b13-fd1c"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1765795834878",
+    "Name": "Pyreblaster",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_549b-ba24-d0d2-84e5"
+      },
+      {
+        "Id": "rule_kw_ignores-cover"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "4a80-2594-8839-c0bf",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4a80-2594-8839-c0bf"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "5edb-fb23-55e8-8415",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5edb-fb23-55e8-8415"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "2333-a3fe-e6af-747",
+    "Name": "➤ Plasma incinerator - Standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2333-a3fe-e6af-747"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      }
+    ]
+  },
+  {
+    "Id": "7bcf-8a8f-67e6-2dca",
+    "Name": "➤ Plasma incinerator - Supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7bcf-8a8f-67e6-2dca"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1765796015550",
+    "Name": "Vengor launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2245"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_indirect-fire"
+      }
+    ]
+  },
+  {
+    "Id": "b7a5-8147-72e3-89fe",
+    "Name": "Superkrak missile launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2223"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      }
+    ]
+  },
+  {
+    "Id": "1e8c-da24-6662-a2e3",
+    "Name": "Deathwatch bolt rifle",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2236"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "ff96-544f-1a33-6c54",
+    "Name": "➤ Grenade Launcher - Krak",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ff96-544f-1a33-6c54"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "623f-5421-81e6-28db",
+    "Name": "➤ Grenade Launcher - Frag",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_623f-5421-81e6-28db"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "b493-1abc-789e-203a",
+    "Name": "Power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_b493-1abc-789e-203a"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1765795693016",
+    "Name": "Hand flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5dec-ac64-4bf5-7d6c"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "7d4-47b7-439b-b2ca",
+    "Name": "Thunder Hammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7d4-47b7-439b-b2ca"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "7ec1-db50-b43e-accb",
+    "Name": "Ceramite Fists",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7ec1-db50-b43e-accb"
+      }
+    ]
+  },
+  {
+    "Id": "706c-da54-2d65-4603",
+    "Name": "Deathwatch heavy bolt rifle",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2225"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "98e7-e26d-8e58-51e5",
+    "Name": "➤ Melta Rifle HUNTER:Monster/Vehicle",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_98e7-e26d-8e58-51e5"
+      },
+      {
+        "Id": "rule_kw_melta",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "71ba-1eac-5d3f-e9c7",
+    "Name": "➤ Melta Rifle",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_71ba-1eac-5d3f-e9c7"
+      },
+      {
+        "Id": "rule_kw_melta",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "6aed-0404-75a7-f4e6",
+    "Name": "➤ Multi-melta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_6aed-0404-75a7-f4e6"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_melta",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "4dd2-b514-f2e7-5f10",
+    "Name": "➤Multi-melta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4dd2-b514-f2e7-5f10"
+      },
+      {
+        "Id": "rule_kw_hunter",
+        "Info": "Monster/Vehicle"
+      },
+      {
+        "Id": "rule_kw_melta",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1765796492001",
+    "Name": "Fragstorm grenade launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_b2-9e09-20e1-6b64"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "5be5-bda3-d931-b3cb",
+    "Name": "Auto boltstorm gauntlets",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5be5-bda3-d931-b3cb"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "09a6-8358-2593-150b",
+    "Name": "Twin power fists",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2224"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "567f-9ebe-d264-bbc5",
+    "Name": "➤ Flamestorm gauntlets (Ranged)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_567f-9ebe-d264-bbc5"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "1648-8655-64eb-2930",
+    "Name": "➤ Flamestorm gauntlets (Close-quarters)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1648-8655-64eb-2930"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "8dbf-1436-3106-296a",
+    "Name": "Deathwatch heavy bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2226"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "482f-8359-6be6-4028",
+    "Name": "Bolt sniper rifle",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_482f-8359-6be6-4028"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "70e2-227f-7fe-f661",
+    "Name": "Deathwatch marksman bolt carbine",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_70e2-227f-7fe-f661"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "a612-8000-b81-e736",
+    "Name": "Deathwatch occulus bolt carbine",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2227"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_ignores-cover"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "4956-af00-f27d-a58b",
+    "Name": "Paired combat blades",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2228"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "2772-9ad4-7ad9-7e4c",
+    "Name": "Special-issue bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_e1ab-6cb7-25ff-3ae9"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "a4e9-7a48-816f-f437",
+    "Name": "Combat knife",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_a4e9-7a48-816f-f437"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "f97d-f908-b6d2-220b",
+    "Name": "Deathwatch Bolt carbine",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2229"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "af00-9cba-2f76-8b15",
+    "Name": "Instigator bolt carbine",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2230"
+      },
+      {
+        "Id": "rule_kw_lethal-hits",
+        "Info": "Non-Monster/Vehicle"
+      },
+      {
+        "Id": "rule_kw_precision"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1765796954538",
+    "Name": "Las fusil",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2248"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      }
+    ]
+  },
+  {
+    "Id": "a52-b080-e77f-d369",
+    "Name": "Boltgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2221"
+      }
+    ]
+  },
+  {
+    "Id": "b97e-2834-009d-d0b7",
+    "Name": "Heavy thunder hammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_570f-3c96-ba40-74ce"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "6001-82d7-a43b-beb4",
+    "Name": "Frag cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2237"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "af16-5bb-e048-e76e",
+    "Name": "➤ Infernus heavy bolter (Bolt)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_af16-5bb-e048-e76e"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "dde2-d05e-7d2e-f4c6",
+    "Name": "➤ Infernus heavy bolter (Infernus)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_dde2-d05e-7d2e-f4c6"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "f075-0a7f-670e-f7cf",
+    "Name": "Stalker-pattern boltgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_f075-0a7f-670e-f7cf"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "6a1d-eee5-b22d-dd3b",
+    "Name": "Deathwatch shotgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2231"
+      },
+      {
+        "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "eb19-2eb1-d83a-1428",
+    "Name": "Blackshield blades",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2232"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "8213-cf63-41e1-befd",
+    "Name": "Xenophase blade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_8213-cf63-41e1-befd"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "f605-f2a3-d7ce-f0f8",
+    "Name": "➤ Combi-weapon (Damnatus)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_f605-f2a3-d7ce-f0f8"
+      }
+    ]
+  },
+  {
+    "Id": "c34b-6ae6-3878-a5f8",
+    "Name": "➤ Combi-weapon (Infernus)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_c34b-6ae6-3878-a5f8"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "23a8-d042-28ae-e312",
+    "Name": "➤ Combi-weapon (Purgatus)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_23a8-d042-28ae-e312"
+      },
+      {
+        "Id": "rule_kw_melta",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "aae9-d039-e99b-9311",
+    "Name": "Assault bolters",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2233"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "169d-4868-32b9-da04",
+    "Name": "➤ Plasma exterminators - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2234"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "8a99-68d4-cfb7-b72e",
+    "Name": "➤ Plasma exterminators - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2235"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "22e9-d6ae-0929-7455",
+    "Name": "Special-issue bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_22e9-d6ae-0929-7455"
+      },
+      {
+        "Id": "rule_kw_pistol"
+      },
+      {
+        "Id": "rule_kw_precision"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  }
+]

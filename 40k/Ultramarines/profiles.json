@@ -1,0 +1,582 @@
+[
+  {
+    "Id": "profile_aeb4-b4da-9ad8-5d91",
+    "Name": "Captain Sicarius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3974"
+      },
+      {
+        "Id": "rule_5553-620a-d5da-ecb1"
+      },
+      {
+        "Id": "rule_c742-ab19-d4ed-607e"
+      },
+      {
+        "Id": "rule_a3-79c9-601-8467"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_db19-dee7-9530-ef0e"
+      },
+      {
+        "Id": "c943-6018-ba17-c608"
+      },
+      {
+        "Id": "701b-551d-5480-eb67"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_9080-53c7-c334-b989",
+    "Name": "Chief Librarian Tigurius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3975"
+      },
+      {
+        "Id": "rule_6d80-d11e-231d-1014"
+      },
+      {
+        "Id": "rule_kw_prescience",
+        "Info": "Psychic level 2"
+      },
+      {
+        "Id": "rule_af75-67b0-4fcb-d9e8"
+      },
+      {
+        "Id": "rule_kw_telepathic-assault",
+        "Info": "Psychic level 1"
+      },
+      {
+        "Id": "rule_kw_chief-librarian",
+        "Info": "psyker level 3"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "rule_7264-1bb3-6181-3e3e"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "72f9-1db7-ac4d-9fe2"
+      },
+      {
+        "Id": "969e-a31a-4eb6-4f0c"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_f7d-cd2b-639b-4c7e",
+    "Name": "Roboute Guilliman",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3977"
+      },
+      {
+        "Id": "rule_12af-5519-836-3ca5"
+      },
+      {
+        "Id": "rule_7a88-482-fa96-f382"
+      },
+      {
+        "Id": "rule_ef49-87ed-43b1-1644"
+      },
+      {
+        "Id": "rule_kw_primarch-of-the-xiii",
+        "Info": "Aura"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "rule_2c5c-5447-a813-d887"
+      },
+      {
+        "Id": "43b-1aed-6bc4-104b"
+      },
+      {
+        "Id": "f92b-1723-5e5c-c3e7"
+      },
+      {
+        "Id": "88e5-f730-d6b0-c0a3"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_3672-effe-fc09-22c6",
+    "Name": "Uriel Ventris",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3978"
+      },
+      {
+        "Id": "rule_fad2-9c1c-44ce-ad0e"
+      },
+      {
+        "Id": "rule_4e8a-9ef1-43e4-9ab2"
+      },
+      {
+        "Id": "rule_2ce2-dd82-241a-a38f"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "4cb0-a88c-49d-9fed"
+      },
+      {
+        "Id": "d4e6-f626-278e-7bc6"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_d094-610c-5bab-b5f7",
+    "Name": "Lieutenant Titus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3979"
+      },
+      {
+        "Id": "rule_e284-c8a4-7a2a-24c9"
+      },
+      {
+        "Id": "rule_682e-f7df-8750-52e0"
+      },
+      {
+        "Id": "rule_977d-26f6-d16a-83fd"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "2cbe-10b2-3653-4b55"
+      },
+      {
+        "Id": "f1ae-8418-797a-6ab1"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_a136-76f7-34d1-8035",
+    "Name": "Marneus Calgar",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_ec73-f97f-82e3-8259"
+      },
+      {
+        "Id": "rule_0362-19d9-c371-10a4"
+      },
+      {
+        "Id": "rule_5bc3-8b43-1671-83d7"
+      },
+      {
+        "Id": "rule_923c-869c-99e9-bfb2"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_2c5c-5447-a813-d887"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "3a4f-e9f6-7e4f-70ec"
+      },
+      {
+        "Id": "e429-5ee8-6d5f-8277"
+      },
+      {
+        "Id": "e536-9d92-d971-d5a8"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_faac-4a1c-d55d-e187",
+    "Name": "Cato Sicarius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3981"
+      },
+      {
+        "Id": "rule_1826-c5e3-0789-3e47"
+      },
+      {
+        "Id": "rule_b7f6-25ea-33f0-655f"
+      },
+      {
+        "Id": "rule_41c1-b2e0-571b-12ae"
+      },
+      {
+        "Id": "rule_9deb-07a3-3e9b-6446"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "a241-a848-1e1e-d0d3"
+      },
+      {
+        "Id": "0964-f809-a007-1562"
+      },
+      {
+        "Id": "84a3-a338-13a7-4dac"
+      },
+      {
+        "Id": "268a-95b8-a801-91eb"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_ad41-e903-1a8b-83a3",
+    "Name": "Victrix Honour Guard",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770986821332"
+      },
+      {
+        "Id": "rule_dac0-5dcc-dca5-b00a"
+      },
+      {
+        "Id": "rule_f114-0598-c696-6d57"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "7bf3-e01c-dce7-60fd"
+      },
+      {
+        "Id": "35b0-f2d1-af20-04df"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1771502089645",
+    "Name": "Chapter Champion",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770986821332"
+      },
+      {
+        "Id": "rule_dac0-5dcc-dca5-b00a"
+      },
+      {
+        "Id": "rule_f114-0598-c696-6d57"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "8fd1-4cc9-f25e-92af"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1771501857693",
+    "Name": "Chapter Ancient",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770986821332"
+      },
+      {
+        "Id": "rule_dac0-5dcc-dca5-b00a"
+      },
+      {
+        "Id": "rule_f114-0598-c696-6d57"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "7bf3-e01c-dce7-60fd"
+      },
+      {
+        "Id": "35b0-f2d1-af20-04df"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1770812888565",
+    "Name": "Captain Titus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1770812898516"
+      },
+      {
+        "Id": "rule_5403-758b-7dcc-6733"
+      },
+      {
+        "Id": "rule_881c-c896-6d69-b2b9"
+      },
+      {
+        "Id": "rule_446d-a792-b36b-0a21"
+      },
+      {
+        "Id": "rule_2cfa-5a0f-a56e-3617"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "5ae1-f882-e6de-ef86"
+      },
+      {
+        "Id": "equipment_1770813263462"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_0157-e958-1a91-3024",
+    "Name": "Ancient Gadriel",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_573d-8756-1e35-cf4a"
+      },
+      {
+        "Id": "rule_061c-2a25-4596-64bf"
+      },
+      {
+        "Id": "rule_4925-3113-252d-675c"
+      },
+      {
+        "Id": "rule_9a14-299e-36b9-48da"
+      },
+      {
+        "Id": "837b-6918-767-152b"
+      },
+      {
+        "Id": "1246-9297-174a-fcf7"
+      },
+      {
+        "Id": "7c89-367a-01f6-0500"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4b4d-ba83-4eba-ba61",
+    "Name": "Veteran Sergeant Metaurus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_5173-1bed-74c4-ffb2"
+      },
+      {
+        "Id": "rule_061c-2a25-4596-64bf"
+      },
+      {
+        "Id": "rule_4925-3113-252d-675c"
+      },
+      {
+        "Id": "rule_9a14-299e-36b9-48da"
+      },
+      {
+        "Id": "a91e-df17-b8f6-bf88"
+      },
+      {
+        "Id": "7bf3-e01c-dce7-60fd"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_d8dd-5401-5ac7-5922",
+    "Name": "Gaius Silva",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_a30b-90b6-2243-ce94"
+      },
+      {
+        "Id": "rule_061c-2a25-4596-64bf"
+      },
+      {
+        "Id": "rule_4925-3113-252d-675c"
+      },
+      {
+        "Id": "rule_9a14-299e-36b9-48da"
+      },
+      {
+        "Id": "09e4-852a-b740-3787"
+      },
+      {
+        "Id": "9a6b-feb8-4295-7cda"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_74ce-a593-af24-5ef7",
+    "Name": "Aemelia Minervas",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_e646-c5f2-321e-00f4"
+      },
+      {
+        "Id": "rule_061c-2a25-4596-64bf"
+      },
+      {
+        "Id": "rule_4925-3113-252d-675c"
+      },
+      {
+        "Id": "rule_9a14-299e-36b9-48da"
+      },
+      {
+        "Id": "09e4-852a-b740-3787"
+      },
+      {
+        "Id": "9a6b-feb8-4295-7cda"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_cc2c-abb5-1cb7-d195",
+    "Name": "Dainal Kornelius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1f8a-7e49-a77e-e62a"
+      },
+      {
+        "Id": "rule_061c-2a25-4596-64bf"
+      },
+      {
+        "Id": "rule_4925-3113-252d-675c"
+      },
+      {
+        "Id": "rule_9a14-299e-36b9-48da"
+      },
+      {
+        "Id": "c020-4324-351a-15f9"
+      },
+      {
+        "Id": "fe15-3ffc-7594-8235"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_6821-a4bf-a017-4487",
+    "Name": "Lucia Vestha",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1158-893e-94e3-8af1"
+      },
+      {
+        "Id": "rule_061c-2a25-4596-64bf"
+      },
+      {
+        "Id": "rule_4925-3113-252d-675c"
+      },
+      {
+        "Id": "rule_9a14-299e-36b9-48da"
+      },
+      {
+        "Id": "09e4-852a-b740-3787"
+      },
+      {
+        "Id": "a1e0-79ef-218b-8f89"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_3a3c-2481-fcc6-41cb",
+    "Name": "Kaius Konorius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_4da2-6218-c4b4-0960"
+      },
+      {
+        "Id": "rule_6d0d-4c91-997a-d2bc"
+      },
+      {
+        "Id": "rule_948a-0d9e-3963-c5d6"
+      },
+      {
+        "Id": "rule_4bfc-77bd-5c43-4781"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "2cbe-10b2-3653-4b55"
+      },
+      {
+        "Id": "227c-dbf6-9125-13e9"
+      },
+      {
+        "Id": "77ec-3cc2-ca38-1c91"
+      }
+    ],
+    "BaseId": "4"
+  }
+]

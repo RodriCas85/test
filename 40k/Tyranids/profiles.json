@@ -1,0 +1,1748 @@
+[
+  {
+    "Id": "profile_b3b6-408d-6916-d204",
+    "Name": "Winged Hive Tyrant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3802"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_513"
+      },
+      {
+        "Id": "rule_352",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "8ad2-55e5-a52f-2ca0"
+      },
+      {
+        "Id": "84d0-f0bf-85c5-2266"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_a867-9c4b-3535-ae49",
+    "Name": "Hive Tyrant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3803"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_513"
+      },
+      {
+        "Id": "rule_354",
+        "Info": "(Aura, Psychic)"
+      },
+      {
+        "Id": "8ad2-55e5-a52f-2ca0"
+      },
+      {
+        "Id": "54a6-4f13-d99b-583c"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_e21e-8589-b121-374f",
+    "Name": "Tervigon",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3804"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_355"
+      },
+      {
+        "Id": "rule_356",
+        "Info": "(Aura, Psychic)"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "6869-7a05-273e-f815"
+      },
+      {
+        "Id": "de26-2863-a6b-1aa0"
+      },
+      {
+        "Id": "1294-c9a1-57fc-d25"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_c06a-9ba8-68a2-17d0",
+    "Name": "The Swarmlord",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3805"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_357"
+      },
+      {
+        "Id": "rule_358",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_359",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "805b-1a65-6cb6-c4ed"
+      },
+      {
+        "Id": "8053-6497-fe27-f886"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_73bd-e73f-e2d8-d1a3",
+    "Name": "Broodlord",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3806"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "8\""
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rule_361"
+      },
+      {
+        "Id": "rule_362",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "6801-34d9-56f1-c07c"
+      }
+    ],
+    "BaseId": "29"
+  },
+  {
+    "Id": "profile_6202-88a9-5a3-232a",
+    "Name": "Winged Tyranid Prime",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3807"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_364"
+      },
+      {
+        "Id": "rule_365"
+      },
+      {
+        "Id": "4433-3a45-4860-4896"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_633f-ce2f-8a7-488a",
+    "Name": "Old One Eye",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3808"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_367"
+      },
+      {
+        "Id": "rule_368"
+      },
+      {
+        "Id": "3a13-aa24-d11d-a26e"
+      },
+      {
+        "Id": "ef6b-9e3a-2362-9c88"
+      }
+    ],
+    "BaseId": "10"
+  },
+  {
+    "Id": "profile_4cfc-5fa9-6a22-273",
+    "Name": "Tyranid Warriors with Ranged Bio-Weapons",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3809"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_370"
+      },
+      {
+        "Id": "ee74-b9e8-c926-5034"
+      },
+      {
+        "Id": "e570-43e5-4d25-1262"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_6164-9d71-c9a0-97c7",
+    "Name": "Tyranid Warriors with Melee Bio-Weapons",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3810"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_371"
+      },
+      {
+        "Id": "138e-dc2a-d507-c8c5"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_7c5b-0935-43b1-e3ff",
+    "Name": "Hormagaunts",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3811"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_373"
+      },
+      {
+        "Id": "04cd-d08d-bbb9-4e5c"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_b7d3-7efe-31aa-5ad0",
+    "Name": "Gargoyles",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3812"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_374"
+      },
+      {
+        "Id": "a6d6-0e98-847e-f85c"
+      },
+      {
+        "Id": "2266-dc23-d46-d265"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_6a1d-69fc-336d-702a",
+    "Name": "Toxicrene",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3813"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_375"
+      },
+      {
+        "Id": "rule_376",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "d25f-0272-1bc8-8ebd"
+      },
+      {
+        "Id": "4062-e3f6-6f04-bf73"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_74e9-bf31-527e-df3f",
+    "Name": "Tyrant Guard",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3814"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_377"
+      },
+      {
+        "Id": "f6b4-8462-fb38-4e2a"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_1da2-fe24-4dd4-62f1",
+    "Name": "Neurotyrant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3815"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rule_378",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_379",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rules_1771418683241"
+      },
+      {
+        "Id": "f1ff-ebef-ac02-b60b"
+      },
+      {
+        "Id": "6191-9a03-aeb7-85ab"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_bc12-ffcf-1cd4-98fa",
+    "Name": "Lictor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3816"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_508"
+      },
+      {
+        "Id": "rule_382"
+      },
+      {
+        "Id": "1c99-99eb-f966-66d4"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_bcec-58bd-57ff-f402",
+    "Name": "Deathleaper",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3817"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_508"
+      },
+      {
+        "Id": "rule_383",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_384"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "1c99-99eb-f966-66d4"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_1f7a-91f1-3cfd-3a83",
+    "Name": "Maleceptor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3818"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_385",
+        "Info": "(Aura, Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "2fcd-a4a0-387-a542"
+      },
+      {
+        "Id": "cc52-927c-8aac-e637"
+      },
+      {
+        "Id": "22aa-3a34-8d0-8463"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_ad98-8da-6e74-c4d2",
+    "Name": "Pyrovores",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3819"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_386"
+      },
+      {
+        "Id": "26fa-1896-4afd-c0ad"
+      },
+      {
+        "Id": "092e-ed0a-fbf0-1891"
+      }
+    ],
+    "BaseId": "16"
+  },
+  {
+    "Id": "profile_42d9-1297-10b8-f671",
+    "Name": "Haruspex",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3820"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_387"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "1e44-6df5-7f11-6a24"
+      },
+      {
+        "Id": "ddd5-70eb-2592-b89d"
+      },
+      {
+        "Id": "2ab5-e71c-ae6f-b47a"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_90c2-f3ba-5933-5301",
+    "Name": "Venomthropes",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3821"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_388",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "f0c2-ad6-68bc-deac"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_3d5e-8525-726d-86ee",
+    "Name": "Von Ryan's Leapers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3822"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_389"
+      },
+      {
+        "Id": "rule_515",
+        "Info": "6+"
+      },
+      {
+        "Id": "74d3-4e3e-f6f-229c"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_8b7e-ef95-7970-1ac6",
+    "Name": "Neurogaunts",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3823"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_390"
+      },
+      {
+        "Id": "91e1-805d-3ff3-dfb0"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_3aa6-72b4-f6da-952a",
+    "Name": "Zoanthrope",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3824"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_391",
+        "Info": "(Aura, Psychic)"
+      },
+      {
+        "Id": "rule_392",
+        "Info": "(Aura, Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "ae02-36fa-3f0f-11d5"
+      },
+      {
+        "Id": "446d-70d4-b5b0-72bd"
+      },
+      {
+        "Id": "7fa8-d847-7497-3e8d"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_490f-660c-aedb-24d3",
+    "Name": "Ripper Swarms",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3825"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_393",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "82ab-174c-7668-94"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_5c09-d793-dbbf-7d14",
+    "Name": "Parasite of Mortrex",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3826"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_394"
+      },
+      {
+        "Id": "rule_395"
+      },
+      {
+        "Id": "b266-1a27-3790-923b"
+      },
+      {
+        "Id": "ba43-6e87-cdf9-9c3a"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_c9fa-4640-80ed-c955",
+    "Name": "Mawloc",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3827"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_396"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "77f-c6c2-7eb2-2499"
+      },
+      {
+        "Id": "48dd-9bd0-ba5e-9fe0"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_2913-9d03-6b31-46a8",
+    "Name": "Trygon",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3828"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_397"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "5302-f4ac-62fb-6dcd"
+      },
+      {
+        "Id": "67cc-622e-5cec-cb41"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_34bf-a591-5c55-361e",
+    "Name": "Mucolid Spores",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3829"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_510"
+      },
+      {
+        "Id": "rule_509"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_84d8-d3ab-da07-7449",
+    "Name": "Spore Mines",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3830"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_510"
+      },
+      {
+        "Id": "rule_398"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_494b-44b8-d54f-8316",
+    "Name": "Exocrine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3831"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_399"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "40ef-55d3-bc9-5683"
+      },
+      {
+        "Id": "652b-c68e-7028-5e62"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_d388-ebb3-568a-2e38",
+    "Name": "Biovores",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3832"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_400"
+      },
+      {
+        "Id": "546-16e8-e8c5-24c8"
+      },
+      {
+        "Id": "092e-ed0a-fbf0-1891"
+      }
+    ],
+    "BaseId": "16"
+  },
+  {
+    "Id": "profile_55cf-5b8-6728-fad8",
+    "Name": "Carnifexes",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3833"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_401"
+      },
+      {
+        "Id": "7bf9-656d-88b2-653d"
+      },
+      {
+        "Id": "153c-e819-feba-3d6c"
+      },
+      {
+        "Id": "5ec-2d5f-be85-c1d4"
+      }
+    ],
+    "BaseId": "10"
+  },
+  {
+    "Id": "profile_f4e3-fe83-64d3-1971",
+    "Name": "Screamer-killer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3834"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_402"
+      },
+      {
+        "Id": "8d0d-36cd-1ed0-fbb8"
+      },
+      {
+        "Id": "7492-4e75-30e6-8c14"
+      }
+    ],
+    "BaseId": "21"
+  },
+  {
+    "Id": "profile_1791-1b63-ac76-ff4f",
+    "Name": "Hive Guard",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3835"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_403"
+      },
+      {
+        "Id": "45f-9c9d-ae1-c93"
+      },
+      {
+        "Id": "4cef-23d4-e266-6a8e"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_4869-ad8f-b75e-8a",
+    "Name": "Tyrannofex",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3836"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_404"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "a94a-a97b-c54-3ccf"
+      },
+      {
+        "Id": "1294-c9a1-57fc-d25"
+      },
+      {
+        "Id": "bf87-80b8-ef8f-9514"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_2202-44e7-b5c0-ad6b",
+    "Name": "Tyrannocyte",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3837"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_405"
+      },
+      {
+        "Id": "97d8-b44e-edaf-2f93"
+      },
+      {
+        "Id": "3751-5833-40ca-73b8"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_452b-84ef-66bb-c0a1",
+    "Name": "Hive Crone",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3838"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_406"
+      },
+      {
+        "Id": "rule_511"
+      },
+      {
+        "Id": "5be8-54a0-e5d0-3e7f"
+      },
+      {
+        "Id": "1294-c9a1-57fc-d25"
+      },
+      {
+        "Id": "8089-203-7e0c-cea5"
+      },
+      {
+        "Id": "3b51-77cf-e0f5-83ed"
+      },
+      {
+        "Id": "f838-af93-4c1a-1c1a"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_eec4-96a5-bff1-8d07",
+    "Name": "Harpy",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3839"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rule_407"
+      },
+      {
+        "Id": "rule_511"
+      },
+      {
+        "Id": "1294-c9a1-57fc-d25"
+      },
+      {
+        "Id": "c2e1-bb76-49dc-acaf"
+      },
+      {
+        "Id": "a72d-c8af-581e-dbbb"
+      },
+      {
+        "Id": "3b51-77cf-e0f5-83ed"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_5054-55c7-17ab-87cc",
+    "Name": "Sporocyst",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3840"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_408"
+      },
+      {
+        "Id": "rule_409"
+      },
+      {
+        "Id": "1be7-213b-cf9b-dbff"
+      },
+      {
+        "Id": "5683-1921-e10d-612"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_4174-2f06-c093-56fd",
+    "Name": "Psychophage",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3841"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_410"
+      },
+      {
+        "Id": "rule_411"
+      },
+      {
+        "Id": "208d-6af9-f50c-f4f2"
+      },
+      {
+        "Id": "1e16-7665-679d-7462"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_dc3-bed1-ea8f-462f",
+    "Name": "Barbgaunts",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3842"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_412"
+      },
+      {
+        "Id": "b6d3-ee60-19f1-2405"
+      },
+      {
+        "Id": "66bb-a883-6588-9477"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_1cbe-e64f-b19d-39b0",
+    "Name": "Harridan",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3843"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "2D6"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_416"
+      },
+      {
+        "Id": "rule_415"
+      },
+      {
+        "Id": "fbb-c2d0-d589-6f5"
+      },
+      {
+        "Id": "3f65-cba6-88b4-5ca"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_b4a6-82bd-fa8f-4235",
+    "Name": "Hierophant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3844"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "2D6"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_418"
+      },
+      {
+        "Id": "rule_419"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_417"
+      },
+      {
+        "Id": "db9f-40a6-82da-befd"
+      },
+      {
+        "Id": "fbb-c2d0-d589-6f5"
+      },
+      {
+        "Id": "43ad-d7e-d788-e5bf"
+      },
+      {
+        "Id": "728d-c54f-c1c4-2b3c"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_6d0d-9223-8bf3-353",
+    "Name": "Genestealers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3845"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "8\""
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_420"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "53b5-899c-4c1e-53a3"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_5103-b9e6-37f-80a9",
+    "Name": "Ravener",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3846"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_421"
+      },
+      {
+        "Id": "2154-199f-cf6e-a6bb"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_fe95-bd06-986-961b",
+    "Name": "Neurolictor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3847"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_427"
+      },
+      {
+        "Id": "rule_428"
+      },
+      {
+        "Id": "rule_429",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "10fd-5ae9-79e8-cbd1"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_36d4-99f2-1830-b57",
+    "Name": "Norn Assimilator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3848"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_430"
+      },
+      {
+        "Id": "rule_431"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "ffca-3eb5-e42f-f935"
+      },
+      {
+        "Id": "d4b2-885d-1138-ee11"
+      },
+      {
+        "Id": "c174-a05a-1240-f935"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_5942-e5c1-8f5d-b94c",
+    "Name": "Norn Emissary",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3849"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_432"
+      },
+      {
+        "Id": "rule_433"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_506"
+      },
+      {
+        "Id": "6874-7f26-f287-75b2"
+      },
+      {
+        "Id": "34f1-b5d9-74bb-5d1e"
+      },
+      {
+        "Id": "b22f-1012-772-79bb"
+      },
+      {
+        "Id": "d4b2-885d-1138-ee11"
+      },
+      {
+        "Id": "ee40-6-e50c-1761"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_3035-bd15-bcdd-6abe",
+    "Name": "Ravener",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3850"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_435"
+      },
+      {
+        "Id": "rule_436"
+      },
+      {
+        "Id": "e989-6f09-3a8c-a165"
+      },
+      {
+        "Id": "7c98-8d1f-50e2-8d73"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_1759838289061",
+    "Name": "Termagants",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3851"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_372"
+      },
+      {
+        "Id": "2266-dc23-d46-d265"
+      },
+      {
+        "Id": "91e1-805d-3ff3-dfb0"
+      }
+    ],
+    "BaseId": "8"
+  },
+  {
+    "Id": "profiles_1771417871706",
+    "Name": "Ravener Prime",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1771417726898"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_435"
+      },
+      {
+        "Id": "rule_436"
+      },
+      {
+        "Id": "8cd4-90f5-e417-6b7b"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771418212280",
+    "Name": "Ravener",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3850"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_435"
+      },
+      {
+        "Id": "rule_436"
+      },
+      {
+        "Id": "7c98-8d1f-50e2-8d73"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771431260947",
+    "Name": "Neurothrope",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_3824"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_391"
+      },
+      {
+        "Id": "rule_392"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "446d-70d4-b5b0-72bd"
+      },
+      {
+        "Id": "ae02-36fa-3f0f-11d5"
+      },
+      {
+        "Id": "7fa8-d847-7497-3e8d"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772529349862",
+    "Name": "Tyranid Prime with Lash Whip",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1772529252349"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_516"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rule_364"
+      },
+      {
+        "Id": "rules_1772529573890"
+      },
+      {
+        "Id": "equipment_1772530106336"
+      },
+      {
+        "Id": "equipment_1772530130697"
+      },
+      {
+        "Id": "equipment_1772530144581"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profiles_1778570651193",
+    "Name": "The Red Terror",
+    "Type": "Profile",
+    "BaseId": "12",
+    "Children": [
+      {
+        "Id": "statlines_1778570354977"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1771415682797"
+      },
+      {
+        "Id": "rules_1778570542960"
+      },
+      {
+        "Id": "rules_1778570556936"
+      },
+      {
+        "Id": "equipment_1778570604723"
+      },
+      {
+        "Id": "equipment_1778570632429"
+      }
+    ]
+  }
+]

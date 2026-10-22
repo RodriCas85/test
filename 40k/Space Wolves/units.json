@@ -1,0 +1,282 @@
+[
+  {
+    "Id": "unit_c65-46c6-3a62-80c",
+    "Name": "Logan Grimnar",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, CHARACTER, EPIC HERO, IMPERIUM, TERMINATOR, CHAPTER MASTER, LOGAN GRIMNAR, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_1b7a-10b3-732f-dd01"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_bd47-a00a-e70-abd6",
+    "Name": "Njal Stormcaller",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, CHARACTER, EPIC HERO, PSYKER, IMPERIUM, NJAL STORMCALLER, TACTICUS, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_71fd-44bd-50f0-ea99"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_c35a-6d78-2169-3d23",
+    "Name": "Bjorn the Fell-Handed",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, VEHICLE, WALKER, CHARACTER, EPIC HERO, SMOKE, IMPERIUM, BJORN THE FELL-HANDED, DREADNOUGHT"
+    },
+    "BasicProfileIds": [
+      "profile_9e5d-15d4-400d-8490"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_a9c8-1a6-a0e1-7698",
+    "Name": "Arjac Rockfist",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, CHARACTER, EPIC HERO, IMPERIUM, TERMINATOR, ARJAC ROCKFIST, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_e310-d3d-aaca-eaac"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_fc7c-83a5-7106-41ab",
+    "Name": "Ulrik the Slayer",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, CHARACTER, EPIC HERO, IMPERIUM, ULRIK THE SLAYER, WOLF PRIEST, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_ee87-20a5-e9f8-62de"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_23d2-ea9a-cc45-476",
+    "Name": "Ragnar Blackmane",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, CHARACTER, EPIC HERO, IMPERIUM, TACTICUS, CAPTAIN, RAGNAR BLACKMANE, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_d0d6-3ed8-55a8-8563"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_fa8f-f5a2-993-bdbb",
+    "Name": "Blood Claws",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, BATTLELINE, IMPERIUM, BLOOD CLAWS, TACTICUS, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_2fc8-3e28-c9b2-a9bb",
+      "profiles_1773660590970"
+    ],
+    "DefaultFront": 9,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_60ce-47ea-50fa-53f2",
+    "Name": "Grey Hunters",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, BATTLELINE, IMPERIUM, GREY HUNTERS, TACTICUS, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_7dba-04ec-1bff-2c7a",
+      "profiles_1773661004508"
+    ],
+    "DefaultFront": 10,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_ca30-caf3-d7a8-1d32",
+    "Name": "Wolf Guard Terminators",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, IMPERIUM, TERMINATOR, WOLF GUARD TERMINATORS, WOLF GUARD"
+    },
+    "BasicProfileIds": [
+      "profile_53e9-9024-f706-ff18",
+      "profiles_1773662343179"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_d937-bd7d-618d-4e2d",
+    "Name": "Wulfen",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, IMPERIUM, WULFEN"
+    },
+    "BasicProfileIds": [
+      "profile_a14b-b14c-3636-d11",
+      "profile_95e8-2ae2-ef4b-4b54"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_91fa-49ac-5b0a-c155",
+    "Name": "Wulfen Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, VEHICLE, WALKER, IMPERIUM, WULFEN, DREADNOUGHT"
+    },
+    "BasicProfileIds": [
+      "profile_77af-6fe4-d935-e125"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_6ef5-6700-d888-df3b",
+    "Name": "Murderfang",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, VEHICLE, WALKER, CHARACTER, EPIC HERO, IMPERIUM, MURDERFANG, WULFEN, DREADNOUGHT"
+    },
+    "BasicProfileIds": [
+      "profile_60e4-3f4e-cbb9-c31b"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7a50-3722-8195-5877",
+    "Name": "Thunderwolf Cavalry",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, MOUNTED, GRENADES, IMPERIUM, THUNDERWOLF CAVALRY"
+    },
+    "BasicProfileIds": [
+      "profile_c6b1-2759-b06-c27c"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_dc75-5a79-4121-1d72",
+    "Name": "Fenrisian Wolves",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, BEAST, IMPERIUM, FENRISIAN WOLVES"
+    },
+    "BasicProfileIds": [
+      "profile_696e-983f-3ef3-81c5"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3212-bec7-a50e-3363",
+    "Name": "Iron Priest",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, CHARACTER, IMPERIUM, TECHMARINE, IRON PRIEST, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_96ee-e22b-177e-ebb0"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_c125-1106-f06d-9682",
+    "Name": "Venerable Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, VEHICLE, WALKER, SMOKE, IMPERIUM, DREADNOUGHT, VENERABLE DREADNOUGHT"
+    },
+    "BasicProfileIds": [
+      "profile_1db5-bc5d-84c8-f65"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_bbdb-49fd-da4d-3d7a",
+    "Name": "Wolf Guard Battle Leader",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, IMPERIUM, TACTICUS, WOLF GUARD, BATTLE LEADER, ADEPTUS ASTARTES, SPACE WOLVES, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_523e-becd-b02c-e3a1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_b3b1-d1df-d9be-d48e",
+    "Name": "Wolf Priest",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, IMPERIUM, TACTICUS, WOLF PRIEST, SPACE WOLVES, ADEPTUS ASTARTES, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_96a9-58ae-70d8-8dd8"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_4c72-3f0c-7f94-af96",
+    "Name": "Wulfen with Storm Shields",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS ASTARTES, SPACE WOLVES, INFANTRY, IMPERIUM, WULFEN, WULFEN WITH STORM SHIELDS"
+    },
+    "BasicProfileIds": [
+      "profile_5741-95bf-9b61-ef4d",
+      "profile_3b44-c385-003c-13cf"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_ee6b-3815-3a1a-6458",
+    "Name": "Wolf Scouts",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, SMOKE, IMPERIUM, PHOBOS, WOLF SCOUTS, ADEPTUS ASTARTES, SPACE WOLVES, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_a20d-2456-65bc-a70b"
+    ],
+    "DefaultFront": 2,
+    "Formation": 3
+  },
+  {
+    "Id": "units_1792404648872",
+    "Name": "Wolf Guard Headtakers",
+    "Type": "Unit",
+    "DefaultFront": 3,
+    "Formation": 0,
+    "BasicProfileIds": [
+      "profiles_1792404416988",
+      "profiles_1792404542040"
+    ],
+    "Attributes": {
+      "KEYWORDS": "INFANTRY; BEASTS; IMPERIUM; TACTICUS",
+      "FACTION KEYWORDS": "ADEPTUS ASTARTES; SPACE WOLVES"
+    }
+  }
+]

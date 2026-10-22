@@ -1,0 +1,73 @@
+[
+  {
+    "Id": "415e-ed00-24ac-5c",
+    "Name": "Drakkis",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3109"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "f92a-9295-1bfb-2942",
+    "Name": "Malleus Noctum",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3110"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1764763479838",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1777534675734"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "ff1f-1295-8a6d-5d8b",
+    "Name": "Gauntlet of the Forge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3111"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "2c29-73e2-c601-b9ec",
+    "Name": "Spear of Vulkan",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3112"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  }
+]

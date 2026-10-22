@@ -1,0 +1,73 @@
+[
+  {
+    "Id": "profile_ab0c-f1b5-f23b-8b1b",
+    "Name": "Adrax Agatone",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3107"
+      },
+      {
+        "Id": "rule_5a40-93b3-6c2a-f7cb"
+      },
+      {
+        "Id": "rule_68e4-3da0-f6ab-8624"
+      },
+      {
+        "Id": "rule_f678-23f8-a491-c7d2"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "415e-ed00-24ac-5c"
+      },
+      {
+        "Id": "f92a-9295-1bfb-2942"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_6fee-8346-c51-d116",
+    "Name": "Vulkan He'stan",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3108"
+      },
+      {
+        "Id": "rule_b423-2ef4-b87c-b65d"
+      },
+      {
+        "Id": "rule_22fa-126d-31e4-6a5a"
+      },
+      {
+        "Id": "rule_56bf-fb53-c81d-ff4a"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "equipment_1764763479838"
+      },
+      {
+        "Id": "ff1f-1295-8a6d-5d8b"
+      },
+      {
+        "Id": "2c29-73e2-c601-b9ec"
+      }
+    ],
+    "BaseId": "4"
+  }
+]

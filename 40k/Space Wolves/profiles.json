@@ -1,0 +1,801 @@
+[
+  {
+    "Id": "profile_1b7a-10b3-732f-dd01",
+    "Name": "Logan Grimnar",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3418"
+      },
+      {
+        "Id": "rule_a4fa-4c44-e872-45e4"
+      },
+      {
+        "Id": "rule_d440-cfb4-0569-b40f"
+      },
+      {
+        "Id": "rule_da55-1594-5d76-2ada"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "77f0-d479-d1e8-1b2"
+      },
+      {
+        "Id": "4d99-7795-750c-5e31"
+      },
+      {
+        "Id": "4520-4d8f-fa01-c9f5"
+      },
+      {
+        "Id": "874c-cc10-33f5-b18"
+      }
+    ],
+    "BaseId": "16"
+  },
+  {
+    "Id": "profile_71fd-44bd-50f0-ea99",
+    "Name": "Njal Stormcaller",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3419"
+      },
+      {
+        "Id": "rule_ca3b-fa42-d47f-d218"
+      },
+      {
+        "Id": "rule_7c09-4906-3ef8-5839"
+      },
+      {
+        "Id": "rule_kw_murderous-hurricane",
+        "Info": "psychic level 1"
+      },
+      {
+        "Id": "rule_kw_high-rune-priest",
+        "Info": "psyker level 3"
+      },
+      {
+        "Id": "rule_kw_storm-caller",
+        "Info": "psychic level 1"
+      },
+      {
+        "Id": "rule_kw_tempest-s-wrath",
+        "Info": "psychic level 1"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "a267-b7da-479-8b7e"
+      },
+      {
+        "Id": "e760-e62c-1a9e-2d54"
+      },
+      {
+        "Id": "e25f-aad0-174c-6f8c"
+      },
+      {
+        "Id": "4d32-a360-20a0-65e7"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_9e5d-15d4-400d-8490",
+    "Name": "Bjorn the Fell-Handed",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3420"
+      },
+      {
+        "Id": "rule_1ecf-416a-6465-156c"
+      },
+      {
+        "Id": "rule_64d9-5889-14e6-77a1"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "8158-c8b3-6940-5199"
+      },
+      {
+        "Id": "7495-9ffb-533e-7467"
+      },
+      {
+        "Id": "724c-11f2-3970-9223"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_e310-d3d-aaca-eaac",
+    "Name": "Arjac Rockfist",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3421"
+      },
+      {
+        "Id": "rule_a4fa-4c44-e872-45e4"
+      },
+      {
+        "Id": "rule_6d1-52cc-8cb0-740c"
+      },
+      {
+        "Id": "rule_d65d-22ee-7d91-448a"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "1a1f-8367-fbf4-9cb0"
+      },
+      {
+        "Id": "2f1b-d727-df9d-7049"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_ee87-20a5-e9f8-62de",
+    "Name": "Ulrik the Slayer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3422"
+      },
+      {
+        "Id": "rule_d3d3-265a-32cd-99af"
+      },
+      {
+        "Id": "rule_ca3b-fa42-d47f-d218"
+      },
+      {
+        "Id": "rule_1ccb-ca03-9256-bd5e"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "e028-c31-4247-2e0c"
+      },
+      {
+        "Id": "19a0-eee1-46f0-b977"
+      },
+      {
+        "Id": "141f-82fa-be4a-2b1f"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_d0d6-3ed8-55a8-8563",
+    "Name": "Ragnar Blackmane",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3423"
+      },
+      {
+        "Id": "rule_dab2-efea-8c98-814e"
+      },
+      {
+        "Id": "rule_489d-fafc-e8fa-ffd1"
+      },
+      {
+        "Id": "rule_acf6-28b1-da63-60be"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "1808-a7a0-3f8a-c8fc"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_2fc8-3e28-c9b2-a9bb",
+    "Name": "Blood Claw",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3424"
+      },
+      {
+        "Id": "rule_55f7-b6c3-54a2-5266"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      },
+      {
+        "Id": "a267-b7da-479-8b7e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profiles_1773660590970",
+    "Name": "Blood Claw Pack Leader",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_bc2d-0ec9-4f03-d464"
+      },
+      {
+        "Id": "rule_55f7-b6c3-54a2-5266"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "a267-b7da-479-8b7e"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_7dba-04ec-1bff-2c7a",
+    "Name": "Grey Hunter",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3425"
+      },
+      {
+        "Id": "rule_879f-7a62-1926-b2c5"
+      },
+      {
+        "Id": "rule_15bb-c493-d16a-1623"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "a267-b7da-479-8b7e"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profiles_1773661004508",
+    "Name": "Grey Hunter Pack Leader",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_629a-48bc-5821-cdb5"
+      },
+      {
+        "Id": "rule_879f-7a62-1926-b2c5"
+      },
+      {
+        "Id": "rule_15bb-c493-d16a-1623"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      },
+      {
+        "Id": "a267-b7da-479-8b7e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_53e9-9024-f706-ff18",
+    "Name": "Wolf Guard Terminator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_d9b7-fcdf-c0cb-4851"
+      },
+      {
+        "Id": "rule_b2ea-319f-b86-ab13"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "77f0-d479-d1e8-1b2"
+      },
+      {
+        "Id": "5560-a207-ed07-fdb6"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1773662343179",
+    "Name": "Wolf Guard Terminator Pack Leader",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_b42c-d1fb-d98b-d92d"
+      },
+      {
+        "Id": "rule_b2ea-319f-b86-ab13"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "equipment_1773652239454"
+      },
+      {
+        "Id": "5560-a207-ed07-fdb6"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_a14b-b14c-3636-d11",
+    "Name": "Wulfen w/Auto-launcher",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3437"
+      },
+      {
+        "Id": "rule_487d-4818-82ae-5a13"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_d666-6b66-95f4-b52e"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_95e8-2ae2-ef4b-4b54",
+    "Name": "Wulfen w/Death Totem",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3437"
+      },
+      {
+        "Id": "rule_487d-4818-82ae-5a13"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_d666-6b66-95f4-b52e"
+      },
+      {
+        "Id": "rule_a661-be27-a2d2-caa7"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_77af-6fe4-d935-e125",
+    "Name": "Wulfen Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3427"
+      },
+      {
+        "Id": "rule_efc2-686b-6a7a-4f29"
+      },
+      {
+        "Id": "rule_0caf-212e-b669-1738"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_d666-6b66-95f4-b52e"
+      },
+      {
+        "Id": "8981-66cb-3ba2-f470"
+      },
+      {
+        "Id": "equipment_1773652239454"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_60e4-3f4e-cbb9-c31b",
+    "Name": "Murderfang",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3428"
+      },
+      {
+        "Id": "rule_d7a4-e72d-26fd-4361"
+      },
+      {
+        "Id": "rule_9d2a-82a5-7426-f6b1"
+      },
+      {
+        "Id": "rule_d32e-f3c3-5ae5-2ea0"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_d666-6b66-95f4-b52e"
+      },
+      {
+        "Id": "77f0-d479-d1e8-1b2"
+      },
+      {
+        "Id": "8158-c8b3-6940-5199"
+      },
+      {
+        "Id": "d93d-ebf7-ac4-5dbc"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_c6b1-2759-b06-c27c",
+    "Name": "Thunderwolf",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3429"
+      },
+      {
+        "Id": "rule_7ff6-fefc-51c-4818"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "42d7-97d5-4a7a-0f17"
+      },
+      {
+        "Id": "a267-b7da-479-8b7e"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_696e-983f-3ef3-81c5",
+    "Name": "Fenrisian Wolf",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3430"
+      },
+      {
+        "Id": "rule_4dd7-8d35-4e76-11d8"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_90e0-d8ee-abf5-5cab"
+      },
+      {
+        "Id": "642a-3c37-adb4-c831"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_96ee-e22b-177e-ebb0",
+    "Name": "Iron Priest",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3431"
+      },
+      {
+        "Id": "rule_c945-4824-a8ed-3a20"
+      },
+      {
+        "Id": "rule_41bc-61e5-b4dc-1194"
+      },
+      {
+        "Id": "rule_32b3-ea87-484-39ec"
+      },
+      {
+        "Id": "rule_0ab3-6430-d18f-c4c6"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "c9b4-f19-237d-a61a"
+      },
+      {
+        "Id": "f115-8359-22b0-30b0"
+      },
+      {
+        "Id": "8dcd-d339-1a15-414"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_1db5-bc5d-84c8-f65",
+    "Name": "Venerable Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1777992245107"
+      },
+      {
+        "Id": "rule_979-e7d1-937c-d5f0"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "cf7c-9c6f-3235-6c6d"
+      },
+      {
+        "Id": "d65c-c8bc-d3e9-e354"
+      },
+      {
+        "Id": "77f0-d479-d1e8-1b2"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_523e-becd-b02c-e3a1",
+    "Name": "Wolf Guard Battle Leader",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3433"
+      },
+      {
+        "Id": "rule_ea31-1e1d-d30f-3431"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "5762-878b-231d-d044"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_96a9-58ae-70d8-8dd8",
+    "Name": "Wolf Priest",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3432"
+      },
+      {
+        "Id": "rule_ca3b-fa42-d47f-d218"
+      },
+      {
+        "Id": "rule_0ae4-0afb-6938-59aa"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_3b72-1499-de01-95bb"
+      },
+      {
+        "Id": "equipment_1764245177444"
+      },
+      {
+        "Id": "equipment_1764245136097"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_5741-95bf-9b61-ef4d",
+    "Name": "Wulfen w/Death Totem",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_4d37-d7fc-0aab-1345"
+      },
+      {
+        "Id": "rule_a630-3650-0461-51a2"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_d666-6b66-95f4-b52e"
+      },
+      {
+        "Id": "rule_970c-3a08-c8df-0557"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_3b44-c385-003c-13cf",
+    "Name": "Wulfen w/Auto-launcher",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_4d37-d7fc-0aab-1345"
+      },
+      {
+        "Id": "rule_a630-3650-0461-51a2"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_d666-6b66-95f4-b52e"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_a20d-2456-65bc-a70b",
+    "Name": "Hunting Wolf",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_ccaa-2f33-8396-da7e"
+      },
+      {
+        "Id": "rule_6352-6f0c-617d-2c1c"
+      },
+      {
+        "Id": "rule_90e0-d8ee-abf5-5cab"
+      },
+      {
+        "Id": "rule_c05d-f4c3-f091-4938"
+      },
+      {
+        "Id": "rule_a5f4-4af8-4735-7384"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "9e8a-8b08-cea2-ea15"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profiles_1792404416988",
+    "Name": "Wolf Guard Headtaker",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1792404373814",
+        "Info": ""
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4210",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4209",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4173",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792404834230",
+        "Info": ""
+      },
+      {
+        "Id": "equipment_1792404867803",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1792404542040",
+    "Name": "Hunting Wolf",
+    "Type": "Profile",
+    "BaseId": "20",
+    "Children": [
+      {
+        "Id": "statlines_1792404400455",
+        "Info": ""
+      },
+      {
+        "Id": "rule_2324",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4210",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4209",
+        "Info": ""
+      },
+      {
+        "Id": "rule_4173",
+        "Info": ""
+      },
+      {
+        "Id": "9e8a-8b08-cea2-ea15",
+        "Info": ""
+      }
+    ]
+  }
+]

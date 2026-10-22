@@ -1,0 +1,531 @@
+[
+  {
+    "Id": "c943-6018-ba17-c608",
+    "Name": "Artisan Plasma Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3982"
+      },
+      {
+        "Id": "rule_kw_pistol"
+      }
+    ]
+  },
+  {
+    "Id": "701b-551d-5480-eb67",
+    "Name": "Talassarian Tempest Blade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3983"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "3104-8d29-e431-05d7",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "72f9-1db7-ac4d-9fe2",
+    "Name": "Storm of the Emperor’s Wrath",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_72f9-1db7-ac4d-9fe2"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      }
+    ]
+  },
+  {
+    "Id": "969e-a31a-4eb6-4f0c",
+    "Name": "Rod of Tigurius",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3988"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      }
+    ]
+  },
+  {
+    "Id": "8782-c965-4294-6766",
+    "Name": "Victrix Power Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3991"
+      }
+    ]
+  },
+  {
+    "Id": "118c-765f-f6a9-c983",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3989"
+      },
+      {
+        "Id": "rule_kw_pistol"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "d126-71fe-a7b1-b32e",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_d126-71fe-a7b1-b32e"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "43b-1aed-6bc4-104b",
+    "Name": "Hand of Dominion",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3992"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "f92b-1723-5e5c-c3e7",
+    "Name": "Hand of Dominion",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_f92b-1723-5e5c-c3e7"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "88e5-f730-d6b0-c0a3",
+    "Name": "The Emperor's Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_88e5-f730-d6b0-c0a3"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "4cb0-a88c-49d-9fed",
+    "Name": "Invictus",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3998"
+      }
+    ]
+  },
+  {
+    "Id": "d4e6-f626-278e-7bc6",
+    "Name": "Sword of Idaeus",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3999"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "2cbe-10b2-3653-4b55",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2cbe-10b2-3653-4b55"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "f1ae-8418-797a-6ab1",
+    "Name": "Astartes Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4000"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Infantry 2+"
+      }
+    ]
+  },
+  {
+    "Id": "3a4f-e9f6-7e4f-70ec",
+    "Name": "Gauntlets of Ultramar",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3a4f-e9f6-7e4f-70ec"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "e429-5ee8-6d5f-8277",
+    "Name": "➤ Gauntlets of Ultramar",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_e429-5ee8-6d5f-8277"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "e536-9d92-d971-d5a8",
+    "Name": "➤ Gauntlets of Ultramar (Overhead Smash)",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_e536-9d92-d971-d5a8"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "a241-a848-1e1e-d0d3",
+    "Name": "Artisan Plasma Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3982"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "0964-f809-a007-1562",
+    "Name": "➤ Talassarian Tempest Blade - Strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4001"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "84a3-a338-13a7-4dac",
+    "Name": "➤ Talassarian Tempest Blade - Coup de Grace",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4002"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "268a-95b8-a801-91eb",
+    "Name": "➤ Talassarian Tempest Blade - Sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4003"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "7bf3-e01c-dce7-60fd",
+    "Name": "Master-crafted power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7bf3-e01c-dce7-60fd"
+      }
+    ]
+  },
+  {
+    "Id": "35b0-f2d1-af20-04df",
+    "Name": "Master-crafted Bolt Carbine",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4004"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "8fd1-4cc9-f25e-92af",
+    "Name": "Blades of Honour",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4005"
+      },
+      {
+        "Id": "rule_kw_precision"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "5ae1-f882-e6de-ef86",
+    "Name": "Master-crafted Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5ae1-f882-e6de-ef86"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Non-Monster/Vehicle 2+"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1770813263462",
+    "Name": "Master-crafted Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1770813198040"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "837b-6918-767-152b",
+    "Name": "➤ Bolt Rifle - Focused Fire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_837b-6918-767-152b"
+      },
+      {
+        "Id": "rule_kw_heavy"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "1246-9297-174a-fcf7",
+    "Name": "➤ Bolt Rifle - Saturation",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_1246-9297-174a-fcf7"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "7c89-367a-01f6-0500",
+    "Name": "Ceramite Fists",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_7c89-367a-01f6-0500"
+      }
+    ]
+  },
+  {
+    "Id": "a91e-df17-b8f6-bf88",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_a91e-df17-b8f6-bf88"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "09e4-852a-b740-3787",
+    "Name": "Archeotech Laspistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_09e4-852a-b740-3787"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "9a6b-feb8-4295-7cda",
+    "Name": "Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_9a6b-feb8-4295-7cda"
+      }
+    ]
+  },
+  {
+    "Id": "c020-4324-351a-15f9",
+    "Name": "Astropathic Blast",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_c020-4324-351a-15f9"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      }
+    ]
+  },
+  {
+    "Id": "fe15-3ffc-7594-8235",
+    "Name": "Force Stave",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_fe15-3ffc-7594-8235"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      }
+    ]
+  },
+  {
+    "Id": "a1e0-79ef-218b-8f89",
+    "Name": "Ultramarian Combat Weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_a1e0-79ef-218b-8f89"
+      }
+    ]
+  },
+  {
+    "Id": "227c-dbf6-9125-13e9",
+    "Name": "➤ Severance and Rebuke - Strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_227c-dbf6-9125-13e9"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "77ec-3cc2-ca38-1c91",
+    "Name": "➤ Severance and Rebuke - Sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_77ec-3cc2-ca38-1c91"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "2"
+      }
+    ]
+  }
+]

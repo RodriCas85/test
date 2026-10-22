@@ -1,0 +1,807 @@
+[
+  {
+    "Id": "77f0-d479-d1e8-1b2",
+    "Name": "Storm bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_83a0-da0c-752f-b4b3"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "4d99-7795-750c-5e31",
+    "Name": "Tyrnak and Fenrir",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3438"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
+      }
+    ]
+  },
+  {
+    "Id": "4520-4d8f-fa01-c9f5",
+    "Name": "➤ Axe Morkai - Sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3440"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "874c-cc10-33f5-b18",
+    "Name": "➤ Axe Morkai - Strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3441"
+      }
+    ]
+  },
+  {
+    "Id": "a267-b7da-479-8b7e",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3459"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "e760-e62c-1a9e-2d54",
+    "Name": "Staff of the Stormcaller",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3442"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "e25f-aad0-174c-6f8c",
+    "Name": "➤ Living Lightning - witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3443"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "4d32-a360-20a0-65e7",
+    "Name": "➤ Living Lightning - focused witchfire",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3444"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_psychic"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "8158-c8b3-6940-5199",
+    "Name": "Heavy Flamer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_8158-c8b3-6940-5199"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "7495-9ffb-533e-7467",
+    "Name": "Trueclaw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3445"
+      },
+      {
+        "Id": "rule_kw_lethal-hits"
+      }
+    ]
+  },
+  {
+    "Id": "724c-11f2-3970-9223",
+    "Name": "Assault cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3446"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "199-66ef-e9b4-81e2",
+    "Name": "Multi-melta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3447"
+      },
+      {
+        "Id": "rule_kw_melta",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "5241-8af7-d7e9-6b19",
+    "Name": "➤ Helfrost cannon - dispersed",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3448"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "d1c1-a421-f47f-26ef",
+    "Name": "➤ Helfrost cannon - focused",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3449"
+      }
+    ]
+  },
+  {
+    "Id": "1a1f-8367-fbf4-9cb0",
+    "Name": "Foehammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3450"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Monster/Vehicle 3+"
+      },
+      {
+        "Id": "rule_kw_precision"
+      }
+    ]
+  },
+  {
+    "Id": "2f1b-d727-df9d-7049",
+    "Name": "Foehammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2f1b-d727-df9d-7049"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Monster/Vehicle 3+"
+      },
+      {
+        "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "e028-c31-4247-2e0c",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773658444531"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "19a0-eee1-46f0-b977",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3452"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      }
+    ]
+  },
+  {
+    "Id": "141f-82fa-be4a-2b1f",
+    "Name": "Artificer Crozius Arcanum",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_141f-82fa-be4a-2b1f"
+      },
+      {
+        "Id": "rule_kw_anti",
+        "Info": "Monster/Vehicle 4+"
+      }
+    ]
+  },
+  {
+    "Id": "3104-8d29-e431-05d7",
+    "Name": "Bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3104-8d29-e431-05d7"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "1808-a7a0-3f8a-c8fc",
+    "Name": "Frostfang",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3454"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "6f0d-9f9f-21d6-a85e",
+    "Name": "Chainsword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_6f0d-9f9f-21d6-a85e"
+      }
+    ]
+  },
+  {
+    "Id": "4a80-2594-8839-c0bf",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4a80-2594-8839-c0bf"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "5edb-fb23-55e8-8415",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5edb-fb23-55e8-8415"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "ffd-24bc-3e6b-fc35",
+    "Name": "Power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3462"
+      }
+    ]
+  },
+  {
+    "Id": "35e0-fb21-c5f8-cb61",
+    "Name": "Bolt Carbine",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3467"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "4a82-4af6-7ce3-2046",
+    "Name": "Power fist",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3465"
+      }
+    ]
+  },
+  {
+    "Id": "463f-3356-9c0c-6dd3",
+    "Name": "➤ Plasma pistol - supercharge",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_4a80-2594-8839-c0bf"
+      },
+      {
+        "Id": "rule_kw_hazardous"
+      },
+      {
+        "Id": "rule_kw_pistol"
+      }
+    ]
+  },
+  {
+    "Id": "d0c3-4572-5e37-b039",
+    "Name": "➤ Plasma pistol - standard",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5edb-fb23-55e8-8415"
+      },
+      {
+        "Id": "rule_kw_pistol"
+      }
+    ]
+  },
+  {
+    "Id": "5560-a207-ed07-fdb6",
+    "Name": "Master-crafted power weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_5560-a207-ed07-fdb6"
+      }
+    ]
+  },
+  {
+    "Id": "d65c-c8bc-d3e9-e354",
+    "Name": "Assault Cannon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_d65c-c8bc-d3e9-e354"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "770e-7d92-16bb-cd23",
+    "Name": "Twin lightning claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3473"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "f0cb-e4ef-d525-7bd6",
+    "Name": "Relic Great Axe",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3474"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1773652239454",
+    "Name": "Storm Bolter",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3471"
+      },
+      {
+        "Id": "rule_kw_rapid-fire",
+        "Info": "2"
+      }
+    ]
+  },
+  {
+    "Id": "dbed-e2c5-a8b2-c952",
+    "Name": "Stormfrag auto-launcher",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3479"
+      },
+      {
+        "Id": "rule_kw_assault"
+      },
+      {
+        "Id": "rule_kw_blast",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "098d-4701-1914-e0f4",
+    "Name": "Wulfen Weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3477"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "afcc-75f3-b4df-3302",
+    "Name": "Vortex Grenade",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_afcc-75f3-b4df-3302"
+      },
+      {
+        "Id": "rule_kw_assault"
+      }
+    ]
+  },
+  {
+    "Id": "ef5c-295b-6117-663c",
+    "Name": "Thief of Secrets",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ef5c-295b-6117-663c"
+      }
+    ]
+  },
+  {
+    "Id": "6dc6-4f92-c8b4-ebda",
+    "Name": "Imperium's Sword",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_6dc6-4f92-c8b4-ebda"
+      }
+    ]
+  },
+  {
+    "Id": "8981-66cb-3ba2-f470",
+    "Name": "Great wolf claw",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3480"
+      }
+    ]
+  },
+  {
+    "Id": "ced3-1cac-9b81-30ac",
+    "Name": "➤ Fenrisian great axe - strike",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3499"
+      }
+    ]
+  },
+  {
+    "Id": "c08-5423-4417-b471",
+    "Name": "➤ Fenrisian great axe - sweep",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3500"
+      }
+    ]
+  },
+  {
+    "Id": "d93d-ebf7-ac4-5dbc",
+    "Name": "Murderclaws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3481"
+      },
+      {
+        "Id": "rule_kw_sustained-hits",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_kw_twin-linked"
+      }
+    ]
+  },
+  {
+    "Id": "42d7-97d5-4a7a-0f17",
+    "Name": "Wolf Guard Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3506"
+      }
+    ]
+  },
+  {
+    "Id": "642a-3c37-adb4-c831",
+    "Name": "Teeth and claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3484"
+      },
+      {
+        "Id": "rule_kw_extra-attacks"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1764245550910",
+    "Name": "Boltgun",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3511"
+      }
+    ]
+  },
+  {
+    "Id": "c9b4-f19-237d-a61a",
+    "Name": "➤ Helfrost pistol - dispersed",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3492"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      },
+      {
+        "Id": "rule_kw_torrent"
+      }
+    ]
+  },
+  {
+    "Id": "f115-8359-22b0-30b0",
+    "Name": "➤ Helfrost pistol - focused",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3493"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "8dcd-d339-1a15-414",
+    "Name": "Tempest hammer and Servo-arm",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3494"
+      }
+    ]
+  },
+  {
+    "Id": "cf7c-9c6f-3235-6c6d",
+    "Name": "Dreadnought Combat Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_cf7c-9c6f-3235-6c6d"
+      }
+    ]
+  },
+  {
+    "Id": "2b6f-90f9-0afc-4c81",
+    "Name": "Multi-melta",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_2b6f-90f9-0afc-4c81"
+      },
+      {
+        "Id": "rule_kw_melta",
+        "Info": "3"
+      }
+    ]
+  },
+  {
+    "Id": "9a14-199f-feda-9419",
+    "Name": "➤ Helfrost cannon - focused",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_9a14-199f-feda-9419"
+      }
+    ]
+  },
+  {
+    "Id": "9b2a-88e4-c261-9290",
+    "Name": "Thunder Hammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3507"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "5762-878b-231d-d044",
+    "Name": "Master-crafted Power Weapon",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_3503"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1764245177444",
+    "Name": "Crozius arcanum",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1773659958713"
+      },
+      {
+        "Id": "rule_kw_cleave",
+        "Info": "1"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1764245136097",
+    "Name": "Absolvor bolt pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_cb64-ddb1-cbc3-3621"
+      },
+      {
+        "Id": "rule_kw_close-quarters"
+      }
+    ]
+  },
+  {
+    "Id": "399d-8b2b-88e7-0792",
+    "Name": "➤ Thunder Hammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_399d-8b2b-88e7-0792"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "ba5f-49a7-b52b-11d4",
+    "Name": "➤ Thunder Hammer",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_ba5f-49a7-b52b-11d4"
+      },
+      {
+        "Id": "rule_kw_hunter",
+        "Info": "Monster/Vehicle"
+      },
+      {
+        "Id": "rule_kw_devastating-wounds"
+      }
+    ]
+  },
+  {
+    "Id": "9e8a-8b08-cea2-ea15",
+    "Name": "Teeth and Claws",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statline_9e8a-8b08-cea2-ea15"
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1792404834230",
+    "Name": "Heavy Bolt Pistol",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1792404814967",
+        "Info": ""
+      },
+      {
+        "Id": "rule_kw_close-quarters",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "equipment_1792404867803",
+    "Name": "Paired Master-crafted Power Weapons",
+    "Type": "Equipment",
+    "Children": [
+      {
+        "Id": "statlines_1792404766497",
+        "Info": ""
+      }
+    ]
+  }
+]

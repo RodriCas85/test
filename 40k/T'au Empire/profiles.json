@@ -1,0 +1,2079 @@
+[
+  {
+    "Id": "profile_278f-dd0d-f414-5f1a",
+    "Name": "Commander Shadowsun",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3517"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2518"
+      },
+      {
+        "Id": "rule_2519",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_2520"
+      },
+      {
+        "Id": "rule_2521",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_2522"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "f64b-5f3d-6cd7-89f5"
+      },
+      {
+        "Id": "2374-c078-8d4e-cbbd"
+      },
+      {
+        "Id": "aa64-b7cb-2a9d-f097"
+      },
+      {
+        "Id": "1d9d-8bec-3860-3c43"
+      },
+      {
+        "Id": "453-2e3-9561-628b"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_8889-bb93-823-4843",
+    "Name": "Commander Farsight",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3518"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2524"
+      },
+      {
+        "Id": "rule_2525"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "89e3-e519-ede-f116"
+      },
+      {
+        "Id": "977-cdd0-552f-d82f"
+      },
+      {
+        "Id": "9673-edd-1e61-2a22"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_374a-f353-ddb0-f709",
+    "Name": "Commander in Enforcer Battlesuit",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3519"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2530"
+      },
+      {
+        "Id": "4a62-f987-469f-e15a"
+      },
+      {
+        "Id": "453-2e3-9561-628b"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_433a-c741-cef6-e61b",
+    "Name": "Commander in Coldstar Battlesuit",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3520"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2532"
+      },
+      {
+        "Id": "27cc-b6a6-632a-6fb5"
+      },
+      {
+        "Id": "453-2e3-9561-628b"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_ee37-5f4e-ffdc-e35f",
+    "Name": "Cadre Fireblade",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3521"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2534"
+      },
+      {
+        "Id": "rule_2535"
+      },
+      {
+        "Id": "230a-d8fa-420b-4258"
+      },
+      {
+        "Id": "equipment_1772625443774"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_eb0c-e2d4-1b25-e480",
+    "Name": "Ethereal",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3522"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2536"
+      },
+      {
+        "Id": "4857-a947-2073-1773"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_815c-4d84-672e-8f6e",
+    "Name": "Darkstrider",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3523"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2547"
+      },
+      {
+        "Id": "rule_2548"
+      },
+      {
+        "Id": "a906-3221-818d-8ab0"
+      },
+      {
+        "Id": "equipment_1772625443774"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_934e-1fa0-dac5-da39",
+    "Name": "Fire Warrior",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3524"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2552"
+      },
+      {
+        "Id": "rule_2553"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      },
+      {
+        "Id": "7b5d-b5b4-88de-9799"
+      },
+      {
+        "Id": "b3d4-211a-48f8-266e"
+      },
+      {
+        "Id": "f9f3-a15e-537e-8852"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_2f9d-f2ca-4d58-bab0",
+    "Name": "Breacher Fire Warrior",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3525"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2554"
+      },
+      {
+        "Id": "rule_2555"
+      },
+      {
+        "Id": "6b87-25ec-8946-7354"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      },
+      {
+        "Id": "b3d4-211a-48f8-266e"
+      },
+      {
+        "Id": "f9f3-a15e-537e-8852"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_e373-8a0-53f2-d26d",
+    "Name": "Kroot Carnivore",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3526"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2556"
+      },
+      {
+        "Id": "1148-4286-305f-66f7"
+      },
+      {
+        "Id": "equipment_1774435037263"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_8d43-6b77-9b8d-a0a3",
+    "Name": "Krootox Riders",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3527"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_2558"
+      },
+      {
+        "Id": "72e5-3ac8-5675-30c8"
+      },
+      {
+        "Id": "equipment_1774435037263"
+      },
+      {
+        "Id": "af47-18ec-3893-4923"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_110a-c939-d3bf-eb08",
+    "Name": "Stealth Shas’ui",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3528"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2561"
+      },
+      {
+        "Id": "rule_2562"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "3d93-d7b-3ae5-7524"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_5084-6451-3fe5-37aa",
+    "Name": "Ghostkeel Battlesuit",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3529"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2563"
+      },
+      {
+        "Id": "rule_2694"
+      },
+      {
+        "Id": "2700-47eb-f3be-eb6e"
+      },
+      {
+        "Id": "e5cc-4d2d-324f-6da0"
+      },
+      {
+        "Id": "fece-1dd7-9f4e-38c1"
+      },
+      {
+        "Id": "rule_2564"
+      }
+    ],
+    "BaseId": "28"
+  },
+  {
+    "Id": "profile_cb26-70de-79fd-91ba",
+    "Name": "Firesight Team",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3530"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2565"
+      },
+      {
+        "Id": "76cd-448e-bc68-69fa"
+      },
+      {
+        "Id": "1d9d-8bec-3860-3c43"
+      },
+      {
+        "Id": "e988-8434-7e85-e216"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_292e-7ca6-fb95-0fd7",
+    "Name": "Pathfinder",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3531"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_2566"
+      },
+      {
+        "Id": "d283-f3f3-499a-dcad"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      },
+      {
+        "Id": "f9f3-a15e-537e-8852"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_860-92ee-490-74f4",
+    "Name": "Piranha",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3532"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "9\""
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rules_1774437881172"
+      },
+      {
+        "Id": "5907-8e6e-e23c-f975"
+      },
+      {
+        "Id": "47d1-604d-fa7f-0ec4"
+      },
+      {
+        "Id": "6623-339f-6773-dc3c"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_7e86-b9a2-95b2-cf7b",
+    "Name": "Vespid Stingwing",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3533"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2571"
+      },
+      {
+        "Id": "rule_2572"
+      },
+      {
+        "Id": "c113-44d9-5f2d-a25b"
+      },
+      {
+        "Id": "dee4-e704-c9f4-af63"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_7ea4-6afc-c272-1f86",
+    "Name": "Kroot Hounds",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3534"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2573"
+      },
+      {
+        "Id": "rule_2574"
+      },
+      {
+        "Id": "e04f-b720-3b47-bb25"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_22e7-1153-6133-896b",
+    "Name": "Broadside Shas’ui",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3535"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2575"
+      },
+      {
+        "Id": "86cd-e0c6-0001-bd7d"
+      },
+      {
+        "Id": "7761-1b77-42a7-af36"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_8bbb-ab93-643e-a31e",
+    "Name": "Riptide Battlesuit",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3536"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2697"
+      },
+      {
+        "Id": "rule_2576"
+      },
+      {
+        "Id": "rule_2696"
+      },
+      {
+        "Id": "rule_2694"
+      },
+      {
+        "Id": "143d-9a72-8e82-cc52"
+      },
+      {
+        "Id": "e18f-f00f-7d58-1ddd"
+      },
+      {
+        "Id": "925f-89df-81b7-ad2"
+      }
+    ],
+    "BaseId": "18"
+  },
+  {
+    "Id": "profile_a346-fe31-7e8-7628",
+    "Name": "Hammerhead Gunship",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3537"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2577"
+      },
+      {
+        "Id": "rule_2698"
+      },
+      {
+        "Id": "rule_2695"
+      },
+      {
+        "Id": "c7e5-e0ff-81a0-7df5"
+      },
+      {
+        "Id": "e8a5-c9de-b590-ee97"
+      },
+      {
+        "Id": "ec22-219d-9edf-9005"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_dd04-efd8-8f8f-750f",
+    "Name": "Sky Ray Gunship",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3538"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2578"
+      },
+      {
+        "Id": "rule_2698"
+      },
+      {
+        "Id": "rule_2695"
+      },
+      {
+        "Id": "9475-a50e-aef8-42d9"
+      },
+      {
+        "Id": "47d1-604d-fa7f-0ec4"
+      },
+      {
+        "Id": "ec22-219d-9edf-9005"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_3e4c-15ec-7146-f08",
+    "Name": "Devilfish",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3539"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2579"
+      },
+      {
+        "Id": "d2d4-6c29-133d-548b"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
+      },
+      {
+        "Id": "e8a5-c9de-b590-ee97"
+      },
+      {
+        "Id": "9e7d-1521-3dc8-bea5"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_42ad-8287-bd00-5989",
+    "Name": "Razorshark Strike Fighter",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3540"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2580"
+      },
+      {
+        "Id": "rule_2694"
+      },
+      {
+        "Id": "d2d4-6c29-133d-548b"
+      },
+      {
+        "Id": "5f4b-8252-2657-c7fa"
+      },
+      {
+        "Id": "a01e-4195-1c61-29ea"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
+      },
+      {
+        "Id": "ec22-219d-9edf-9005"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_ff15-9eaa-4168-a8d9",
+    "Name": "Sun Shark Bomber",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3541"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2581"
+      },
+      {
+        "Id": "rule_2694"
+      },
+      {
+        "Id": "3c5c-b69d-6be7-cbca"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
+      },
+      {
+        "Id": "e44-8052-1aee-9c76"
+      },
+      {
+        "Id": "a910-69c5-35f8-ba1f"
+      },
+      {
+        "Id": "ec22-219d-9edf-9005"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_f60e-82ae-5ab1-21f9",
+    "Name": "Tidewall Shieldline",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3542"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_31"
+      },
+      {
+        "Id": "rule_2699"
+      },
+      {
+        "Id": "rule_878"
+      },
+      {
+        "Id": "rules_1772462548586"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_5799-a1a2-f1ec-9054",
+    "Name": "Tidewall Droneport",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3543"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_31"
+      },
+      {
+        "Id": "rule_2699"
+      },
+      {
+        "Id": "rule_2583"
+      },
+      {
+        "Id": "545c-9dc3-f9f6-e5a4"
+      },
+      {
+        "Id": "rules_1772462548586"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_99db-d097-be48-6768",
+    "Name": "Tidewall Gunrig",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3544"
+      },
+      {
+        "Id": "rule_31"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2699"
+      },
+      {
+        "Id": "8ebc-c5f1-9125-6295"
+      },
+      {
+        "Id": "rules_1772462548586"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_fe77-ea50-8315-ea79",
+    "Name": "Stormsurge",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3545"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2585"
+      },
+      {
+        "Id": "rule_2586"
+      },
+      {
+        "Id": "rule_2587"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_2584"
+      },
+      {
+        "Id": "29a6-3f44-894e-e1ca"
+      },
+      {
+        "Id": "fc4d-b5a0-5faa-fc50"
+      },
+      {
+        "Id": "d5a3-7b4e-7307-154"
+      },
+      {
+        "Id": "5b17-951b-a7e3-e92e"
+      },
+      {
+        "Id": "e5cc-4d2d-324f-6da0"
+      },
+      {
+        "Id": "2d47-e9ba-c294-81bb"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_1e7b-dbbd-43ca-62d0",
+    "Name": "Kroot Farstalker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3546"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2588"
+      },
+      {
+        "Id": "rule_2589"
+      },
+      {
+        "Id": "3d83-77bd-3f68-949b"
+      },
+      {
+        "Id": "6ec3-91a0-02ff-f5e8"
+      },
+      {
+        "Id": "equipment_1774435037263"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_a8dd-bd8d-f7bb-c32a",
+    "Name": "Ta'unar Supremacy Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3547"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_2594"
+      },
+      {
+        "Id": "rule_2595"
+      },
+      {
+        "Id": "3ba9-dc18-61fa-2076"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "4448-ace8-3e24-92f6"
+      },
+      {
+        "Id": "cead-eef7-db3a-4e49"
+      },
+      {
+        "Id": "db24-a303-7dab-2305"
+      },
+      {
+        "Id": "625b-fbf9-1ab7-7f56"
+      },
+      {
+        "Id": "e6c1-f457-45b0-363e"
+      },
+      {
+        "Id": "1a19-7172-2f9b-3a8e"
+      },
+      {
+        "Id": "8a80-8223-739f-99b4"
+      },
+      {
+        "Id": "4821-1484-e5a0-1382"
+      },
+      {
+        "Id": "rules_1772462548586"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profile_13f0-77ab-e9b4-2a14",
+    "Name": "Tiger Shark",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3548"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2700"
+      },
+      {
+        "Id": "rule_2597"
+      },
+      {
+        "Id": "rule_2598"
+      },
+      {
+        "Id": "180a-8fbc-32ed-d6be"
+      },
+      {
+        "Id": "ef85-73db-c8cc-9432"
+      },
+      {
+        "Id": "db32-d0ab-a5f-cbb3"
+      },
+      {
+        "Id": "2d02-e91-5f59-9ec3"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "d55e-419e-e6a0-89a8"
+      },
+      {
+        "Id": "3d00-e134-a1e7-c9bd"
+      },
+      {
+        "Id": "3c5c-b69d-6be7-cbca"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
+      },
+      {
+        "Id": "af19-b1f2-44a5-80df"
+      },
+      {
+        "Id": "9e7d-1521-3dc8-bea5"
+      },
+      {
+        "Id": "rules_1772462548586"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profile_cbbf-c0d1-60a3-67a8",
+    "Name": "AX-1-0 Tiger Shark",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3549"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_2700"
+      },
+      {
+        "Id": "rule_1947"
+      },
+      {
+        "Id": "0cad-9d71-3245-1abc"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "d55e-419e-e6a0-89a8"
+      },
+      {
+        "Id": "3d00-e134-a1e7-c9bd"
+      },
+      {
+        "Id": "3c5c-b69d-6be7-cbca"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
+      },
+      {
+        "Id": "9e7d-1521-3dc8-bea5"
+      },
+      {
+        "Id": "rules_1772462548586"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profile_7bb9-9546-b2ea-dead",
+    "Name": "Manta",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3550"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rule_2600"
+      },
+      {
+        "Id": "rule_2601"
+      },
+      {
+        "Id": "rule_2602"
+      },
+      {
+        "Id": "9e7d-1521-3dc8-bea5"
+      },
+      {
+        "Id": "203a-51e5-9fc9-8eb3"
+      },
+      {
+        "Id": "ef84-79d-e39-7047"
+      },
+      {
+        "Id": "180a-8fbc-32ed-d6be"
+      },
+      {
+        "Id": "ef85-73db-c8cc-9432"
+      },
+      {
+        "Id": "3c5c-b69d-6be7-cbca"
+      },
+      {
+        "Id": "3837-b5fb-54d1-adf8"
+      },
+      {
+        "Id": "rules_1772462548586"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_ac8a-d52a-edc4-b45a",
+    "Name": "Crisis Sunforge Shas’ui",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3551"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2619"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "4bc9-74b7-1e9c-8619"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_a6db-e4b2-4859-a620",
+    "Name": "Crisis Fireknife Shas’ui",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3552"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2621"
+      },
+      {
+        "Id": "rule_2622"
+      },
+      {
+        "Id": "9167-b3e7-ff4a-dd38"
+      },
+      {
+        "Id": "3c5c-b69d-6be7-cbca"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_49e2-86ee-b35a-8dfd",
+    "Name": "Crisis Starscythe Shas’ui",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3553"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2623"
+      },
+      {
+        "Id": "rule_2624"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "4f5a-58b-5a49-1c96"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_1cdc-5918-cdf7-96b9",
+    "Name": "Kroot Trail Shaper",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3554"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2626"
+      },
+      {
+        "Id": "rule_2625"
+      },
+      {
+        "Id": "1148-4286-305f-66f7"
+      },
+      {
+        "Id": "2024-d0c7-ec66-9c5d"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_edbd-db07-c1af-7726",
+    "Name": "Kroot War Shaper",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3555"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2629"
+      },
+      {
+        "Id": "rule_2628"
+      },
+      {
+        "Id": "4167-7f7c-4716-ca8a"
+      },
+      {
+        "Id": "6ec3-91a0-02ff-f5e8"
+      },
+      {
+        "Id": "2024-d0c7-ec66-9c5d"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_e52-6ec5-f492-4701",
+    "Name": "Kroot Flesh Shaper",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3556"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2632"
+      },
+      {
+        "Id": "rule_2633"
+      },
+      {
+        "Id": "2dc9-2d09-171d-600d"
+      },
+      {
+        "Id": "7bff-bdc0-55bb-b704"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_f833-6a0c-4f21-38cf",
+    "Name": "Kroot Lone-spear",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3557"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2635"
+      },
+      {
+        "Id": "rule_2634"
+      },
+      {
+        "Id": "dbec-f0ae-85bd-6ba7"
+      },
+      {
+        "Id": "equipment_1772626037206"
+      },
+      {
+        "Id": "804-c754-e788-5598"
+      }
+    ],
+    "BaseId": "24"
+  },
+  {
+    "Id": "profile_b6a9-99fc-1e1c-d756",
+    "Name": "Krootox Rampagers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3558"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_2636"
+      },
+      {
+        "Id": "55a4-68a6-815f-4206"
+      },
+      {
+        "Id": "f766-90a1-a689-ff9a"
+      },
+      {
+        "Id": "equipment_1774436682950"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profiles_1772461417605",
+    "Name": "Ri´Lantar",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1772461361485"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "8\""
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rules_1772462932387"
+      },
+      {
+        "Id": "rules_1772463041057"
+      },
+      {
+        "Id": "rules_1772463166227"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1772462075531"
+      },
+      {
+        "Id": "equipment_1772462338779"
+      },
+      {
+        "Id": "equipment_1772462271919"
+      },
+      {
+        "Id": "equipment_1772462394283"
+      },
+      {
+        "Id": "equipment_1772462204050"
+      },
+      {
+        "Id": "equipment_1772462242395"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profiles_1772461450748",
+    "Name": "Ri´Local",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1772461361485"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "8\""
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rules_1772462932387"
+      },
+      {
+        "Id": "rules_1772463041057"
+      },
+      {
+        "Id": "rules_1772463166227"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1772462119550"
+      },
+      {
+        "Id": "equipment_1772462167019"
+      },
+      {
+        "Id": "equipment_1772462378610"
+      },
+      {
+        "Id": "equipment_1772462271919"
+      },
+      {
+        "Id": "equipment_1772462394283"
+      },
+      {
+        "Id": "equipment_1772462204050"
+      },
+      {
+        "Id": "equipment_1772462242395"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profiles_1772626886036",
+    "Name": "Breacher Fire Warrior Shas’ui",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_3525"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2554"
+      },
+      {
+        "Id": "rule_2553"
+      },
+      {
+        "Id": "6b87-25ec-8946-7354"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      },
+      {
+        "Id": "b3d4-211a-48f8-266e"
+      },
+      {
+        "Id": "f9f3-a15e-537e-8852"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772627406286",
+    "Name": "Fire Warrior Shas’ui",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_3524"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2552"
+      },
+      {
+        "Id": "rule_2553"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      },
+      {
+        "Id": "7b5d-b5b4-88de-9799"
+      },
+      {
+        "Id": "b3d4-211a-48f8-266e"
+      },
+      {
+        "Id": "f9f3-a15e-537e-8852"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772628571917",
+    "Name": "Broadside Shas’vre",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_3535"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2575"
+      },
+      {
+        "Id": "86cd-e0c6-0001-bd7d"
+      },
+      {
+        "Id": "7761-1b77-42a7-af36"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774431151244",
+    "Name": "Crisis Fireknife Shas’vre",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_3552"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2621"
+      },
+      {
+        "Id": "rule_2622"
+      },
+      {
+        "Id": "9167-b3e7-ff4a-dd38"
+      },
+      {
+        "Id": "3c5c-b69d-6be7-cbca"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774431587931",
+    "Name": "Crisis Starscythe Shas’vre",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_3553"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2623"
+      },
+      {
+        "Id": "rule_2624"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "4f5a-58b-5a49-1c96"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774432422406",
+    "Name": "Crisis Sunforge Shas’vre",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statline_3551"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2619"
+      },
+      {
+        "Id": "4bc9-74b7-1e9c-8619"
+      },
+      {
+        "Id": "3bb9-f1fb-50ba-17b"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774435150703",
+    "Name": "Long-quill",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statline_3526"
+      },
+      {
+        "Id": "rule_21"
+      },
+      {
+        "Id": "rule_2556"
+      },
+      {
+        "Id": "6ec3-91a0-02ff-f5e8"
+      },
+      {
+        "Id": "1148-4286-305f-66f7"
+      },
+      {
+        "Id": "equipment_1774435037263"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774436145949",
+    "Name": "Kroot Kill-broker",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3546"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2588"
+      },
+      {
+        "Id": "3d83-77bd-3f68-949b"
+      },
+      {
+        "Id": "6ec3-91a0-02ff-f5e8"
+      },
+      {
+        "Id": "67eb-a8ac-afd1-dfc"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774436293533",
+    "Name": "Kroot Hound",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1774436249659"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_2588"
+      },
+      {
+        "Id": "e04f-b720-3b47-bb25"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774437257846",
+    "Name": "Pathfinder Shas’ui",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_3531"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "7\""
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2566"
+      },
+      {
+        "Id": "d283-f3f3-499a-dcad"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      },
+      {
+        "Id": "f9f3-a15e-537e-8852"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774438662382",
+    "Name": "Stealth Shas’vre",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_3528"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rules_1772462548586"
+      },
+      {
+        "Id": "rule_2561"
+      },
+      {
+        "Id": "rule_2562"
+      },
+      {
+        "Id": "7626-73ed-7cf1-8d3b"
+      },
+      {
+        "Id": "3d93-d7b-3ae5-7524"
+      },
+      {
+        "Id": "cbad-3604-3016-f719"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774439467595",
+    "Name": "Vespid Strain Leader",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statline_3533"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_2571"
+      },
+      {
+        "Id": "c113-44d9-5f2d-a25b"
+      },
+      {
+        "Id": "dee4-e704-c9f4-af63"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774517735147",
+    "Name": "Guardian Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2515"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774517888498",
+    "Name": "Gun Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "bca7-e744-1c90-b631"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774517933007",
+    "Name": "Marker Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2516"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774517956608",
+    "Name": "Shield Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2517"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791194514014",
+    "Name": "DS8 Support Turret",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2553",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791194579862",
+    "Name": "Grav-inhibitor Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2567",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791194647257",
+    "Name": "Recon Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2569",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791194694349",
+    "Name": "Missile Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "0f2c-e640-b41e-36a0",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791194857861",
+    "Name": "Oversight Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2572",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791194912285",
+    "Name": "Pulse Accelerator Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2568",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791194969433",
+    "Name": "Stealth Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2563",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1791195014494",
+    "Name": "Command Link Drone",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "rule_2521",
+        "Info": ""
+      }
+    ]
+  }
+]

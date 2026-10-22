@@ -1,0 +1,1385 @@
+[
+  {
+    "Id": "profile_94c5-3879-7961-3f56",
+    "Name": "Vindicare Assassin",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_823"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4231"
+      },
+      {
+        "Id": "rule_4230"
+      },
+      {
+        "Id": "rule_4229",
+        "Info": "4+"
+      },
+      {
+        "Id": "5f43-a224-ccb2-7f5f"
+      },
+      {
+        "Id": "1e7d-27b1-8103-8d0d"
+      },
+      {
+        "Id": "2fe0-b4e0-c8e3-235a"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_cff2-6ce7-3b80-b0e5",
+    "Name": "Culexus Assassin",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_824"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4236"
+      },
+      {
+        "Id": "rule_4234"
+      },
+      {
+        "Id": "rule_4235"
+      },
+      {
+        "Id": "rule_4233",
+        "Info": "4+"
+      },
+      {
+        "Id": "7c01-6673-319e-b63f"
+      },
+      {
+        "Id": "834c-818f-8c3-1a5f"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_7b9a-5633-a75a-bf90",
+    "Name": "Eversor Assassin",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_825"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "9\""
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4239"
+      },
+      {
+        "Id": "rule_4240"
+      },
+      {
+        "Id": "rule_4238",
+        "Info": "4+"
+      },
+      {
+        "Id": "6138-480-665a-8728"
+      },
+      {
+        "Id": "4430-6f4d-1b13-536"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_107c-fdb0-84df-fea",
+    "Name": "Callidus Assassin",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_826"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4244"
+      },
+      {
+        "Id": "rules_1778237735174"
+      },
+      {
+        "Id": "rule_4242",
+        "Info": "4+"
+      },
+      {
+        "Id": "3e29-79b2-e811-eca8"
+      },
+      {
+        "Id": "dd6b-cdca-1a78-7545"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_ac9d-92ec-9514-bc58",
+    "Name": "Rogue Trader",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_827"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4247"
+      },
+      {
+        "Id": "rule_4249"
+      },
+      {
+        "Id": "rule_4246",
+        "Info": "4+"
+      },
+      {
+        "Id": "d662-eb65-55bd-7db7"
+      },
+      {
+        "Id": "48d5-f472-baca-7837"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_16c2-78c3-4169-3fd5",
+    "Name": "Voidsmen-at-Arms",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_828"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4251"
+      },
+      {
+        "Id": "rule_4252"
+      },
+      {
+        "Id": "7fdf-79be-569b-e152"
+      },
+      {
+        "Id": "37bb-d839-ed38-7890"
+      },
+      {
+        "Id": "bb84-ae6f-de99-74b2"
+      },
+      {
+        "Id": "60f8-b36b-1296-1bfe"
+      },
+      {
+        "Id": "b72c-d574-473d-d434"
+      },
+      {
+        "Id": "b366-d3c5-ebc-8cf9"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_4f27-2818-3b34-1020",
+    "Name": "Imperial Navy Breachers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_829"
+      },
+      {
+        "Id": "rule_4253"
+      },
+      {
+        "Id": "rule_4254"
+      },
+      {
+        "Id": "rule_4255"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "14ac-7b0b-4a75-a0af"
+      },
+      {
+        "Id": "7309-7d35-84d2-511f"
+      },
+      {
+        "Id": "9851-48d8-fcf6-2314"
+      },
+      {
+        "Id": "5d9d-466a-6043-df2d"
+      },
+      {
+        "Id": "72fd-7b1a-8ad8-a8d5"
+      },
+      {
+        "Id": "bcd2-cb5-73a1-7123"
+      },
+      {
+        "Id": "ed22-78ac-d7c2-4a43"
+      },
+      {
+        "Id": "9872-d216-7e13-d3ee"
+      },
+      {
+        "Id": "b626-54c8-2c72-fe35"
+      },
+      {
+        "Id": "b5f4-345c-d5f-de6c"
+      },
+      {
+        "Id": "5645-1303-b9d6-6abb"
+      },
+      {
+        "Id": "fd23-8d2b-a87d-6e80"
+      },
+      {
+        "Id": "b366-d3c5-ebc-8cf9"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_ffdd-681f-cd1a-f238",
+    "Name": "Subductor Squad",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_830"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4257"
+      },
+      {
+        "Id": "rule_4258"
+      },
+      {
+        "Id": "ef39-67bf-7363-3277"
+      },
+      {
+        "Id": "11b9-e61e-5721-ab4a"
+      },
+      {
+        "Id": "a246-f895-2e80-31f6"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_2155-a47e-1f04-eec2",
+    "Name": "Exaction Squad",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_831"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4262"
+      },
+      {
+        "Id": "7d1f-da1a-5859-ca34"
+      },
+      {
+        "Id": "ef39-67bf-7363-3277"
+      },
+      {
+        "Id": "514b-96f9-b59c-49dc"
+      },
+      {
+        "Id": "a3f8-c750-49fb-d6ac"
+      },
+      {
+        "Id": "75fb-7762-f260-b2ce"
+      },
+      {
+        "Id": "123c-e737-92bb-ddf"
+      },
+      {
+        "Id": "33ca-c668-4ae3-5c89"
+      },
+      {
+        "Id": "a6d-9222-b105-9d08"
+      },
+      {
+        "Id": "b366-d3c5-ebc-8cf9"
+      },
+      {
+        "Id": "11b9-e61e-5721-ab4a"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_2ea5-bbd7-b070-171f",
+    "Name": "Vigilant Squad",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_832"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4263"
+      },
+      {
+        "Id": "a3f8-c750-49fb-d6ac"
+      },
+      {
+        "Id": "75fb-7762-f260-b2ce"
+      },
+      {
+        "Id": "123c-e737-92bb-ddf"
+      },
+      {
+        "Id": "33ca-c668-4ae3-5c89"
+      },
+      {
+        "Id": "a6d-9222-b105-9d08"
+      },
+      {
+        "Id": "ef39-67bf-7363-3277"
+      },
+      {
+        "Id": "514b-96f9-b59c-49dc"
+      },
+      {
+        "Id": "b366-d3c5-ebc-8cf9"
+      },
+      {
+        "Id": "11b9-e61e-5721-ab4a"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_1f1-b4c4-21e3-ba00",
+    "Name": "Inquisitor Draxus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_833"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4399"
+      },
+      {
+        "Id": "rule_4265"
+      },
+      {
+        "Id": "rule_4266",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_4264",
+        "Info": "5+"
+      },
+      {
+        "Id": "9fd4-2455-b74-b205"
+      },
+      {
+        "Id": "9a3c-c746-b27d-ed51"
+      },
+      {
+        "Id": "9a96-4ba7-31b4-a5ad"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_52d1-2365-2bfc-a3a1",
+    "Name": "Inquisitor Coteaz",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_834"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4399"
+      },
+      {
+        "Id": "rule_4269",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_4270"
+      },
+      {
+        "Id": "rule_4268",
+        "Info": "4+"
+      },
+      {
+        "Id": "cde3-1720-9bc2-2579"
+      },
+      {
+        "Id": "66ba-5f51-fb20-931d"
+      },
+      {
+        "Id": "9198-35a0-5e96-c4d0"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4bcd-feea-c3bb-4c7c",
+    "Name": "Inquisitor Greyfax",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_835"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4399"
+      },
+      {
+        "Id": "rule_4274"
+      },
+      {
+        "Id": "rule_4275"
+      },
+      {
+        "Id": "rule_4273",
+        "Info": "5+"
+      },
+      {
+        "Id": "7d43-c9b3-1fb0-42db"
+      },
+      {
+        "Id": "b2d2-fcb6-24d1-277e"
+      },
+      {
+        "Id": "965b-f9b5-ce1-1b8a"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_82ca-9509-a837-71ca",
+    "Name": "Inquisitor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_836"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4399"
+      },
+      {
+        "Id": "rule_4400"
+      },
+      {
+        "Id": "rule_4280",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_4282"
+      },
+      {
+        "Id": "cde3-1720-9bc2-2579"
+      },
+      {
+        "Id": "d2a6-b553-5cb5-ae6c"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_dbd9-a367-c039-19f8",
+    "Name": "Navigator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_837"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4302",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_4301",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_4300",
+        "Info": "4+"
+      },
+      {
+        "Id": "b72c-d574-473d-d434"
+      },
+      {
+        "Id": "479e-eef3-2eeb-65fd"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_fb29-b4c0-e2eb-1520",
+    "Name": "Ministorum Priest",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1778238783607"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4305"
+      },
+      {
+        "Id": "rule_4304"
+      },
+      {
+        "Id": "rule_4307",
+        "Info": "4+"
+      },
+      {
+        "Id": "cefd-521c-f7f3-a9d9"
+      },
+      {
+        "Id": "1ffe-eb6e-9b13-3d80"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_ba51-0f82-838f-a8d1",
+    "Name": "Inquisitorial Agents",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_838"
+      },
+      {
+        "Id": "rule_4308"
+      },
+      {
+        "Id": "rule_4309"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "87cf-f521-a9b7-5be0"
+      },
+      {
+        "Id": "534e-66fb-53a3-56af"
+      },
+      {
+        "Id": "6142-f976-8d95-ae2d"
+      },
+      {
+        "Id": "2b19-87fe-70c2-ee3b"
+      },
+      {
+        "Id": "171f-c9aa-18b2-78a0"
+      },
+      {
+        "Id": "6374-a658-eb4e-8e18"
+      },
+      {
+        "Id": "7c27-49b7-94d2-7469"
+      },
+      {
+        "Id": "7f6e-3b47-8d18-0196"
+      },
+      {
+        "Id": "b489-a443-39a9-e6c1"
+      },
+      {
+        "Id": "4aec-4835-ce6c-e91c"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_6a85-b91a-ec79-83d2",
+    "Name": "Grey Knights Terminator Squad",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_839"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4311"
+      },
+      {
+        "Id": "rule_4312"
+      },
+      {
+        "Id": "rule_4313",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "73e8-2319-d858-dcd8"
+      },
+      {
+        "Id": "832e-d9fc-f466-82c9"
+      },
+      {
+        "Id": "f33f-44de-10c-9340"
+      },
+      {
+        "Id": "21fb-e361-c04b-9682"
+      },
+      {
+        "Id": "c8b4-9dd4-b43d-ea87"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_8c83-5b3b-c266-3684",
+    "Name": "Inquisitorial Chimera",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_840"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_31"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4316"
+      },
+      {
+        "Id": "a309-1a2f-e912-a308"
+      },
+      {
+        "Id": "171f-c9aa-18b2-78a0"
+      },
+      {
+        "Id": "37b4-6204-0f11-f5f0"
+      },
+      {
+        "Id": "33ca-c668-4ae3-5c89"
+      },
+      {
+        "Id": "ddf1-0735-e524-ef51"
+      },
+      {
+        "Id": "fe95-43a6-b58b-cb09"
+      },
+      {
+        "Id": "21fb-e361-c04b-9682"
+      },
+      {
+        "Id": "6bc1-f863-9e59-fbb0"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_3b22-872c-e7c5-3578",
+    "Name": "Imperial Rhino",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_841"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_31"
+      },
+      {
+        "Id": "rule_4317"
+      },
+      {
+        "Id": "21fb-e361-c04b-9682"
+      },
+      {
+        "Id": "ddf1-0735-e524-ef51"
+      },
+      {
+        "Id": "6bc1-f863-9e59-fbb0"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_e6d4-6499-9cb6-b80b",
+    "Name": "Sisters of Battle Squad",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_842"
+      },
+      {
+        "Id": "rule_4319"
+      },
+      {
+        "Id": "rule_4320"
+      },
+      {
+        "Id": "rule_4321"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "f6eb-f956-857b-35ee"
+      },
+      {
+        "Id": "171f-c9aa-18b2-78a0"
+      },
+      {
+        "Id": "9872-d216-7e13-d3ee"
+      },
+      {
+        "Id": "bcd2-cb5-73a1-7123"
+      },
+      {
+        "Id": "470f-33c3-3f32-c1dd"
+      },
+      {
+        "Id": "9020-1525-748b-112a"
+      },
+      {
+        "Id": "7fda-fe83-ce04-262e"
+      },
+      {
+        "Id": "98d7-79d6-b7dc-5085"
+      },
+      {
+        "Id": "71fd-b6d9-a025-88a6"
+      },
+      {
+        "Id": "211f-c645-a85e-30d1"
+      },
+      {
+        "Id": "d194-b2f3-ad36-b3d9"
+      },
+      {
+        "Id": "6c8d-fc18-8bf8-016e"
+      },
+      {
+        "Id": "b626-54c8-2c72-fe35"
+      },
+      {
+        "Id": "5645-1303-b9d6-6abb"
+      },
+      {
+        "Id": "45a6-2c98-63c6-9009"
+      },
+      {
+        "Id": "b489-a443-39a9-e6c1"
+      },
+      {
+        "Id": "8770-3646-9fe7-380e"
+      },
+      {
+        "Id": "ce3f-7955-e4b0-43ea"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_90a7-14d4-5226-539c",
+    "Name": "Sisters of Battle Immolator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_843"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_4322"
+      },
+      {
+        "Id": "rule_4323"
+      },
+      {
+        "Id": "rule_4324"
+      },
+      {
+        "Id": "56b7-5c98-bfb5-f3c5"
+      },
+      {
+        "Id": "8005-dced-cef7-e465"
+      },
+      {
+        "Id": "7e7f-eda9-6368-a001"
+      },
+      {
+        "Id": "171f-c9aa-18b2-78a0"
+      },
+      {
+        "Id": "ddf1-0735-e524-ef51"
+      },
+      {
+        "Id": "6bc1-f863-9e59-fbb0"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_782e-311e-0601-a32f",
+    "Name": "Corvus Blackstar",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_844"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_4334"
+      },
+      {
+        "Id": "rule_4335"
+      },
+      {
+        "Id": "rule_4336"
+      },
+      {
+        "Id": "8e0e-8d1e-6650-0f37"
+      },
+      {
+        "Id": "afdb-e7ca-0da5-0329"
+      },
+      {
+        "Id": "b21c-77dc-2d08-a4ba"
+      },
+      {
+        "Id": "bd72-ffb6-630f-407b"
+      },
+      {
+        "Id": "594e-cd17-c8e1-bc20"
+      },
+      {
+        "Id": "d1d4-6047-9b80-6f06"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_ec36-4160-f23b-de52",
+    "Name": "Deathwatch Kill Team",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_845"
+      },
+      {
+        "Id": "rule_4339"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "e175-56dc-9e1b-3ee4"
+      },
+      {
+        "Id": "9f6b-9aac-13d8-565e"
+      },
+      {
+        "Id": "d194-b2f3-ad36-b3d9"
+      },
+      {
+        "Id": "ffba-613a-16b2-9f35"
+      },
+      {
+        "Id": "8fd1-4a0c-8303-8023"
+      },
+      {
+        "Id": "e148-2b57-b60d-5ebd"
+      },
+      {
+        "Id": "6a96-0ed8-5b81-adce"
+      },
+      {
+        "Id": "186c-ba34-5eb6-9d7d"
+      },
+      {
+        "Id": "9c0f-2c5c-1725-ad53"
+      },
+      {
+        "Id": "b366-d3c5-ebc-8cf9"
+      },
+      {
+        "Id": "8396-69c3-bfa2-14c3"
+      },
+      {
+        "Id": "ce3f-7955-e4b0-43ea"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_1226-d99a-887a-860f",
+    "Name": "Watch Captain Artemis",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_846"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4377"
+      },
+      {
+        "Id": "rule_4378"
+      },
+      {
+        "Id": "rule_4376",
+        "Info": "4+"
+      },
+      {
+        "Id": "03ae-2572-6906-d7f7"
+      },
+      {
+        "Id": "df48-4e1a-ee9d-6eb1"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_3f5a-2b44-61a7-5fa0",
+    "Name": "Watch Master",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_847"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4381"
+      },
+      {
+        "Id": "rule_4382"
+      },
+      {
+        "Id": "rule_4380",
+        "Info": "4+"
+      },
+      {
+        "Id": "cadd-10af-e1ea-6afa"
+      },
+      {
+        "Id": "821d-183e-cf77-e5b5"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_3655-8279-6fb4-d3d2",
+    "Name": "Sanctifiers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_27"
+      },
+      {
+        "Id": "rule_21"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4387"
+      },
+      {
+        "Id": "rule_4388"
+      },
+      {
+        "Id": "rule_4389"
+      },
+      {
+        "Id": "rule_4390"
+      },
+      {
+        "Id": "a467-b7c9-d634-c638"
+      },
+      {
+        "Id": "1cae-8fd7-5acd-b019"
+      },
+      {
+        "Id": "a592-6eb9-16bb-1e16"
+      },
+      {
+        "Id": "3555-4708-9abf-28c8"
+      },
+      {
+        "Id": "d86d-4b46-f54-e424"
+      },
+      {
+        "Id": "3387-c401-ba5-34c2"
+      },
+      {
+        "Id": "5645-1303-b9d6-6abb"
+      },
+      {
+        "Id": "7fda-fe83-ce04-262e"
+      },
+      {
+        "Id": "45a6-2c98-63c6-9009"
+      },
+      {
+        "Id": "3277-cc48-f00b-db01"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_1765538601905",
+    "Name": "Aquila Kill Team",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_848"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4339"
+      },
+      {
+        "Id": "rule_4455"
+      },
+      {
+        "Id": "f916-3803-9e80-855c"
+      },
+      {
+        "Id": "d278-eb45-05da-c5c0"
+      },
+      {
+        "Id": "186c-ba34-5eb6-9d7d"
+      },
+      {
+        "Id": "17ef-9b38-6f0b-c397"
+      },
+      {
+        "Id": "ffba-613a-16b2-9f35"
+      },
+      {
+        "Id": "df66-08c5-b314-8f49"
+      },
+      {
+        "Id": "0fe0-a6b1-ebdf-8f61"
+      },
+      {
+        "Id": "e148-2b57-b60d-5ebd"
+      },
+      {
+        "Id": "a818-c18b-dc17-af9e"
+      },
+      {
+        "Id": "3dc3-7ced-4ca0-602a"
+      },
+      {
+        "Id": "87cf-f521-a9b7-5be0"
+      },
+      {
+        "Id": "534e-66fb-53a3-56af"
+      },
+      {
+        "Id": "6dd2-d8db-0d9b-db06"
+      },
+      {
+        "Id": "b539-d563-9633-20af"
+      },
+      {
+        "Id": "b366-d3c5-ebc-8cf9"
+      },
+      {
+        "Id": "2076-1163-963a-f5ca"
+      },
+      {
+        "Id": "31e9-944b-d3ec-4bf3"
+      },
+      {
+        "Id": "ce3f-7955-e4b0-43ea"
+      },
+      {
+        "Id": "9f6b-9aac-13d8-565e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profiles_1777364793505",
+    "Name": "Inquisitor Kroyle",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statlines_1777364382285"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rules_1777364742705"
+      },
+      {
+        "Id": "rules_1777364754142"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1777364464428"
+      },
+      {
+        "Id": "equipment_1777364547856"
+      },
+      {
+        "Id": "equipment_1777364600678"
+      },
+      {
+        "Id": "equipment_1777364646950"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1778240243280",
+    "Name": "Death Cult Assassin",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statlines_1778240273233"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4247"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_4249"
+      },
+      {
+        "Id": "707e-6bbd-e1ee-84ad"
+      },
+      {
+        "Id": "2238-6e6d-ab5a-fa4f"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1778240457452",
+    "Name": "Lectro-Maester",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statlines_1778240273233"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4247"
+      },
+      {
+        "Id": "rule_4249"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "ac05-8b9f-44f0-abee"
+      },
+      {
+        "Id": "equipment_1778240575783"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1778240606863",
+    "Name": "Rejuvenat Adept",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statlines_1778240273233"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_4454"
+      },
+      {
+        "Id": "rule_4247"
+      },
+      {
+        "Id": "rule_4249"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_4250"
+      },
+      {
+        "Id": "b72c-d574-473d-d434"
+      },
+      {
+        "Id": "equipment_1778240575783"
+      }
+    ]
+  }
+]

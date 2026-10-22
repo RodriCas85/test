@@ -1,0 +1,91 @@
+[
+  {
+    "OptionId": "options_1716-942d-af9a-7444",
+    "ProfileId": "profile_fab4-d437-6e07-eb33",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "987-7629-8fda-88f8"
+      },
+      {
+        "Id": "9527-b68b-81be-49bd"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1716-942d-af9a-7444",
+    "ProfileId": "profile_4a80-c791-9d9f-30c6",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "987-7629-8fda-88f8"
+      },
+      {
+        "Id": "9527-b68b-81be-49bd"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_1d99-4473-2f61-80e7",
+    "ProfileId": "profile_5bd5-bca3-6228-ef17",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "aad1-aeb6-5e6a-e90f"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_8e79-eebf-91fc-472a",
+    "ProfileId": "profile_509b-6148-c31d-45c8",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "4b26-1b15-1f29-f773"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_b00-85a7-9a91-8eb8",
+    "ProfileId": "profile_509b-6148-c31d-45c8",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "4b26-1b15-1f29-f773"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_eefa-d605-b03f-6d67",
+    "ProfileId": "profile_509b-6148-c31d-45c8",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "4b26-1b15-1f29-f773"
+      }
+    ]
+  },
+  {
+    "OptionId": "options_7bbb-0a56-bcd5-0d1a",
+    "ProfileId": "profile_30be-d530-6161-4795",
+    "ReferencedItemsToRemove": [
+      {
+        "Id": "961c-015e-61e7-0106"
+      }
+    ]
+  },
+  {
+    "ProfileId": "profile_ffb0-e197-3a20-7515",
+    "OptionId": "options_1792411421556",
+    "UnitId": ""
+  },
+  {
+    "ProfileId": "profile_4a80-c791-9d9f-30c6",
+    "OptionId": "options_1792411421556",
+    "UnitId": ""
+  },
+  {
+    "ProfileId": "profile_0697-d230-d5e6-675c",
+    "OptionId": "options_1792411421556",
+    "UnitId": ""
+  },
+  {
+    "ProfileId": "profile_fab4-d437-6e07-eb33",
+    "OptionId": "options_1792411421556",
+    "UnitId": ""
+  }
+]

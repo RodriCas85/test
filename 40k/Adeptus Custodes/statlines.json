@@ -1,0 +1,1351 @@
+[
+  {
+    "Id": "statline_fe8b-58b8-b37c-39b6",
+    "Name": "Allarus Custodian",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "8",
+      "SV": "2+",
+      "W": "6",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_196",
+    "Name": "Balistus grenade launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_177",
+    "Name": "Castellan axe",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "4"
+    }
+  },
+  {
+    "Id": "statline_76c0-ea97-5a33-2b52",
+    "Name": "Castellan axe",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_175",
+    "Name": "Guardian Spear",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_9527-b68b-81be-49bd",
+    "Name": "Guardian Spear",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_147",
+    "Name": "Custodian Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "5",
+      "LD": "5+",
+      "OC": "3",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_145",
+    "Name": "Anathema Psykana Rhino",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "9",
+      "SV": "3+",
+      "W": "10",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_afcc-75f3-b4df-3302",
+    "Name": "Vortex Grenade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "6\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "*",
+      "AP": "*",
+      "D": "*"
+    }
+  },
+  {
+    "Id": "statline_211",
+    "Name": "Armoured tracks",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "4+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_180",
+    "Name": "Storm Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_c366-b7bc-cdf8-c99d",
+    "Name": "Hunter-killer missile",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "D3+3"
+    }
+  },
+  {
+    "Id": "statline_146",
+    "Name": "Blade Champion",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "7",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_5cbf-d12c-b81e-bd60",
+    "Name": "Emperor's Light",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_ad56-ca71-e22f-1730",
+    "Name": "Auriferous Orb",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "1",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_183",
+    "Name": "➤ Vaultswords - Victus",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-3",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_182",
+    "Name": "➤ Vaultswords - Hurricanis",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "10",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_181",
+    "Name": "➤ Vaultswords - Behemor",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_41a1-a4d8-a138-c3b7",
+    "Name": "Custodian Warden",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "6",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_149",
+    "Name": "Knight-Centura",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "3",
+      "SV": "3+",
+      "W": "4",
+      "LD": "6+",
+      "OC": "1",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_186",
+    "Name": "Executioner Greatblade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_84a5-17af-2af4-f77e",
+    "Name": "Gun Stock",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "2+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_f982-9683-078f-0a0b",
+    "Name": "Master-crafted Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "4",
+      "BS": "-",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_189",
+    "Name": "Master-crafted boltgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_74e7-c9ce-4f03-655e",
+    "Name": "Prosecutor",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "3",
+      "SV": "3+",
+      "W": "1",
+      "LD": "6+",
+      "OC": "2"
+    }
+  },
+  {
+    "Id": "statline_190",
+    "Name": "Boltgun",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "1",
+      "BS": "3+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_151",
+    "Name": "Shield-Captain",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "8",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_151d-a8bc-c7e8-eb36",
+    "Name": "Guardian Spear",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_c7b9-b35c-6882-d243",
+    "Name": "Castellan Axe",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "4"
+    }
+  },
+  {
+    "Id": "statline_94dc-9286-27c4-3bcc",
+    "Name": "Castellan Axe",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_b59a-290f-02af-2e5a",
+    "Name": "Eternity-pattern Paragon Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_194",
+    "Name": "Pyrithite Spear",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_adbb-f824-93e6-4c81",
+    "Name": "Pyrithite Spear",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D3+2"
+    }
+  },
+  {
+    "Id": "statline_152",
+    "Name": "Shield-Captain in Allarus Terminator Armour",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "8",
+      "SV": "2+",
+      "W": "9",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_153",
+    "Name": "Shield-Captain on Dawneagle Jetbike",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "8",
+      "SV": "2+",
+      "W": "10",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_199",
+    "Name": "Interceptor lance",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_b286-b80e-6daf-d1ae",
+    "Name": "Hurricane bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_198",
+    "Name": "Salvo launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "D3+2"
+    }
+  },
+  {
+    "Id": "statline_154",
+    "Name": "Trajann Valoris",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "10",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_200",
+    "Name": "Watcher's Axe",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "12",
+      "AP": "-3",
+      "D": "4"
+    }
+  },
+  {
+    "Id": "statline_201",
+    "Name": "Eagle's Scream",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_158",
+    "Name": "Vertus Praetors",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "8",
+      "SV": "2+",
+      "W": "7",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_e2f-fbab-14cc-dc6f",
+    "Name": "Interceptor lance",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_3b43-d4f1-f7cd-5f90",
+    "Name": "Vigilator",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "3",
+      "SV": "3+",
+      "W": "1",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_2a80-5200-1c10-fdc2",
+    "Name": "Executioner greatblade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "3",
+      "WS": "3+",
+      "S": "5",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_794c-b7c6-5668-fdc7",
+    "Name": "Witchseeker",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "3",
+      "SV": "3+",
+      "W": "1",
+      "LD": "6+",
+      "OC": "1"
+    }
+  },
+  {
+    "Id": "statline_fa7d-bddc-8b89-3575",
+    "Name": "Flamer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "4",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_4709-be42-0b1d-0b33",
+    "Name": "Gyrfalcon Jetbike",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "8",
+      "SV": "2+",
+      "W": "9",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_62de-cbbb-d72b-8b47",
+    "Name": "Solarite Power Lance",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_e244-2bf2-74f7-9a95",
+    "Name": "Adrathic Devastator",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "8",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_4b26-1b15-1f29-f773",
+    "Name": "Lastrum Bolt Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_f01a-6c57-26f5-5853",
+    "Name": "Twin Corvae Las-pulser",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D3+2"
+    }
+  },
+  {
+    "Id": "statline_5350-9e09-52ce-7a0a",
+    "Name": "Arachnus Volley Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "8",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_c20f-0bd5-2459-bf65",
+    "Name": "Venatari",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "5",
+      "LD": "6+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_227",
+    "Name": "Kinetic destroyer",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_228",
+    "Name": "Tarsis buckler",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_166",
+    "Name": "Contemptor-Galatus Dreadnought",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9\"",
+      "T": "10",
+      "SV": "2+",
+      "W": "12",
+      "LD": "5+",
+      "OC": "3",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_3e86-fd-1659-cef5",
+    "Name": "Warblade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "4",
+      "BS": "-",
+      "S": "6",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_754b-9a4a-6b86-73f8",
+    "Name": "Warblade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "8",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_167",
+    "Name": "Contemptor-Achillus Dreadnought",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "9\"",
+      "T": "10",
+      "SV": "2+",
+      "W": "12",
+      "LD": "5+",
+      "OC": "3",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_3fdd-84bf-e173-68a2",
+    "Name": "Dreadspear",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D3+2"
+    }
+  },
+  {
+    "Id": "statline_82f9-a397-1709-6800",
+    "Name": "Dreadspear",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D3+3"
+    }
+  },
+  {
+    "Id": "statline_c393-f1c0-a33b-5bc9",
+    "Name": "Twin Infernus incinerator",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_232",
+    "Name": "Lastrum storm bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_0b87-bbb3-1dd8-dadb",
+    "Name": "Adrathic combi-destructor",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_102e-5ed1-6d31-0d93",
+    "Name": "Palas Grav-attack",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "9",
+      "SV": "2+",
+      "W": "10",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_237",
+    "Name": "Armoured hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "4",
+      "WS": "4+",
+      "S": "6",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_e73d-b1e-efb5-129e",
+    "Name": "Twin Arachnus Blaze Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-3",
+      "D": "D3+2"
+    }
+  },
+  {
+    "Id": "statline_714f-6557-0a91-2960",
+    "Name": "Twin Iliastus Accelerator Fusil",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_169",
+    "Name": "Caladius Grav-tank",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "11",
+      "SV": "2+",
+      "W": "14",
+      "LD": "5+",
+      "OC": "4",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_13c4-ca95-0809-fdee",
+    "Name": "Twin Iliastus Accelerator Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_9992-31de-4b34-25f9",
+    "Name": "Twin Lastrum Bolt Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_37b8-d750-85a9-d649",
+    "Name": "Twin Neutronium Cascade Projectors",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "7",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_170",
+    "Name": "Telemon Heavy Dreadnought",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "11",
+      "SV": "2+",
+      "W": "14",
+      "LD": "5+",
+      "OC": "4",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_246",
+    "Name": "Spiculus bolt launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "6",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_cf43-850a-3401-1d97",
+    "Name": "Dual Caestus Fists",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "7",
+      "WS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "4"
+    }
+  },
+  {
+    "Id": "statline_3dcb-3970-4a42-324c",
+    "Name": "Caestus Fist",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "14",
+      "AP": "-3",
+      "D": "4"
+    }
+  },
+  {
+    "Id": "statline_eb78-936d-5bc1-ac71",
+    "Name": "Adrathic Desolator",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "4"
+    }
+  },
+  {
+    "Id": "statline_049b-46cd-5abe-4a7a",
+    "Name": "Arachnus Storm Cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "12",
+      "BS": "2+",
+      "S": "6",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_7489-b958-21a3-a105",
+    "Name": "Iliastus Accelerator Culverin",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-1",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_171",
+    "Name": "Coronus Grav-carrier",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "12\"",
+      "T": "12",
+      "SV": "2+",
+      "W": "16",
+      "LD": "5+",
+      "OC": "5",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_173",
+    "Name": "Ares Gunship",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "-",
+      "T": "12",
+      "SV": "2+",
+      "W": "22",
+      "LD": "6+",
+      "OC": "-",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_249",
+    "Name": "Arachnus heavy blaze cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D3+3"
+    }
+  },
+  {
+    "Id": "statline_252",
+    "Name": "Arachnus magna-blaze cannon",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "18",
+      "AP": "-4",
+      "D": "D6+6"
+    }
+  },
+  {
+    "Id": "statline_a94e-7676-65b3-b21e",
+    "Name": "Armoured hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "9",
+      "WS": "4+",
+      "S": "9",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_172",
+    "Name": "Orion Assault Dropship",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "14\"",
+      "T": "12",
+      "SV": "2+",
+      "W": "22",
+      "LD": "6+",
+      "OC": "0",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_250",
+    "Name": "Spiculus heavy bolt launcher",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "36\"",
+      "A": "8",
+      "BS": "2+",
+      "S": "7",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_aea1-fdc6-3c87-38ca",
+    "Name": "Sentinel Guard",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "8\"",
+      "T": "7",
+      "SV": "2+",
+      "W": "5",
+      "LD": "5+",
+      "OC": "3",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_184",
+    "Name": "Sentinel Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_32b4-0cc7-4dd6-36c5",
+    "Name": "Sentinel Blade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_4fa7-ea14-9648-dde4",
+    "Name": "Aquilon Terminator",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "7\"",
+      "T": "8",
+      "SV": "2+",
+      "W": "6",
+      "LD": "5+",
+      "OC": "2",
+      "InSv": "4+"
+    }
+  },
+  {
+    "Id": "statline_cbf7-ecd2-72fe-4ba7",
+    "Name": "Adrathic Combi-destructor",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "2",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_4199-cb2e-861f-e51a",
+    "Name": "Solarite Power Gauntlet",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_0889-9bc4-ecdb-ed41",
+    "Name": "Solarite Power Talons",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "2+",
+      "S": "6",
+      "AP": "-2",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_7051-4ab2-30f4-da07",
+    "Name": "Infernus Firepike",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "12\"",
+      "A": "3",
+      "BS": "-",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_961c-015e-61e7-0106",
+    "Name": "Lastrum Storm Bolter",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "24\"",
+      "A": "3",
+      "BS": "2+",
+      "S": "5",
+      "AP": "-1",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statline_1b41-0ae9-668a-3682",
+    "Name": "Verutum Lance",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "18\"",
+      "A": "1",
+      "BS": "2+",
+      "S": "10",
+      "AP": "-2",
+      "D": "3"
+    }
+  },
+  {
+    "Id": "statline_02bb-ecc2-e18a-2df5",
+    "Name": "Verutum Lance",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "5",
+      "WS": "2+",
+      "S": "7",
+      "AP": "-2",
+      "D": "2"
+    }
+  },
+  {
+    "Id": "statline_8369-d122-1efb-8e60",
+    "Name": "Caladius Annihilator Grav-tank",
+    "Type": "Statline",
+    "Attributes": {
+      "M": "10\"",
+      "T": "11",
+      "SV": "2+",
+      "W": "14",
+      "LD": "5+",
+      "OC": "4",
+      "InSv": "5+"
+    }
+  },
+  {
+    "Id": "statline_6394-9a84-bd83-0513",
+    "Name": "Arachnus Blaze Carronade",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "48\"",
+      "A": "4",
+      "BS": "2+",
+      "S": "12",
+      "AP": "-3",
+      "D": "D6+2"
+    }
+  },
+  {
+    "Id": "statlines_1792411281968",
+    "Name": "Armoured Hull",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "6",
+      "WS": "4+",
+      "S": "8",
+      "AP": "0",
+      "D": "1"
+    }
+  },
+  {
+    "Id": "statlines_1792412178623",
+    "Name": "Gun Stock",
+    "Type": "Statline",
+    "Attributes": {
+      "Range": "Melee",
+      "A": "2",
+      "WS": "3+",
+      "S": "3",
+      "AP": "0",
+      "D": "1"
+    }
+  }
+]

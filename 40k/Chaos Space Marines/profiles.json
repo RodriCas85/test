@@ -1,0 +1,2681 @@
+[
+  {
+    "Id": "profile_7973-4c2e-a36f-ecc8",
+    "Name": "Abaddon the Despoiler",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1793"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3127"
+      },
+      {
+        "Id": "rule_3128"
+      },
+      {
+        "Id": "rule_3130",
+        "Info": "4+"
+      },
+      {
+        "Id": "5d4-40e6-b003-921d"
+      },
+      {
+        "Id": "f7e1-1185-d5e-1ed0"
+      },
+      {
+        "Id": "f89d-b352-387c-1f29"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_e67b-88c3-a824-df15",
+    "Name": "Haarken Worldclaimer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1794"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3132"
+      },
+      {
+        "Id": "rule_3133",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3134",
+        "Info": "4+"
+      },
+      {
+        "Id": "6f2a-cacc-3e0-3062"
+      },
+      {
+        "Id": "9b71-6bc1-5ce9-91d9"
+      },
+      {
+        "Id": "362b-d3b5-cc21-5ae7"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_9885-ab09-b355-e2b6",
+    "Name": "Huron Blackheart",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1795"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771499789974",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3139",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "27d2-6f38-899f-2780"
+      },
+      {
+        "Id": "7519-b1c-c3dd-6786"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_c3cc-d6a1-2d48-9f3c",
+    "Name": "Heretic Astartes Daemon Prince",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1796"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3141",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3142"
+      },
+      {
+        "Id": "rule_3143"
+      },
+      {
+        "Id": "rule_3140",
+        "Info": "4+"
+      },
+      {
+        "Id": "a616-b7e2-b60b-852c"
+      },
+      {
+        "Id": "aee4-eca-f807-602e"
+      },
+      {
+        "Id": "c369-51e7-341a-25e7"
+      },
+      {
+        "Id": "rules_1772100150136"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_edb7-6f7d-1b60-c15c",
+    "Name": "Heretic Astartes Daemon Prince with wings",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1797"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3146"
+      },
+      {
+        "Id": "rule_3145"
+      },
+      {
+        "Id": "rule_3144",
+        "Info": "4+"
+      },
+      {
+        "Id": "a616-b7e2-b60b-852c"
+      },
+      {
+        "Id": "aee4-eca-f807-602e"
+      },
+      {
+        "Id": "c369-51e7-341a-25e7"
+      },
+      {
+        "Id": "rules_1772100150136"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_5d66-6070-ba56-596c",
+    "Name": "Fabius Bile",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1798"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3148"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3147"
+      },
+      {
+        "Id": "rule_3149"
+      },
+      {
+        "Id": "rule_3150"
+      },
+      {
+        "Id": "63d2-66ec-7609-7e16"
+      },
+      {
+        "Id": "1277-897a-f1c6-41dc"
+      },
+      {
+        "Id": "74c2-d4c9-4380-fcd4"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_62b5-7c85-3be5-28bc",
+    "Name": "Cypher",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1799"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3152",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3153"
+      },
+      {
+        "Id": "rule_3151",
+        "Info": "4+"
+      },
+      {
+        "Id": "161a-e319-7ad3-9a2e"
+      },
+      {
+        "Id": "849a-b99c-b991-9bd4"
+      },
+      {
+        "Id": "54b7-ae91-fab1-90b9"
+      },
+      {
+        "Id": "b4c7-44bd-d904-1f43"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_1db4-47dc-1edc-848d",
+    "Name": "Master of Possession",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1800"
+      },
+      {
+        "Id": "rule_3154"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3155",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_3156"
+      },
+      {
+        "Id": "rule_3157",
+        "Info": "5+"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      },
+      {
+        "Id": "c5b8-326c-cf2b-6798"
+      },
+      {
+        "Id": "5cb7-b494-5863-78ae"
+      },
+      {
+        "Id": "8998-93d9-a72c-b078"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_defd-1113-aaab-bab1",
+    "Name": "Chaos Lord",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1801"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3357"
+      },
+      {
+        "Id": "rule_3160"
+      },
+      {
+        "Id": "rule_3158",
+        "Info": "4+"
+      },
+      {
+        "Id": "e00-a8ad-5c76-83e1"
+      },
+      {
+        "Id": "a568-3f39-5456-b75d"
+      },
+      {
+        "Id": "6b2a-2af4-20b9-209"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_aef8-9ea8-a7c8-e0fb",
+    "Name": "Chaos Lord in Terminator Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1802"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3357"
+      },
+      {
+        "Id": "rule_3163"
+      },
+      {
+        "Id": "rule_3161",
+        "Info": "4+"
+      },
+      {
+        "Id": "18c6-edc7-d95c-ce7f"
+      },
+      {
+        "Id": "974f-bcfa-683b-7c3a"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_95fd-e1e3-6230-dd53",
+    "Name": "Sorcerer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1803"
+      },
+      {
+        "Id": "rule_3164"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3165",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_3166",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      },
+      {
+        "Id": "9d6b-9cc8-4461-e387"
+      },
+      {
+        "Id": "e12f-dc2e-a074-db36"
+      },
+      {
+        "Id": "7385-376e-44ba-e6db"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_a343-7b3c-1c6f-8d79",
+    "Name": "Sorcerer in Terminator Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1804"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3168"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3169",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_3170",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_3167",
+        "Info": "4+"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "9d6b-9cc8-4461-e387"
+      },
+      {
+        "Id": "e12f-dc2e-a074-db36"
+      },
+      {
+        "Id": "7385-376e-44ba-e6db"
+      },
+      {
+        "Id": "rule_3171"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_7faa-4fa0-5f1e-56e",
+    "Name": "Lord Discordant on Helstalker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1805"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3172"
+      },
+      {
+        "Id": "rule_3173"
+      },
+      {
+        "Id": "rule_3174",
+        "Info": "4+"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      },
+      {
+        "Id": "b347-fe10-f8cc-dcf4"
+      },
+      {
+        "Id": "b975-8164-a186-58c9"
+      },
+      {
+        "Id": "19c4-726a-471b-fa10"
+      },
+      {
+        "Id": "60ce-5a91-a3f1-f79a"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_6a48-4942-30d8-51b5",
+    "Name": "Warpsmith",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1806"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3175"
+      },
+      {
+        "Id": "rule_3176"
+      },
+      {
+        "Id": "rule_3177"
+      },
+      {
+        "Id": "e28c-aac4-a480-5128"
+      },
+      {
+        "Id": "e6c4-817b-33ad-a7a3"
+      },
+      {
+        "Id": "e00-a8ad-5c76-83e1"
+      },
+      {
+        "Id": "a568-3f39-5456-b75d"
+      },
+      {
+        "Id": "7333-4e83-2db0-c04f"
+      }
+    ],
+    "BaseId": "15"
+  },
+  {
+    "Id": "profile_20ca-39d2-5ec7-907c",
+    "Name": "Dark Apostle",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1807"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3183"
+      },
+      {
+        "Id": "rule_3184"
+      },
+      {
+        "Id": "rule_3185"
+      },
+      {
+        "Id": "rule_3186",
+        "Info": "4+"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      },
+      {
+        "Id": "edb9-128c-2409-9694"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4ad2-e49b-d2fd-1589",
+    "Name": "Mindwitch",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1772098040803"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3188"
+      },
+      {
+        "Id": "rule_3189"
+      },
+      {
+        "Id": "328c-145c-9ee-16f0"
+      },
+      {
+        "Id": "67b4-68b0-ddad-1059"
+      },
+      {
+        "Id": "equipment_1772097503844"
+      }
+    ],
+    "BaseId": "19"
+  },
+  {
+    "Id": "profile_2401-19b2-4c0-d1cf",
+    "Name": "Legionary",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1809"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3191"
+      },
+      {
+        "Id": "rule_673"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "ed14-ca67-9004-7353"
+      },
+      {
+        "Id": "equipment_1772788662388"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_ff64-b10f-1ff1-ad4",
+    "Name": "Chaos Cultist",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1810"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3192"
+      },
+      {
+        "Id": "cc5e-fce1-e9a8-eef4"
+      },
+      {
+        "Id": "28d-6009-31fe-c625"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_dd76-23c8-7426-cb72",
+    "Name": "Mutant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1811"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3193"
+      },
+      {
+        "Id": "2-59a-c100-6102"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_5ad3-f634-167c-3cab",
+    "Name": "Chaos Terminator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1812"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3194"
+      },
+      {
+        "Id": "rule_3195",
+        "Info": "4+"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "7c1f-e02-fe06-92fb"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_148d-db16-f9d4-4757",
+    "Name": "Master of Executions",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1813"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3197"
+      },
+      {
+        "Id": "rule_3198"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "b8af-fca3-362d-e30e"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_710e-790f-5fbc-a137",
+    "Name": "Possessed",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1814"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3200"
+      },
+      {
+        "Id": "rule_3199",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_673"
+      },
+      {
+        "Id": "cb88-7ee6-8273-e819"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_711d-2c6e-11aa-7d19",
+    "Name": "Chosen",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1815"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3201"
+      },
+      {
+        "Id": "rule_673"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "63e7-7452-2edb-99dc"
+      },
+      {
+        "Id": "7c1f-e02-fe06-92fb"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_ecf5-dbf2-e3ea-f168",
+    "Name": "Venomcrawler",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1816"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3203"
+      },
+      {
+        "Id": "rule_3202",
+        "Info": "5+"
+      },
+      {
+        "Id": "1181-649c-fc2c-b1b2"
+      },
+      {
+        "Id": "45c-1e82-d00b-c93c"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_15ff-38f-f155-65d9",
+    "Name": "Chaos Biker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1817"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1772793463063"
+      },
+      {
+        "Id": "rule_673"
+      },
+      {
+        "Id": "equipment_1771589813366"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "equipment_1772788662388"
+      }
+    ],
+    "BaseId": "9"
+  },
+  {
+    "Id": "profile_fa25-e12c-fd68-90b8",
+    "Name": "Raptor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1818"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3205",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3206"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "2d43-6b3b-7297-3604"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_9a12-5b76-ffe2-aaca",
+    "Name": "Warp Talon",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1819"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3207"
+      },
+      {
+        "Id": "rule_3208",
+        "Info": "5+"
+      },
+      {
+        "Id": "ba05-5efd-4be7-4038"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_d5b5-ead9-6c5a-b1aa",
+    "Name": "Havoc",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1820"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3209"
+      },
+      {
+        "Id": "3a7-579e-445e-da32"
+      },
+      {
+        "Id": "equipment_1772788662388"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_c866-76b5-3b1e-2601",
+    "Name": "Obliterators",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1821"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3210"
+      },
+      {
+        "Id": "rule_3211",
+        "Info": "5+"
+      },
+      {
+        "Id": "32b3-2969-c4ec-b229"
+      },
+      {
+        "Id": "3b9a-a07-e5c0-e5b4"
+      },
+      {
+        "Id": "5490-a3a2-1958-3615"
+      },
+      {
+        "Id": "8588-852d-f3c8-5341"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_a7d7-bc6-e686-9375",
+    "Name": "Noctilith Crown",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1822"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3212",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3213"
+      },
+      {
+        "Id": "f3c9-a0ea-25b7-fa56"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_5d05-bf5a-a9e0-5a65",
+    "Name": "Vashtorr the Arkifane",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1823"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3215",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3216"
+      },
+      {
+        "Id": "rule_3217"
+      },
+      {
+        "Id": "rule_3214",
+        "Info": "4+"
+      },
+      {
+        "Id": "a76d-d37d-750c-4099"
+      },
+      {
+        "Id": "a796-73af-f7f9-5c78"
+      },
+      {
+        "Id": "36fe-1591-b0c1-c64a"
+      }
+    ],
+    "BaseId": "16"
+  },
+  {
+    "Id": "profile_5bf6-7d3b-32c-f06f",
+    "Name": "Traitor Guardsmen",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1824"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3218"
+      },
+      {
+        "Id": "equipment_1773050376961"
+      },
+      {
+        "Id": "equipment_1772097503844"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_5d6-c01d-4352-9be8",
+    "Name": "Fellgor Beastmen",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1825"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3219"
+      },
+      {
+        "Id": "cc5e-fce1-e9a8-eef4"
+      },
+      {
+        "Id": "2bca-9891-8b6f-f6cf"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_f09c-52aa-5f56-ff31",
+    "Name": "Traitor Enforcer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1826"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3221"
+      },
+      {
+        "Id": "rule_3222"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "5d8c-bfcf-2cb8-fa70"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_4b90-f177-7b35-fb99",
+    "Name": "Chaos Land Raider",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1827"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3224"
+      },
+      {
+        "Id": "rule_3356"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "3a24-7f6b-db11-6cf"
+      },
+      {
+        "Id": "6691-69f0-ca72-827d"
+      },
+      {
+        "Id": "cb8a-dd24-fe4c-5d8c"
+      },
+      {
+        "Id": "e48b-ecc4-bbe7-dd6c"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_f57e-21c8-b50a-4b4b",
+    "Name": "Chaos Predator Annihilator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1828"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3225"
+      },
+      {
+        "Id": "d943-c785-a356-263a"
+      },
+      {
+        "Id": "6691-69f0-ca72-827d"
+      },
+      {
+        "Id": "3a24-7f6b-db11-6cf"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "equipment_1772790703226"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_87ed-113a-dd03-40ca",
+    "Name": "Chaos Predator Destructor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1829"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3226"
+      },
+      {
+        "Id": "9f32-4cfc-7282-41d0"
+      },
+      {
+        "Id": "6691-69f0-ca72-827d"
+      },
+      {
+        "Id": "equipment_1772790703226"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "3a24-7f6b-db11-6cf"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_5989-9bdb-4f0a-1747",
+    "Name": "Chaos Vindicator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1830"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3227"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "3a24-7f6b-db11-6cf"
+      },
+      {
+        "Id": "fc34-fd56-1075-6e3b"
+      },
+      {
+        "Id": "6691-69f0-ca72-827d"
+      },
+      {
+        "Id": "equipment_1772790703226"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_1df-7dee-4350-ba18",
+    "Name": "Defiler",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1831"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1774950799151"
+      },
+      {
+        "Id": "rules_1774950972971"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "equipment_1774953325908"
+      },
+      {
+        "Id": "1181-649c-fc2c-b1b2"
+      },
+      {
+        "Id": "equipment_1774953779260"
+      },
+      {
+        "Id": "equipment_1774953919992"
+      },
+      {
+        "Id": "equipment_1774953586210"
+      },
+      {
+        "Id": "equipment_1774953994820"
+      },
+      {
+        "Id": "equipment_1774954043484"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profile_7bc1-2f19-daca-3cef",
+    "Name": "Forgefiend",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1832"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3231"
+      },
+      {
+        "Id": "rule_3232",
+        "Info": "5+"
+      },
+      {
+        "Id": "2c4b-5059-9578-8124"
+      },
+      {
+        "Id": "b6ae-ab11-3efe-a55a"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_5267-7812-584a-f0ff",
+    "Name": "Helbrute",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1833"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3233",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3234"
+      },
+      {
+        "Id": "c74-2f27-b386-a09b"
+      },
+      {
+        "Id": "d137-8f12-7931-ae52"
+      },
+      {
+        "Id": "cce2-712c-bbdc-c11e"
+      },
+      {
+        "Id": "5fbc-eacd-4312-ca64"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_7a5-d670-2b5c-668b",
+    "Name": "Heldrake",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1834"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_28"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3235"
+      },
+      {
+        "Id": "rule_3236",
+        "Info": "5+"
+      },
+      {
+        "Id": "2c4b-5059-9578-8124"
+      },
+      {
+        "Id": "f2e7-4385-eeb9-9b5c"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_a93d-7481-a9c5-dcf8",
+    "Name": "Maulerfiend",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1835"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3237"
+      },
+      {
+        "Id": "rule_3238",
+        "Info": "5+"
+      },
+      {
+        "Id": "2e57-63c1-4a82-e352"
+      },
+      {
+        "Id": "2265-952-4447-177f"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_3aca-73f-c6ba-3d6f",
+    "Name": "Chaos Rhino",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1836"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_31",
+        "Info": "2"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3239"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "3a24-7f6b-db11-6cf"
+      },
+      {
+        "Id": "6691-69f0-ca72-827d"
+      },
+      {
+        "Id": "equipment_1772790703226"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_d900-6ac9-13d2-83ec",
+    "Name": "Khorne Lord of Skulls",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1837"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3240"
+      },
+      {
+        "Id": "rule_3242",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3241"
+      },
+      {
+        "Id": "299e-f785-7ff8-2694"
+      },
+      {
+        "Id": "e980-62a3-649c-2bc0"
+      },
+      {
+        "Id": "d4d2-7b86-2d37-bad5"
+      },
+      {
+        "Id": "9e0e-d1b1-686d-af59"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_a118-f9cc-8dca-283d",
+    "Name": "Chaos Spawn",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1838"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3243",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "ba77-3f17-1442-6de2"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_ae77-d655-4d8b-136c",
+    "Name": "Khorne Berzerker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1839"
+      },
+      {
+        "Id": "rule_3244"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      },
+      {
+        "Id": "e00-a8ad-5c76-83e1"
+      },
+      {
+        "Id": "a568-3f39-5456-b75d"
+      },
+      {
+        "Id": "ad77-65f7-8b2-5ee4"
+      },
+      {
+        "Id": "73bc-7dfc-1c12-2643"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_6ba-95f1-5214-dafa",
+    "Name": "Rubric Marines",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1840"
+      },
+      {
+        "Id": "rule_3246"
+      },
+      {
+        "Id": "rule_3247"
+      },
+      {
+        "Id": "bf47-57a3-4c77-bea3"
+      },
+      {
+        "Id": "6abd-735c-4ec7-92e4"
+      },
+      {
+        "Id": "a162-63b8-8871-80af"
+      },
+      {
+        "Id": "6a43-67da-6d04-cc90"
+      },
+      {
+        "Id": "672d-f472-2a52-98af"
+      },
+      {
+        "Id": "5b2a-bae-bd7a-443"
+      },
+      {
+        "Id": "465-1aa2-fe4-9f5b"
+      },
+      {
+        "Id": "9fb4-3ea7-2dfe-9732"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_2506-d72a-d0c7-f32e",
+    "Name": "Plague Marines",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1841"
+      },
+      {
+        "Id": "rule_3249"
+      },
+      {
+        "Id": "b055-e1-d23d-2b94"
+      },
+      {
+        "Id": "16fa-cd9e-572e-1b5e"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      },
+      {
+        "Id": "ed14-ca67-9004-7353"
+      },
+      {
+        "Id": "764a-68b9-164b-6651"
+      },
+      {
+        "Id": "49c5-9f16-2bbc-ff38"
+      },
+      {
+        "Id": "45e4-9e0a-7598-c74f"
+      },
+      {
+        "Id": "73fa-10e-5e5b-b486"
+      },
+      {
+        "Id": "6f5d-6839-50d5-a577"
+      },
+      {
+        "Id": "e00-a8ad-5c76-83e1"
+      },
+      {
+        "Id": "a568-3f39-5456-b75d"
+      },
+      {
+        "Id": "fae6-65eb-ff8d-f2c8"
+      },
+      {
+        "Id": "90ff-c9dc-1c52-a313"
+      },
+      {
+        "Id": "e0e9-86a0-e00b-a8bb"
+      },
+      {
+        "Id": "7d0f-3c40-9c91-5839"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_9f97-b4a9-511a-9a2d",
+    "Name": "Chaos Lord with Jump Pack",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1842"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3357"
+      },
+      {
+        "Id": "rule_3303"
+      },
+      {
+        "Id": "rule_3301",
+        "Info": "4+"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      },
+      {
+        "Id": "b80b-f6c1-81a3-6582"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_5c00-fe13-fc3b-89e8",
+    "Name": "Cultist Firebrand",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1843"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3304"
+      },
+      {
+        "Id": "rule_3305"
+      },
+      {
+        "Id": "1959-a6cb-160f-bb41"
+      },
+      {
+        "Id": "equipment_1772097168819"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_6ab6-87fe-f9e6-bf53",
+    "Name": "Legionary",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1844"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3309",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "63e7-7452-2edb-99dc"
+      },
+      {
+        "Id": "equipment_1772788662388"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_b6a5-d2ce-b5be-6a2d",
+    "Name": "Noise Marines",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1845"
+      },
+      {
+        "Id": "rule_3311"
+      },
+      {
+        "Id": "e7f5-aeec-cef8-6b41"
+      },
+      {
+        "Id": "80cd-78d7-fe89-e015"
+      },
+      {
+        "Id": "6a43-7380-d894-6722"
+      },
+      {
+        "Id": "106e-7b83-ed98-0043"
+      },
+      {
+        "Id": "5354-ae18-76ad-c7aa"
+      },
+      {
+        "Id": "7f73-2156-e99b-159c"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1771500033731",
+    "Name": "Red Corsairs Reave-Captain",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1771500084063"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771500173947"
+      },
+      {
+        "Id": "rules_1771500185732"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "a8bc-16b4-7389-12f7"
+      },
+      {
+        "Id": "equipment_1771500489579"
+      },
+      {
+        "Id": "e00-a8ad-5c76-83e1"
+      },
+      {
+        "Id": "a568-3f39-5456-b75d"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771589140522",
+    "Name": "Garreon the Corpsemaster",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statlines_1771588997351"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771588920261"
+      },
+      {
+        "Id": "rules_1771588937173"
+      },
+      {
+        "Id": "rules_1771588960161"
+      },
+      {
+        "Id": "equipment_1771589784886"
+      },
+      {
+        "Id": "equipment_1771589995982"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profiles_1771590055032",
+    "Name": "Garlon Souleater",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1771588997351"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771588920261"
+      },
+      {
+        "Id": "rules_1771588937173"
+      },
+      {
+        "Id": "rules_1771588960161"
+      },
+      {
+        "Id": "equipment_1771589870702"
+      },
+      {
+        "Id": "equipment_1771589949633"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771590145699",
+    "Name": "Katar Garrix",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1771588997351"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771588920261"
+      },
+      {
+        "Id": "rules_1771588937173"
+      },
+      {
+        "Id": "rules_1771588960161"
+      },
+      {
+        "Id": "equipment_1771589813366"
+      },
+      {
+        "Id": "equipment_1771589897833"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771590217980",
+    "Name": "Captain Sargotta",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1771589064063"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771588920261"
+      },
+      {
+        "Id": "rules_1771588937173"
+      },
+      {
+        "Id": "rules_1771588960161"
+      },
+      {
+        "Id": "613c-7878-409e-fd6e"
+      },
+      {
+        "Id": "equipment_1771589977041"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771590307964",
+    "Name": "The Enforcer",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1771589064063"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771588920261"
+      },
+      {
+        "Id": "rules_1771588937173"
+      },
+      {
+        "Id": "rules_1771588960161"
+      },
+      {
+        "Id": "equipment_1771589847169"
+      },
+      {
+        "Id": "equipment_1771589929046"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771590510216",
+    "Name": "Red Corsairs Raider",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1771590634804"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771590554690"
+      },
+      {
+        "Id": "63e7-7452-2edb-99dc"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "equipment_1771591051916"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1771590596338",
+    "Name": "Red Corsairs Raider Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1771590634804"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1771590554690"
+      },
+      {
+        "Id": "63e7-7452-2edb-99dc"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "equipment_1771591051916"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772097543349",
+    "Name": "Dark Disciple",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statlines_1772097568441"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3183"
+      },
+      {
+        "Id": "rule_3184"
+      },
+      {
+        "Id": "rule_3185"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "equipment_1772097503844"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772098718919",
+    "Name": "Iconarch",
+    "Type": "Profile",
+    "BaseId": "19",
+    "Children": [
+      {
+        "Id": "statlines_1772098040803"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_671"
+      },
+      {
+        "Id": "rule_672"
+      },
+      {
+        "Id": "rule_673"
+      },
+      {
+        "Id": "cc5e-fce1-e9a8-eef4"
+      },
+      {
+        "Id": "equipment_1772097503844"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772098839622",
+    "Name": "Blessed Blade",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1772098040803"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_671"
+      },
+      {
+        "Id": "rule_672"
+      },
+      {
+        "Id": "ddd4-c88-4b8-79fd"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772098900963",
+    "Name": "Cult Demagogue",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1808"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_671"
+      },
+      {
+        "Id": "rule_672"
+      },
+      {
+        "Id": "cc5e-fce1-e9a8-eef4"
+      },
+      {
+        "Id": "9011-9000-df92-2a23"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772099213249",
+    "Name": "Surgeon Acolyte",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statlines_1772099169856"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3147"
+      },
+      {
+        "Id": "rule_3149"
+      },
+      {
+        "Id": "rule_3150"
+      },
+      {
+        "Id": "107c-9b-db2c-194a"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772101574959",
+    "Name": "Traitor Ogryn",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1772101589668"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_677"
+      },
+      {
+        "Id": "rule_678"
+      },
+      {
+        "Id": "418c-85a0-b4d4-f738"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772102128174",
+    "Name": "Cultist Champion",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_1810"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_669"
+      },
+      {
+        "Id": "cc5e-fce1-e9a8-eef4"
+      },
+      {
+        "Id": "28d-6009-31fe-c625"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772102970809",
+    "Name": "Khorne Berzerker Champion",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1839"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772788412865",
+    "Name": "Aspiring Champion",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1809"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3191"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "b943-a6e9-3930-df9"
+      },
+      {
+        "Id": "equipment_1772788662388"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profiles_1772793214371",
+    "Name": "Torment",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statlines_1772793228220"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3193"
+      },
+      {
+        "Id": "a-b393-be24-4f53"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772793408280",
+    "Name": "Biker Champion",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_1817"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1772793463063"
+      },
+      {
+        "Id": "equipment_1771589813366"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "equipment_1772788662388"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772797440573",
+    "Name": "Terminator Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_1812"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3194"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "b805-bb52-d8d5-5e82"
+      },
+      {
+        "Id": "7c1f-e02-fe06-92fb"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772798206363",
+    "Name": "Chosen Champion",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1815"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3201"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "63e7-7452-2edb-99dc"
+      },
+      {
+        "Id": "7c1f-e02-fe06-92fb"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772798683086",
+    "Name": "Fellgor Champion",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1825"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_675"
+      },
+      {
+        "Id": "equipment_1772102428619"
+      },
+      {
+        "Id": "8d3d-98c5-bf51-b189"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772799460117",
+    "Name": "Havoc Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_1820"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3209"
+      },
+      {
+        "Id": "e0b3-e2cc-5b69-87d2"
+      },
+      {
+        "Id": "equipment_1772799598729"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772801877479",
+    "Name": "Visionary",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1844"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3309",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "fc25-9885-183a-3027"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1772802655936",
+    "Name": "Possessed Champion",
+    "Type": "Profile",
+    "BaseId": "4",
+    "Children": [
+      {
+        "Id": "statline_1814"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3200"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "cb88-7ee6-8273-e819"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773048539241",
+    "Name": "Raptor Champion",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1818"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3205",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_3206"
+      },
+      {
+        "Id": "equipment_1771590939915"
+      },
+      {
+        "Id": "2d43-6b3b-7297-3604"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773050252187",
+    "Name": "Traitor Sergeant",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_1824"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_674"
+      },
+      {
+        "Id": "e495-1581-6df6-3b57"
+      },
+      {
+        "Id": "equipment_1772097503844"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1773051598660",
+    "Name": "Warp Talon Champion",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1806"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rule_3207"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "ba05-5efd-4be7-4038"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774950307725",
+    "Name": "Kravek Morne",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statlines_1774950253907"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1774950420851"
+      },
+      {
+        "Id": "rules_1774950500462"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "d2ef-b5d7-632d-a4ea"
+      },
+      {
+        "Id": "18c6-edc7-d95c-ce7f"
+      },
+      {
+        "Id": "equipment_1774951350282"
+      },
+      {
+        "Id": "equipment_1774951557295"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774952057610",
+    "Name": "Mutilators",
+    "Type": "Profile",
+    "BaseId": "5",
+    "Children": [
+      {
+        "Id": "statlines_1774951760078"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3358"
+      },
+      {
+        "Id": "rules_1774950667000"
+      },
+      {
+        "Id": "rule_121",
+        "Info": "5+"
+      },
+      {
+        "Id": "equipment_1774951858394"
+      },
+      {
+        "Id": "equipment_1774952012118"
+      },
+      {
+        "Id": "equipment_1774952029019"
+      }
+    ]
+  }
+]

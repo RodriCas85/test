@@ -1,0 +1,988 @@
+[
+  {
+    "Id": "profile_fab4-d437-6e07-eb33",
+    "Name": "Allarus Custodian",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_fe8b-58b8-b37c-39b6"
+      },
+      {
+        "Id": "rule_d569-61db-406d-1d42"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "4953-43a1-cef4-8673"
+      },
+      {
+        "Id": "987-7629-8fda-88f8",
+        "Info": ""
+      },
+      {
+        "Id": "9527-b68b-81be-49bd",
+        "Info": ""
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_ffb0-e197-3a20-7515",
+    "Name": "Custodian Guard",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_147"
+      },
+      {
+        "Id": "rule_12b9-05c9-9ace-f098"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "9527-b68b-81be-49bd"
+      },
+      {
+        "Id": "987-7629-8fda-88f8"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_ff64-897e-0812-ab0f",
+    "Name": "Anathema Psykana Rhino",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_145"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_13b2-6518-dab3-7ea1",
+        "Info": "2"
+      },
+      {
+        "Id": "rules_1792409923642",
+        "Info": ""
+      },
+      {
+        "Id": "rule_20d7-959d-9ddd-0c14"
+      },
+      {
+        "Id": "c12-5da-6abb-d681"
+      },
+      {
+        "Id": "7671-dc88-3913-3884",
+        "Info": ""
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_11f7-2788-9bfd-177b",
+    "Name": "Blade Champion",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_146"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "rule_1a70-8702-4179-b711"
+      },
+      {
+        "Id": "rule_be52-2414-896d-55fc"
+      },
+      {
+        "Id": "rule_31ef-fcd4-c165-a95d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "7ffc-b8d9-10a7-7e4e"
+      },
+      {
+        "Id": "d09f-3496-dc55-e6b4"
+      },
+      {
+        "Id": "7953-e1ea-8b27-b564"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4a80-c791-9d9f-30c6",
+    "Name": "Custodian Warden",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_41a1-a4d8-a138-c3b7"
+      },
+      {
+        "Id": "rule_a696-cfc6-e27a-97ce"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "9527-b68b-81be-49bd",
+        "Info": ""
+      },
+      {
+        "Id": "987-7629-8fda-88f8",
+        "Info": ""
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_77f4-76e5-b2df-6483",
+    "Name": "Knight-Centura",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_149"
+      },
+      {
+        "Id": "rule_101b-4770-32be-d3a2"
+      },
+      {
+        "Id": "rule_dea5-7d20-9057-895b"
+      },
+      {
+        "Id": "rule_ffb8-5424-36a5-f9da"
+      },
+      {
+        "Id": "rule_ada6-bac1-ffe0-d6f7",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_20d7-959d-9ddd-0c14"
+      },
+      {
+        "Id": "d80a-a54d-1eaa-333d"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_6814-ce42-4b23-72a9",
+    "Name": "Prosecutor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_74e7-c9ce-4f03-655e"
+      },
+      {
+        "Id": "rule_34ce-359c-4fc1-da0b"
+      },
+      {
+        "Id": "rule_20d7-959d-9ddd-0c14"
+      },
+      {
+        "Id": "4bbd-8a2b-1ec0-2b8c"
+      },
+      {
+        "Id": "equipment_1792412195844",
+        "Info": ""
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_f8f3-0f06-13d0-6eaa",
+    "Name": "Shield-Captain",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_151"
+      },
+      {
+        "Id": "rule_1a70-8702-4179-b711"
+      },
+      {
+        "Id": "rule_5a38-d608-89c4-6377"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_e6a6-1d13-3027-3fce"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_957d-bd08-23ed-70be"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "rules_1792412484630",
+        "Info": ""
+      },
+      {
+        "Id": "adbb-f824-93e6-4c81"
+      },
+      {
+        "Id": "490a-487d-7889-e4c9"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_6024-501b-e93c-32a5",
+    "Name": "Shield-Captain in Allarus Terminator Armour",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_152"
+      },
+      {
+        "Id": "rule_4e62-8c6f-2631-373c"
+      },
+      {
+        "Id": "rule_4bed-b481-d02e-072c"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_e6a6-1d13-3027-3fce"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_957d-bd08-23ed-70be"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "4953-43a1-cef4-8673"
+      },
+      {
+        "Id": "9527-b68b-81be-49bd"
+      },
+      {
+        "Id": "151d-a8bc-c7e8-eb36"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_3560-b824-f02e-1e3b",
+    "Name": "Shield-Captain on Dawneagle Jetbike",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_153"
+      },
+      {
+        "Id": "rule_d569-255b-ad41-d354"
+      },
+      {
+        "Id": "rule_df6a-c9a7-bfc1-5cf9"
+      },
+      {
+        "Id": "rule_e6a6-1d13-3027-3fce"
+      },
+      {
+        "Id": "rule_957d-bd08-23ed-70be"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "7c7c-ee5d-5594-297a"
+      },
+      {
+        "Id": "aad1-aeb6-5e6a-e90f"
+      }
+    ],
+    "BaseId": "9"
+  },
+  {
+    "Id": "profile_d583-46c4-e043-e8e2",
+    "Name": "Trajann Valoris",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_154"
+      },
+      {
+        "Id": "rule_1a70-8702-4179-b711"
+      },
+      {
+        "Id": "rule_kw_captain-general",
+        "Info": "Aura"
+      },
+      {
+        "Id": "rule_0d01-a562-a398-9775"
+      },
+      {
+        "Id": "rule_957d-bd08-23ed-70be"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_kw_feel-no-pain",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "f447-7ba3-899d-5f35"
+      },
+      {
+        "Id": "cbb7-e6-d938-22bc"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_5bd5-bca3-6228-ef17",
+    "Name": "Vertus Praetor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_158"
+      },
+      {
+        "Id": "rule_9896-b356-2ad8-2fb9"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "e2f-fbab-14cc-dc6f"
+      },
+      {
+        "Id": "aad1-aeb6-5e6a-e90f"
+      }
+    ],
+    "BaseId": "9"
+  },
+  {
+    "Id": "profile_9474-9815-fd89-6490",
+    "Name": "Vigilator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_3b43-d4f1-f7cd-5f90"
+      },
+      {
+        "Id": "rule_ba73-e7d0-22ea-1c8f"
+      },
+      {
+        "Id": "rule_20d7-959d-9ddd-0c14"
+      },
+      {
+        "Id": "2a80-5200-1c10-fdc2"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_9fdd-e31a-5f28-85ea",
+    "Name": "Witchseeker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_794c-b7c6-5668-fdc7"
+      },
+      {
+        "Id": "rule_6449-d735-2ac6-02b1"
+      },
+      {
+        "Id": "rule_ada6-bac1-ffe0-d6f7",
+        "Info": "7\""
+      },
+      {
+        "Id": "rule_20d7-959d-9ddd-0c14"
+      },
+      {
+        "Id": "fa7d-bddc-8b89-3575"
+      },
+      {
+        "Id": "equipment_1792412195844",
+        "Info": ""
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_509b-6148-c31d-45c8",
+    "Name": "Gyrfalcon Jetbike",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_4709-be42-0b1d-0b33"
+      },
+      {
+        "Id": "rule_8733-1b5b-a5b8-deaf"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "62de-cbbb-d72b-8b47"
+      },
+      {
+        "Id": "4b26-1b15-1f29-f773"
+      }
+    ],
+    "BaseId": "9"
+  },
+  {
+    "Id": "profile_358a-4a13-adf5-35b1",
+    "Name": "Venatari",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_c20f-0bd5-2459-bf65"
+      },
+      {
+        "Id": "rule_e664-0500-5a3a-b18f"
+      },
+      {
+        "Id": "rule_fd11-6ea5-03cc-0fa7"
+      },
+      {
+        "Id": "rule_95ed-fba0-2edf-540c"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "8996-af7a-da88-622"
+      },
+      {
+        "Id": "6c54-f454-4353-4ac2"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_12f1-b6ca-867b-5c7c",
+    "Name": "Contemptor-Galatus Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_166"
+      },
+      {
+        "Id": "rule_50d4-136a-4e2a-d234"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
+      },
+      {
+        "Id": "3e86-fd-1659-cef5"
+      },
+      {
+        "Id": "754b-9a4a-6b86-73f8"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_1e1f-9a94-957f-9165",
+    "Name": "Contemptor-Achillus Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_167"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
+      },
+      {
+        "Id": "rule_50d4-136a-4e2a-d234"
+      },
+      {
+        "Id": "82f9-a397-1709-6800"
+      },
+      {
+        "Id": "3fdd-84bf-e173-68a2"
+      },
+      {
+        "Id": "9cbb-2c6f-2ed8-b636"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_102e-5ed1-6d31-0d93",
+    "Name": "Pallas Grav-attack",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_102e-5ed1-6d31-0d93"
+      },
+      {
+        "Id": "rule_7636-6089-5b7c-d80a"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "e73d-b1e-efb5-129e",
+        "Info": ""
+      },
+      {
+        "Id": "7671-dc88-3913-3884",
+        "Info": ""
+      }
+    ],
+    "BaseId": "10"
+  },
+  {
+    "Id": "profile_f676-72df-2ed7-8834",
+    "Name": "Caladius Grav-tank",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_169"
+      },
+      {
+        "Id": "rule_60a4-507e-da36-683c"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "5"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "13c4-ca95-0809-fdee"
+      },
+      {
+        "Id": "9992-31de-4b34-25f9"
+      }
+    ],
+    "BaseId": "11"
+  },
+  {
+    "Id": "profile_013b-ab38-f992-ff77",
+    "Name": "Telemon Heavy Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_170"
+      },
+      {
+        "Id": "rule_47d3-771a-7668-fd15"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "5"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "cac3-5b7e-537f-9f67"
+      },
+      {
+        "Id": "37b8-d750-85a9-d649"
+      },
+      {
+        "Id": "cf43-850a-3401-1d97"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_588c-2aa2-db7f-17be",
+    "Name": "Coronus Grav-carrier",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_171"
+      },
+      {
+        "Id": "rule_kw_assault",
+        "Info": "Vehicle"
+      },
+      {
+        "Id": "rule_c1df-d160-c810-60f5"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "5"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "e73d-b1e-efb5-129e"
+      },
+      {
+        "Id": "9992-31de-4b34-25f9"
+      },
+      {
+        "Id": "equipment_1792411300301",
+        "Info": ""
+      }
+    ],
+    "BaseId": "26"
+  },
+  {
+    "Id": "profile_e3eb-3331-b91f-eeb5",
+    "Name": "Ares Gunship",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_173"
+      },
+      {
+        "Id": "rule_24b5-43b5-1537-2bd2"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "7"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "4ddd-77d7-d216-7e90"
+      },
+      {
+        "Id": "2293-3396-fb34-7699"
+      },
+      {
+        "Id": "a94e-7676-65b3-b21e"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profile_c753-bc07-06bb-6254",
+    "Name": "Orion Assault Dropship",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_172"
+      },
+      {
+        "Id": "rule_kw_assault",
+        "Info": "Dropship"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_eec5-5f54-9c03-c305"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "7"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "4ddd-77d7-d216-7e90"
+      },
+      {
+        "Id": "b952-810d-d61d-70a4"
+      },
+      {
+        "Id": "9992-31de-4b34-25f9"
+      },
+      {
+        "Id": "a94e-7676-65b3-b21e"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profile_0697-d230-d5e6-675c",
+    "Name": "Sentinel Guard",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_aea1-fdc6-3c87-38ca"
+      },
+      {
+        "Id": "rule_0b0e-07cd-2469-831b"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "32b4-0cc7-4dd6-36c5"
+      },
+      {
+        "Id": "86f5-61c9-40ff-d0ca"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_2e55-b005-ab5c-f0ce",
+    "Name": "Aquilon Terminator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_4fa7-ea14-9648-dde4"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "rule_009f-62d6-dbd0-513a"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "cbf7-ecd2-72fe-4ba7"
+      },
+      {
+        "Id": "4199-cb2e-861f-e51a"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_30be-d530-6161-4795",
+    "Name": "Aquilon Terminator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_4fa7-ea14-9648-dde4"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "rule_6536-90dc-a12d-cbb2"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "0889-9bc4-ecdb-ed41"
+      },
+      {
+        "Id": "961c-015e-61e7-0106"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_3054-9e1a-2c7e-f11f",
+    "Name": "Venatari",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_c20f-0bd5-2459-bf65"
+      },
+      {
+        "Id": "rule_0ccc-412f-511f-4cc9"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_fd11-6ea5-03cc-0fa7"
+      },
+      {
+        "Id": "rule_95ed-fba0-2edf-540c"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_e348-7090-3aff-ee2c",
+        "Info": ""
+      },
+      {
+        "Id": "1b41-0ae9-668a-3682"
+      },
+      {
+        "Id": "02bb-ecc2-e18a-2df5"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_dbf0-5211-463c-40ec",
+    "Name": "Caladius Annihilator Grav-tank",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_8369-d122-1efb-8e60"
+      },
+      {
+        "Id": "rule_7cf4-e9f0-bb9c-c259"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_a398-0a1d-ef92-162b"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "5"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "6394-9a84-bd83-0513"
+      },
+      {
+        "Id": "18e4-2b3a-646e-9eb5",
+        "Info": ""
+      }
+    ],
+    "BaseId": "26"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "Id": "options_dd70-8ed8-309c-1bf",
+    "Name": "Shotgun, Combat knife",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "6b66-6f8e-2809-dfea"
+      },
+      {
+        "Id": "57ea-2bff-115b-1b75"
+      }
+    ]
+  },
+  {
+    "Id": "options_97be-d160-ab37-1b1e",
+    "Name": "Heavy Bolt Pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "3800-f335-e510-aaa6"
+      }
+    ]
+  },
+  {
+    "Id": "options_3c66-c41-31c4-a826",
+    "Name": "Hand flamer",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "5dec-ac64-4bf5-7d6c"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777980699607",
+    "Name": "Plasma pistol",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "4a80-2594-8839-c0bf"
+      },
+      {
+        "Id": "5edb-fb23-55e8-8415"
+      }
+    ]
+  },
+  {
+    "Id": "options_a4ba-650f-f99a-afcd",
+    "Name": "Thunder Hammer",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "4dbf-b3ea-afac-a26d"
+      }
+    ]
+  },
+  {
+    "Id": "options_98d9-b9b5-f2e3-824e",
+    "Name": "Master-crafted Power Weapon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "e22b-3d78-b0d2-f2b0"
+      }
+    ]
+  },
+  {
+    "Id": "options_3378-f713-ff02-3d7c",
+    "Name": "Twin Lightning Claws",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "9954-2c3a-9c2c-622b"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777887673786",
+    "Name": "Multi-melta",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1764334241909"
+      }
+    ]
+  },
+  {
+    "Id": "options_3cbe-b4ef-bb2b-6282",
+    "Name": "Bellicatus Missile Array",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "a4d0-6b1e-b6e8-f6ce"
+      },
+      {
+        "Id": "3e8b-ef9f-3ada-0658"
+      },
+      {
+        "Id": "59bc-a344-af08-2111"
+      }
+    ]
+  },
+  {
+    "Id": "options_188a-9bc2-59f5-727d",
+    "Name": "Orbital Comms Array",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_bff6-bd1-230f-5cb0"
+      }
+    ]
+  },
+  {
+    "Id": "options_284b-4ca3-1b81-a1a7",
+    "Name": "Shield Dome",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "rule_32cb-25c5-f0e7-9a98"
+      }
+    ]
+  },
+  {
+    "Id": "options_6324-f3c5-dc8c-779f",
+    "Name": "Ironhail Heavy Stubber",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "9111-913e-ec42-e830"
+      }
+    ]
+  },
+  {
+    "Id": "options_54f5-c4a7-8eea-a435",
+    "Name": "Fragstorm Grenade Launchers",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "edf6-2573-0feb-986a"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777978757605",
+    "Name": "Twin lascannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "equipment_1764335278242"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777978816603",
+    "Name": "Las-talon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "6777-105d-ff39-6650"
+      }
+    ]
+  },
+  {
+    "Id": "options_9458-a89-aae3-d05",
+    "Name": "Macro Plasma Incinerator",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "e54-149a-9924-afe"
+      },
+      {
+        "Id": "256a-8119-50f8-259"
+      }
+    ]
+  },
+  {
+    "Id": "options_1773681639806",
+    "Name": "Combi-weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "a668-202f-eb7b-4a41"
+      },
+      {
+        "Id": "85ef-e71a-c011-a62c"
+      },
+      {
+        "Id": "68fc-55e1-3698-cc25"
+      }
+    ]
+  },
+  {
+    "Id": "options_1777546890240",
+    "Name": "Astartes chainsword",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "6f69-50a1-37ef-b309"
+      }
+    ]
+  },
+  {
+    "Id": "options_ce2f-75d1-de96-3c26",
+    "Name": "Heavy Bolt Pistol",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "3800-f335-e510-aaa6"
+      }
+    ]
+  },
+  {
+    "Id": "options_f7d8-9616-dd48-e3d4",
+    "Name": "Master-crafted Power Weapon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "6915-9e8f-c92b-af24"
+      }
+    ]
+  },
+  {
+    "Id": "options_cfe3-a0ee-85c3-cff5",
+    "Name": "Hand flamer",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "5dec-ac64-4bf5-7d6c"
+      }
+    ]
+  }
+]

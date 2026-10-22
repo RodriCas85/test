@@ -1,0 +1,2293 @@
+[
+  {
+    "Id": "profile_b0-9810-679f-bc78",
+    "Name": "Skarbrand",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1495"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1635",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1401",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1402"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1403"
+      },
+      {
+        "Id": "52a-c584-6d44-36cb"
+      },
+      {
+        "Id": "9e01-ddf2-3056-628e"
+      },
+      {
+        "Id": "5d3a-68b5-3d84-3714"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_f77f-b470-be0f-daa3",
+    "Name": "Bloodthirster",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1496"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1404",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1405"
+      },
+      {
+        "Id": "rule_1635",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1627"
+      },
+      {
+        "Id": "5d4d-7050-d2cf-8240"
+      },
+      {
+        "Id": "6160-9374-7a40-76e5"
+      },
+      {
+        "Id": "fc9a-a154-b87e-94d9"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_2f74-1bd-5325-b496",
+    "Name": "Skulltaker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1497"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1408"
+      },
+      {
+        "Id": "rule_1409"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "7c4e-bef2-52bc-910e"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4d6f-7bbb-3288-fe9",
+    "Name": "Bloodmaster",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1498"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1411"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1413"
+      },
+      {
+        "Id": "rule_1414"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "e84f-d24f-4bb5-494f"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_ba83-e38d-e665-b84e",
+    "Name": "Skullmaster",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1499"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1416"
+      },
+      {
+        "Id": "rule_1417"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "e84f-d24f-4bb5-494f"
+      },
+      {
+        "Id": "71a9-34a6-7046-d871"
+      }
+    ],
+    "BaseId": "22"
+  },
+  {
+    "Id": "profile_2a91-3631-fe1-d803",
+    "Name": "Rendmaster on Blood Throne",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1500"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1420"
+      },
+      {
+        "Id": "rule_1421"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "9e5e-dd1-2411-5587"
+      },
+      {
+        "Id": "e84f-d24f-4bb5-494f"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_eaf5-35a5-d722-8d1b",
+    "Name": "Karanak",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1501"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1424"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1422"
+      },
+      {
+        "Id": "rule_1423"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1426"
+      },
+      {
+        "Id": "9496-b906-c70e-d89d"
+      },
+      {
+        "Id": "3bba-77d2-6bbe-920d"
+      }
+    ],
+    "BaseId": "9"
+  },
+  {
+    "Id": "profile_6936-6c8b-70de-e682",
+    "Name": "Bloodletter",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1502"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1428"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "a9ad-30af-af82-dadb"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_5bd-25cb-97b1-ede5",
+    "Name": "Bloodcrusher",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1503"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1432"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "a9ad-30af-af82-dadb"
+      },
+      {
+        "Id": "71a9-34a6-7046-d871"
+      }
+    ],
+    "BaseId": "22"
+  },
+  {
+    "Id": "profile_8f47-4048-a4f0-9495",
+    "Name": "Flesh Hound",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1504"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1434"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_1365"
+      },
+      {
+        "Id": "42d2-54b9-a737-98a2"
+      }
+    ],
+    "BaseId": "20"
+  },
+  {
+    "Id": "profile_8782-3237-7713-2d72",
+    "Name": "Skull Cannon",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1505"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1437"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "2c67-7dee-912e-4038"
+      },
+      {
+        "Id": "9e5e-dd1-2411-5587"
+      },
+      {
+        "Id": "2ca5-4de3-d432-4558"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_5f7b-7669-07a8-dcf1",
+    "Name": "Skull Altar",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1506"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1643"
+      },
+      {
+        "Id": "rule_1637"
+      },
+      {
+        "Id": "rule_1438",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1439"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_1d1d-e8f6-ca8b-ef60",
+    "Name": "Be'lakor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1507"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1440",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1441"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1627"
+      },
+      {
+        "Id": "cf9b-854-7621-765e"
+      },
+      {
+        "Id": "ee5d-b729-538c-1b51"
+      },
+      {
+        "Id": "ae8c-df6f-ec75-985a"
+      },
+      {
+        "Id": "e5bd-6ac-fcb1-5014"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_1e4c-bc41-2e73-debd",
+    "Name": "Daemon Prince of Chaos",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1508"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rules_1774368195730"
+      },
+      {
+        "Id": "rule_1447",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1448"
+      },
+      {
+        "Id": "rule_1449",
+        "Info": "4+"
+      },
+      {
+        "Id": "2940-89a7-4f9b-af33"
+      },
+      {
+        "Id": "78a7-1bd7-294f-12e2"
+      },
+      {
+        "Id": "6b21-6350-41-6ce0"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_41b8-9ce2-e5a5-dc68",
+    "Name": "Daemon Prince of Chaos with wings",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1509"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1450"
+      },
+      {
+        "Id": "rule_1451"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "2940-89a7-4f9b-af33"
+      },
+      {
+        "Id": "78a7-1bd7-294f-12e2"
+      },
+      {
+        "Id": "6b21-6350-41-6ce0"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_57c3-ca2c-d729-9cfc",
+    "Name": "Kairos Fateweaver",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1510"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1634",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1454"
+      },
+      {
+        "Id": "rule_1455",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1628"
+      },
+      {
+        "Id": "b9c2-b447-7c69-cd81"
+      },
+      {
+        "Id": "6de6-cd27-cbd4-d1fd"
+      },
+      {
+        "Id": "1e28-91b2-2a6a-6b24"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_686a-29a1-295d-d300",
+    "Name": "Lord of Change",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1511"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1457",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1458",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_1634",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1628"
+      },
+      {
+        "Id": "896c-f294-b33b-5637"
+      },
+      {
+        "Id": "669a-8c3e-d90a-8a71"
+      },
+      {
+        "Id": "3acd-48e5-e34b-b98c"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_9454-f490-3e87-3013",
+    "Name": "The Changeling",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1512"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_25"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1460"
+      },
+      {
+        "Id": "rule_1461"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "1bb9-4020-933a-886a"
+      },
+      {
+        "Id": "733-b3a7-b1e0-9f9a"
+      },
+      {
+        "Id": "49a3-481-5023-8d5e"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_48a3-1367-4fab-f885",
+    "Name": "Fateskimmer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1513"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1463"
+      },
+      {
+        "Id": "rule_1464"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "79d2-fb63-b7e6-2586"
+      },
+      {
+        "Id": "9526-df5a-a4a5-61f4"
+      },
+      {
+        "Id": "4d29-a68e-2f30-fe1f"
+      },
+      {
+        "Id": "711f-d5e-f41a-252"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_f34e-8f9b-22bb-cc44",
+    "Name": "Fluxmaster",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1514"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1466"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1467"
+      },
+      {
+        "Id": "rule_1468",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "79d2-fb63-b7e6-2586"
+      },
+      {
+        "Id": "9526-df5a-a4a5-61f4"
+      },
+      {
+        "Id": "4d29-a68e-2f30-fe1f"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_24eb-5761-e886-91aa",
+    "Name": "The Blue Scribes",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1515"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1471",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1472",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "873f-7b5b-313e-50cf"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_b90c-d428-328f-b83e",
+    "Name": "Changecaster",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1516"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1473"
+      },
+      {
+        "Id": "rule_1474",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_1475"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "79d2-fb63-b7e6-2586"
+      },
+      {
+        "Id": "9526-df5a-a4a5-61f4"
+      },
+      {
+        "Id": "4d29-a68e-2f30-fe1f"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_d24e-a587-4bd6-5f30",
+    "Name": "Blue Horror",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1517"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1478"
+      },
+      {
+        "Id": "rule_1479",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1480"
+      },
+      {
+        "Id": "e860-6cea-9d60-aef9"
+      },
+      {
+        "Id": "ede5-af41-743a-10bc"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_02ca-ba62-f305-1c51",
+    "Name": "Pink Horror",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1518"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1482"
+      },
+      {
+        "Id": "bf45-1c5-2b95-395"
+      },
+      {
+        "Id": "27c-c76-5dae-eb3b"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_9019-3004-c56e-dd7c",
+    "Name": "Flamer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1519"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1485"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "d23f-b816-5298-c424"
+      },
+      {
+        "Id": "f0f6-bc60-c20f-92c5"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_c233-f3e4-de21-f67e",
+    "Name": "Exalted Flamer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1520"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1487",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_1488",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "cdfd-c36e-fe76-346a"
+      },
+      {
+        "Id": "a76b-11bc-c0d8-9305"
+      },
+      {
+        "Id": "7f6-e07f-13f0-c2ee"
+      }
+    ],
+    "BaseId": "9"
+  },
+  {
+    "Id": "profile_e556-4ca2-559a-4e6f",
+    "Name": "Screamers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1521"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1492"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "d231-ae23-f021-e988"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_4423-54e4-32a3-1824",
+    "Name": "Burning Chariot",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1522"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1494",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "cdfd-c36e-fe76-346a"
+      },
+      {
+        "Id": "a76b-11bc-c0d8-9305"
+      },
+      {
+        "Id": "17e4-97cc-21a5-445d"
+      },
+      {
+        "Id": "711f-d5e-f41a-252"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_e5a2-f4de-b5fa-5d3f",
+    "Name": "Rotigus",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1523"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1633",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1496",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_1497",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1628"
+      },
+      {
+        "Id": "2a27-7f56-d47a-a46d"
+      },
+      {
+        "Id": "d5d7-f3c5-86a7-144e"
+      },
+      {
+        "Id": "5d7e-e825-e6fc-f298"
+      }
+    ],
+    "BaseId": "14"
+  },
+  {
+    "Id": "profile_2d9-6d45-a9dd-d147",
+    "Name": "Great Unclean One",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1524"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1633",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1499",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1500",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1628"
+      },
+      {
+        "Id": "acbc-5684-284d-ef5f"
+      },
+      {
+        "Id": "94a0-91ef-2f49-7ee"
+      },
+      {
+        "Id": "fc4e-b8b9-8c0b-f5ce"
+      },
+      {
+        "Id": "a6a4-72e3-4d09-7b80"
+      }
+    ],
+    "BaseId": "14"
+  },
+  {
+    "Id": "profile_8244-5609-e018-14aa",
+    "Name": "Poxbringer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1525"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_12",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1503"
+      },
+      {
+        "Id": "rule_1504",
+        "Info": "(Aura, Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "e75-28a0-bf39-4536"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_8b06-a1b2-5c62-76b9",
+    "Name": "Spoilpox Scrivener",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1526"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1507"
+      },
+      {
+        "Id": "rule_1508"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "32-af9-e2a5-52e1"
+      },
+      {
+        "Id": "1317-1831-db19-450e"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_e282-e6c9-da21-a9e9",
+    "Name": "Epidemius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1527"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1511"
+      },
+      {
+        "Id": "rule_1512"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "8cb7-cc2c-1c6b-e654"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_92b4-aef0-bf0-935b",
+    "Name": "Sloppity Bilepiper",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1528"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1515"
+      },
+      {
+        "Id": "rule_1516",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "653-7d89-1075-11ce"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_b770-2ed3-c45e-dc93",
+    "Name": "Horticulous Slimux",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1529"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1519"
+      },
+      {
+        "Id": "rule_1520"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "2b56-40bf-3795-207e"
+      },
+      {
+        "Id": "34b5-9fa-5d06-c30a"
+      }
+    ],
+    "BaseId": "10"
+  },
+  {
+    "Id": "profile_8665-6291-45e-81da",
+    "Name": "Plaguebearer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1530"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1522"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "6cb9-4819-239b-a1e6"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_129e-55b-55a9-7d28",
+    "Name": "Nurgling Swarm",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1531"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1524",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "8f10-bd3-845e-72d0"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_2c85-c751-d55c-8e8b",
+    "Name": "Beasts of Nurgle",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1532"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "1"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1526"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "3fee-ef02-8777-b40b"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_dde-8f77-bc0-803",
+    "Name": "Plague Drone",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1533"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1528"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "5d47-e721-3447-5432"
+      },
+      {
+        "Id": "6a59-74df-df85-cdf9"
+      },
+      {
+        "Id": "6cb9-4819-239b-a1e6"
+      }
+    ],
+    "BaseId": "6"
+  },
+  {
+    "Id": "profile_a6bf-5d1d-e5cd-b79d",
+    "Name": "Feculent Gnarlmaw",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1534"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1643"
+      },
+      {
+        "Id": "rule_1639"
+      },
+      {
+        "Id": "rule_1529",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1530"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_d737-64e5-2ae0-8ecb",
+    "Name": "Shalaxi Helbane",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1535"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1632",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1532"
+      },
+      {
+        "Id": "rule_1533"
+      },
+      {
+        "Id": "rule_1628"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "4629-431-c46e-2155"
+      },
+      {
+        "Id": "6f50-fa09-6306-83ef"
+      },
+      {
+        "Id": "41ba-3819-d76d-1170"
+      },
+      {
+        "Id": "a62a-2f90-1764-5964"
+      },
+      {
+        "Id": "a7e5-7ba5-999b-2c76"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_8b79-45b6-44d-da7",
+    "Name": "Keeper of Secrets",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1536"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1535",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1536"
+      },
+      {
+        "Id": "rule_1632",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_1627"
+      },
+      {
+        "Id": "864d-7635-ceba-3038"
+      },
+      {
+        "Id": "3e1a-6d53-65df-b272"
+      },
+      {
+        "Id": "a62a-2f90-1764-5964"
+      },
+      {
+        "Id": "f048-46a2-c41e-cf8d"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_69dc-3b8d-a487-e8e7",
+    "Name": "Infernal Enrapturess",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1537"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1540"
+      },
+      {
+        "Id": "rule_1541",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "1cab-abde-e6bc-283b"
+      },
+      {
+        "Id": "1b85-e84d-6366-3061"
+      },
+      {
+        "Id": "d8c4-188d-3708-a08a"
+      }
+    ],
+    "BaseId": "20"
+  },
+  {
+    "Id": "profile_96b7-fefd-d1a8-afe3",
+    "Name": "The Masque of Slaanesh",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1538"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_27"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1543"
+      },
+      {
+        "Id": "rule_1544"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "667c-a741-40a4-5ce8"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_8ea3-a17e-f482-816f",
+    "Name": "Syll'esske",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1539"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1546"
+      },
+      {
+        "Id": "rule_1547"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "60ee-c53e-8274-2850"
+      },
+      {
+        "Id": "8405-bec7-9230-4ace"
+      },
+      {
+        "Id": "f23-7678-af88-c21b"
+      },
+      {
+        "Id": "66bc-bd75-1187-738d"
+      },
+      {
+        "Id": "f853-5e02-7aaa-fe55"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_7906-5871-1ca1-4283",
+    "Name": "Contorted Epitome",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1540"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1550",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_1551",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "ad2c-4ad6-8208-9a49"
+      },
+      {
+        "Id": "cbf-389f-d07e-2d1"
+      }
+    ],
+    "BaseId": "9"
+  },
+  {
+    "Id": "profile_dcff-70c2-7195-8e06",
+    "Name": "Tormentbringer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1541"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1554",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_1555"
+      },
+      {
+        "Id": "60ae-8126-dd79-982b"
+      },
+      {
+        "Id": "dbff-9b30-a51b-0be1"
+      },
+      {
+        "Id": "93f2-bbc6-9ff0-ef4a"
+      },
+      {
+        "Id": "7acd-df2-bb6a-275b"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_885f-adc8-1b76-e9ff",
+    "Name": "Tranceweaver",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1542"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_3"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1558"
+      },
+      {
+        "Id": "rule_1559",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "5312-fec3-1ebe-4d14"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_3cf2-f2a4-8cbe-cdb7",
+    "Name": "Daemonette",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1543"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1561"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "810b-975e-2ae9-9eb8"
+      }
+    ],
+    "BaseId": "2"
+  },
+  {
+    "Id": "profile_858c-b044-131e-dee3",
+    "Name": "Fiend",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1544"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1564"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "fb8b-9462-728b-35e2"
+      }
+    ],
+    "BaseId": "9"
+  },
+  {
+    "Id": "profile_712-f238-ebd0-a31c",
+    "Name": "Seeker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1545"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "9\""
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1565"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "3f44-e2f-a843-6768"
+      },
+      {
+        "Id": "810b-975e-2ae9-9eb8"
+      }
+    ],
+    "BaseId": "20"
+  },
+  {
+    "Id": "profile_4063-1fc8-a9f7-3692",
+    "Name": "Hellflayers",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1546"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1568"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "b5d4-86e1-aef9-68dd"
+      },
+      {
+        "Id": "0a8f-36f3-e90e-cf37"
+      },
+      {
+        "Id": "93f2-bbc6-9ff0-ef4a"
+      },
+      {
+        "Id": "7acd-df2-bb6a-275b"
+      }
+    ],
+    "BaseId": "7"
+  },
+  {
+    "Id": "profile_1760610997391",
+    "Name": "Soul Grinder",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1547"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_579"
+      },
+      {
+        "Id": "rule_86"
+      },
+      {
+        "Id": "rule_878"
+      },
+      {
+        "Id": "d33-6098-da0a-be13"
+      },
+      {
+        "Id": "28c9-3943-d7b5-3d2e"
+      },
+      {
+        "Id": "c5f2-8a25-f74f-d618"
+      },
+      {
+        "Id": "4177-898a-c364-246"
+      },
+      {
+        "Id": "5f06-c69a-c58a-b87d"
+      },
+      {
+        "Id": "2e8b-2b17-e2b4-b4a7"
+      },
+      {
+        "Id": "4de3-ceff-d1e8-5994"
+      },
+      {
+        "Id": "de70-8b91-c457-3077"
+      }
+    ],
+    "BaseId": "13"
+  },
+  {
+    "Id": "profiles_1774524930195",
+    "Name": "Bloodreaper",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1502"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1358"
+      },
+      {
+        "Id": "a9ad-30af-af82-dadb"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774525676171",
+    "Name": "Brimstone Horror",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_1517"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_22"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1478"
+      },
+      {
+        "Id": "rule_1479"
+      },
+      {
+        "Id": "rule_1480"
+      },
+      {
+        "Id": "c2af-56a-2d33-82e0"
+      },
+      {
+        "Id": "823d-4ae2-9691-b49d"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774525878936",
+    "Name": "Alluress",
+    "Type": "Profile",
+    "BaseId": "2",
+    "Children": [
+      {
+        "Id": "statline_1543"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_29"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_758"
+      },
+      {
+        "Id": "810b-975e-2ae9-9eb8"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774526519488",
+    "Name": "Plagueridden",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1530"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_623"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "6cb9-4819-239b-a1e6"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774526935864",
+    "Name": "Bloodhunter",
+    "Type": "Profile",
+    "BaseId": "24",
+    "Children": [
+      {
+        "Id": "statline_1503"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1432"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "a9ad-30af-af82-dadb"
+      },
+      {
+        "Id": "71a9-34a6-7046-d871"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774527329686",
+    "Name": "Blissbringer",
+    "Type": "Profile",
+    "BaseId": "9",
+    "Children": [
+      {
+        "Id": "statline_1544"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_763"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "fb8b-9462-728b-35e2"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774527439207",
+    "Name": "Pyrocaster",
+    "Type": "Profile",
+    "BaseId": "1",
+    "Children": [
+      {
+        "Id": "statline_1519"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1485"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "4+"
+      },
+      {
+        "Id": "d23f-b816-5298-c424"
+      },
+      {
+        "Id": "f0f6-bc60-c20f-92c5"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774527577568",
+    "Name": "Gore Hound",
+    "Type": "Profile",
+    "BaseId": "20",
+    "Children": [
+      {
+        "Id": "statline_1504"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1364"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_1365"
+      },
+      {
+        "Id": "e860-361-75ad-2530"
+      },
+      {
+        "Id": "42d2-54b9-a737-98a2"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774527939105",
+    "Name": "Plaguebringer",
+    "Type": "Profile",
+    "BaseId": "6",
+    "Children": [
+      {
+        "Id": "statline_1533"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_1528"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+"
+      },
+      {
+        "Id": "5d47-e721-3447-5432"
+      },
+      {
+        "Id": "6a59-74df-df85-cdf9"
+      },
+      {
+        "Id": "6cb9-4819-239b-a1e6"
+      }
+    ]
+  },
+  {
+    "Id": "profiles_1774528202812",
+    "Name": "Heartseeker",
+    "Type": "Profile",
+    "BaseId": "20",
+    "Children": [
+      {
+        "Id": "statline_1545"
+      },
+      {
+        "Id": "rule_23"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "9\""
+      },
+      {
+        "Id": "rule_1642"
+      },
+      {
+        "Id": "rule_764"
+      },
+      {
+        "Id": "39cb-22ec-74c1-b9f"
+      },
+      {
+        "Id": "810b-975e-2ae9-9eb8"
+      }
+    ]
+  }
+]

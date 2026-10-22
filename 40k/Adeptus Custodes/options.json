@@ -1,0 +1,257 @@
+[
+  {
+    "Id": "options_1716-942d-af9a-7444",
+    "Name": "Castellan Axe",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "1fde-760c-17e2-4fd1"
+      },
+      {
+        "Id": "76c0-ea97-5a33-2b52"
+      }
+    ]
+  },
+  {
+    "Id": "options_ba35-32ec-46d3-c5ea",
+    "Name": "Hunter-killer missile",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "c71b-867a-00bf-5f59"
+      }
+    ]
+  },
+  {
+    "Id": "options_93a9-93c6-8eaa-ada4",
+    "Name": "Master-crafted Flamer",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "84a5-17af-2af4-f77e"
+      },
+      {
+        "Id": "f982-9683-078f-0a0b"
+      }
+    ]
+  },
+  {
+    "Id": "options_1769595547939",
+    "Name": "Master-crafted boltgun",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "84a5-17af-2af4-f77e"
+      },
+      {
+        "Id": "6a76-ad7d-8c55-0d9e"
+      }
+    ]
+  },
+  {
+    "Id": "options_2197-b397-779f-0626",
+    "Name": "Guardian Spear",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "151d-a8bc-c7e8-eb36"
+      },
+      {
+        "Id": "9527-b68b-81be-49bd"
+      }
+    ]
+  },
+  {
+    "Id": "options_1769595830738",
+    "Name": "Castellan Axe",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "c7b9-b35c-6882-d243"
+      },
+      {
+        "Id": "94dc-9286-27c4-3bcc"
+      }
+    ]
+  },
+  {
+    "Id": "options_5267-88a7-c874-ba99",
+    "Name": "Paragon Blade & Praesidium Shield",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "b59a-290f-02af-2e5a"
+      }
+    ]
+  },
+  {
+    "Id": "options_96ff-afb4-9741-3b46",
+    "Name": "Hurricane bolter",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "b286-b80e-6daf-d1ae"
+      }
+    ]
+  },
+  {
+    "Id": "options_1d99-4473-2f61-80e7",
+    "Name": "Hurricane bolter",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "b286-b80e-6daf-d1ae"
+      }
+    ]
+  },
+  {
+    "Id": "options_8e79-eebf-91fc-472a",
+    "Name": "Adrathic Devastator",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "e244-2bf2-74f7-9a95"
+      }
+    ]
+  },
+  {
+    "Id": "options_b00-85a7-9a91-8eb8",
+    "Name": "Twin Corvae Las-pulser",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "f01a-6c57-26f5-5853"
+      }
+    ]
+  },
+  {
+    "Id": "options_eefa-d605-b03f-6d67",
+    "Name": "Arachnus Volley Cannon",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "5350-9e09-52ce-7a0a"
+      }
+    ]
+  },
+  {
+    "Id": "options_6610-ef88-536f-9e15",
+    "Name": "Twin Infernus incinerator",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "c393-f1c0-a33b-5bc9"
+      }
+    ]
+  },
+  {
+    "Id": "options_89d9-93fa-1d9a-3407",
+    "Name": "Adrathic combi-destructor",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "0b87-bbb3-1dd8-dadb"
+      }
+    ]
+  },
+  {
+    "Id": "options_3077-50f9-d2bd-d26f",
+    "Name": "Twin Neutronium Cascade Projectors",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "37b8-d750-85a9-d649"
+      }
+    ]
+  },
+  {
+    "Id": "options_8555-148a-0e35-4749",
+    "Name": "Adrathic Desolator, 1 Fist and 1 Projectors",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "3dcb-3970-4a42-324c"
+      },
+      {
+        "Id": "37b8-d750-85a9-d649"
+      },
+      {
+        "Id": "eb78-936d-5bc1-ac71"
+      }
+    ]
+  },
+  {
+    "Id": "options_afda-51b0-9a3f-f5ca",
+    "Name": "Arachnus Storm Cannon, 1 Fist and 1 Projectors",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "3dcb-3970-4a42-324c"
+      },
+      {
+        "Id": "37b8-d750-85a9-d649"
+      },
+      {
+        "Id": "049b-46cd-5abe-4a7a"
+      }
+    ]
+  },
+  {
+    "Id": "options_4fd1-e7c6-2adf-0d87",
+    "Name": "Iliastus Accelerator Culverin, 1 Fist and 1 Projectors",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "3dcb-3970-4a42-324c"
+      },
+      {
+        "Id": "37b8-d750-85a9-d649"
+      },
+      {
+        "Id": "7489-b958-21a3-a105"
+      }
+    ]
+  },
+  {
+    "Id": "options_7bbb-0a56-bcd5-0d1a",
+    "Name": "Infernus Firepike",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "7051-4ab2-30f4-da07"
+      }
+    ]
+  },
+  {
+    "Id": "options_3044-b266-e26e-0e21",
+    "Name": "Twin Lastrum Bolt Cannon",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "9992-31de-4b34-25f9"
+      }
+    ]
+  },
+  {
+    "Id": "options_1792411421556",
+    "Name": "Vexilla",
+    "Type": 4,
+    "ItemsToAdd": [
+      {
+        "Id": "rules_1792411439593",
+        "Info": ""
+      }
+    ]
+  },
+  {
+    "Id": "options_1792411992766",
+    "Name": "Twin Iliastus Accelerator Fusil",
+    "Type": 1,
+    "ItemsToAdd": [
+      {
+        "Id": "714f-6557-0a91-2960",
+        "Info": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "Id": "unit_f943-72c8-581c-e6f2",
+    "Name": "Astorath",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, GRENADES, FLY, JUMP PACK, IMPERIUM, CHAPLAIN, ADEPTUS ASTARTES, BLOOD ANGELS, ASTORATH, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_bd83-7f95-9b20-3b25"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_640-9969-d5b9-875c",
+    "Name": "Baal Predator",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "IMPERIUM, SMOKE, VEHICLE, ADEPTUS ASTARTES, BAAL PREDATOR, BLOOD ANGELS, FRAME"
+    },
+    "BasicProfileIds": [
+      "profile_6f69-eb86-620f-80c"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_ab35-2c36-9389-d1d5",
+    "Name": "Chief Librarian Mephiston",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, TACTICUS, PSYKER, ADEPTUS ASTARTES, BLOOD ANGELS, CHIEF LIBRARIAN MEPHISTON, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_5bf5-5db9-18d4-55d1"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7323-ebf-9afe-7e7a",
+    "Name": "Commander Dante",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, IMPERIUM, FLY, ADEPTUS ASTARTES, BLOOD ANGELS, JUMP PACK, TACTICUS, CHAPTER MASTER, COMMANDER DANTE, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_b450-c96f-6de3-ce60"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_cbc2-18c9-45b6-6327",
+    "Name": "Lemartes",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, IMPERIUM, FLY, CHAPLAIN, LEMARTES, ADEPTUS ASTARTES, BLOOD ANGELS, JUMP PACK, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_f844-d1c0-c50d-cfa0"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_25e4-ead-faac-2531",
+    "Name": "Sanguinary Guard",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, FLY, IMPERIUM, ADEPTUS ASTARTES, BLOOD ANGELS, SANGUINARY GUARD, JUMP PACK, EXPLOSIVES, TACTICUS"
+    },
+    "BasicProfileIds": [
+      "profile_d95e-595c-4f55-49ce"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_f80-be5-d17c-db23",
+    "Name": "Sanguinary Priest",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, IMPERIUM, SANGUINARY PRIEST, ADEPTUS ASTARTES, BLOOD ANGELS, TACTICUS, EXPLOSIVES, SUPPORT"
+    },
+    "BasicProfileIds": [
+      "profile_4aba-1b11-e595-e9c9"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_29f1-bb28-6424-6d14",
+    "Name": "The Sanguinor",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, FLY, IMPERIUM, JUMP PACK, THE SANGUINOR, ADEPTUS ASTARTES, BLOOD ANGELS"
+    },
+    "BasicProfileIds": [
+      "profile_afc7-e00f-adf2-3858"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_65f6-18df-f6df-7e39",
+    "Name": "Death Company Marines with Jump Packs",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, IMPERIUM, ADEPTUS ASTARTES, BLOOD ANGELS, DEATH COMPANY MARINES WITH JUMP PACKS, TACTICUS, FLY, JUMP PACK, DEATH COMPANY, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_c34d-a6ef-672d-eaff"
+    ],
+    "DefaultFront": 5,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_829b-da42-2d62-6daf",
+    "Name": "Blood Angels Captain",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, GRENADES, IMPERIUM, CAPTAIN, ADEPTUS ASTARTES, BLOOD ANGELS, TACTICUS, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_2904-9a20-a6eb-83dc"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_4743-6dc9-fda7-0a8c",
+    "Name": "Death Company Captain",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, CHARACTER, IMPERIUM, CAPTAIN, ADEPTUS ASTARTES, BLOOD ANGELS, TACTICUS, DEATH COMPANY, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_75c4-36b0-af42-362b"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_2574-a949-ae3f-58c2",
+    "Name": "Death Company Captain with Jump Pack",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, INFANTRY, CAPTAIN, FLY, BLOOD ANGELS, ADEPTUS ASTARTES, IMPERIUM, JUMP PACK, TACTICUS, DEATH COMPANY, LEADER, EXPLOSIVES"
+    },
+    "BasicProfileIds": [
+      "profile_7c67-3ef1-6e01-f830"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3825-ac3a-75ec-fa0d",
+    "Name": "Death Company Marines",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, GRENADES, IMPERIUM, ADEPTUS ASTARTES, BLOOD ANGELS, DEATH COMPANY MARINES, TACTICUS, DEATH COMPANY"
+    },
+    "BasicProfileIds": [
+      "profile_1fcf-41cb-e457-99e3",
+      "profile_b62d-bfee-e5d1-fcaf"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3b6e-cc3e-c2a4-0cbd",
+    "Name": "Death Company Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, WALKER, IMPERIUM, DREADNOUGHT, DEATH COMPANY DREADNOUGHT, ADEPTUS ASTARTES, BLOOD ANGELS, DEATH COMPANY"
+    },
+    "BasicProfileIds": [
+      "profile_938d-28a6-8b07-8cc6"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  }
+]

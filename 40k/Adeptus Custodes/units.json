@@ -1,0 +1,379 @@
+[
+  {
+    "Id": "unit_c8a6-a4c5-703e-b717",
+    "Name": "Allarus Custodians",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ALLARUS CUSTODIANS, IMPERIUM, ADEPTUS CUSTODES, TERMINATOR, INFANTRY, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_fab4-d437-6e07-eb33"
+    ],
+    "DefaultFront": 2,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_91b3-2e1c-e642-d213",
+    "Name": "Custodian Guard Sodality",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CUSTODIAN GUARD SODALITY, INFANTRY, BATTLELINE, IMPERIUM, ADEPTUS CUSTODES, TRUSTED SENTINEL, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_ffb0-e197-3a20-7515"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_d7cb-7d30-715b-50d2",
+    "Name": "Anathema Psykana Rhino",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ANATHEMA PSYKANA, VEHICLE, DEDICATED TRANSPORT, TRANSPORT, SMOKE, IMPERIUM, FRAME, ANATHEMA PSYKANA RHINO"
+    },
+    "BasicProfileIds": [
+      "profile_ff64-897e-0812-ab0f"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_48b7-e713-d5b1-f11c",
+    "Name": "Blade Champion",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "BLADE CHAMPION, INFANTRY, CHARACTER, IMPERIUM, ADEPTUS CUSTODES, LEADER, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_11f7-2788-9bfd-177b"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9610-b148-8433-93b8",
+    "Name": "Custodian Wardens",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CUSTODIAN WARDENS, ADEPTUS CUSTODES, INFANTRY, IMPERIUM, TRUSTED SENTINEL, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_4a80-c791-9d9f-30c6"
+    ],
+    "DefaultFront": 2,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7099-71b-56e8-7191",
+    "Name": "Knight-Centura",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "KNIGHT-CENTURA, INFANTRY, ANATHEMA PSYKANA, IMPERIUM, CHARACTER, LEADER"
+    },
+    "BasicProfileIds": [
+      "profile_77f4-76e5-b2df-6483"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3ec3-a4df-fdbf-5507",
+    "Name": "Prosecutor Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "PROSECUTOR SQUAD, IMPERIUM, INFANTRY, ANATHEMA PSYKANA"
+    },
+    "BasicProfileIds": [
+      "profile_6814-ce42-4b23-72a9"
+    ],
+    "DefaultFront": 4,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_b61c-b815-65c0-b1cc",
+    "Name": "Shield-Captain",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "SHIELD-CAPTAIN, IMPERIUM, ADEPTUS CUSTODES, CHARACTER, INFANTRY, LEADER, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_f8f3-0f06-13d0-6eaa"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_6319-eeba-b717-bd86",
+    "Name": "Shield-Captain in Allarus Terminator Armour",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "TERMINATOR, SHIELD-CAPTAIN, INFANTRY, IMPERIUM, ADEPTUS CUSTODES, CHARACTER, LEADER, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_6024-501b-e93c-32a5"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_58fa-4a25-a5af-1144",
+    "Name": "Shield-Captain on Dawneagle Jetbike",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS CUSTODES, IMPERIUM, MOUNTED, CHARACTER, FLY, SHIELD-CAPTAIN, LEADER, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_3560-b824-f02e-1e3b"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_7d7c-c212-47a3-38e4",
+    "Name": "Trajann Valoris",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "TRAJANN VALORIS, EPIC HERO, CHARACTER, INFANTRY, IMPERIUM, ADEPTUS CUSTODES, LEADER, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_d583-46c4-e043-e8e2"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_918b-c9ed-7af7-74df",
+    "Name": "Vertus Praetors",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "FLY, MOUNTED, IMPERIUM, ADEPTUS CUSTODES, VERTUS PRAETORS, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_5bd5-bca3-6228-ef17"
+    ],
+    "DefaultFront": 2,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_dd2d-568a-9c56-1b6e",
+    "Name": "Vigilator Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VIGILATOR SQUAD, ANATHEMA PSYKANA, INFANTRY, IMPERIUM"
+    },
+    "BasicProfileIds": [
+      "profile_9474-9815-fd89-6490"
+    ],
+    "DefaultFront": 4,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_503b-f7be-eeeb-9e31",
+    "Name": "Witchseeker Squad",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "WITCHSEEKER SQUAD, ANATHEMA PSYKANA, INFANTRY, IMPERIUM"
+    },
+    "BasicProfileIds": [
+      "profile_9fdd-e31a-5f28-85ea"
+    ],
+    "DefaultFront": 4,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_00ab-41c4-cf52-4ad2",
+    "Name": "Gyrfalcon Jetbike Sodality",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "MOUNTED, FLY, IMPERIUM, GYRFALCON JETBIKE SODALITY, ADEPTUS CUSTODES, FRAME, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_509b-6148-c31d-45c8"
+    ],
+    "DefaultFront": 2,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_201e-e502-a8d1-3974",
+    "Name": "Venatari with Kinetic Destroyers",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "IMPERIUM, INFANTRY, FLY, JUMP PACK, VENATARI WITH KINETIC DESTROYERS, ADEPTUS CUSTODES, EXPLOSIVES, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_358a-4a13-adf5-35b1"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_4988-d93e-5034-2b3c",
+    "Name": "Contemptor-Galatus Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS CUSTODES, CONTEMPTOR-GALATUS DREADNOUGHT, VEHICLE, WALKER, IMPERIUM, DREADNOUGHT, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_12f1-b6ca-867b-5c7c"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_db3b-02cd-87a2-3b52",
+    "Name": "Contemptor-Achillus Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS CUSTODES, VEHICLE, IMPERIUM, WALKER, CONTEMPTOR-ACHILLUS DREADNOUGHT, DREADNOUGHT, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_1e1f-9a94-957f-9165"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_06df-2fb2-8dfa-2fce",
+    "Name": "Pallas Grav-attack",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, FLY, PALLAS GRAV-ATTACK, ADEPTUS CUSTODES, IMPERIUM, FRAME, GRAV-ASSAULT, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_102e-5ed1-6d31-0d93"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_3ee2-62a9-af84-1a90",
+    "Name": "Caladius Grav-tank",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, FLY, IMPERIUM, CALADIUS GRAV-TANK, ADEPTUS CUSTODES, FRAME, GRAV-ASSAULT, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_f676-72df-2ed7-8834"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_e7d8-1c73-7d03-8b62",
+    "Name": "Telemon Heavy Dreadnought",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, IMPERIUM, ADEPTUS CUSTODES, TELEMON HEAVY DREADNOUGHT, WALKER, DREADNOUGHT, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_013b-ab38-f992-ff77"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_f35e-ef9c-9ef4-77e1",
+    "Name": "Coronus Grav-carrier",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, TRANSPORT, FLY, IMPERIUM, CORONUS GRAV-CARRIER, ADEPTUS CUSTODES, FRAME, GRAV-ASSAULT, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_588c-2aa2-db7f-17be"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9335-74d9-ad68-3ff7",
+    "Name": "Ares Gunship",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS CUSTODES, VEHICLE, AIRCRAFT, FLY, IMPERIUM, ARES GUNSHIP, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_e3eb-3331-b91f-eeb5"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9c1a-7efd-ed36-440e",
+    "Name": "Orion Assault Dropship",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, TRANSPORT, FLY, IMPERIUM, ORION ASSAULT DROPSHIP, ADEPTUS CUSTODES, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_c753-bc07-06bb-6254"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_df80-bbdc-bd0a-3428",
+    "Name": "Sentinel Guard Sodality",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "INFANTRY, BATTLELINE, IMPERIUM, ADEPTUS CUSTODES, TRUSTED SENTINEL, SENTINEL GUARD SODALITY, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_0697-d230-d5e6-675c"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_9d57-6156-aebd-73e9",
+    "Name": "Aquilon Terminators with Solarite Power Gauntlets",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS CUSTODES, INFANTRY, IMPERIUM, TERMINATOR, AQUILON TERMINATORS WITH SOLARITE POWER GAUNTLETS, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_2e55-b005-ab5c-f0ce"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_67a7-0ebe-3c5f-c0f9",
+    "Name": "Aquilon Terminators with Solarite Power Talons",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "ADEPTUS CUSTODES, INFANTRY, IMPERIUM, TERMINATOR, EMISSARIES, AQUILON TERMINATORS WITH SOLARITE POWER TALONS"
+    },
+    "BasicProfileIds": [
+      "profile_30be-d530-6161-4795"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_5ebc-7aca-d7c4-1c4d",
+    "Name": "Venatari with Verutum Lances",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "IMPERIUM, INFANTRY, FLY, JUMP PACK, VENATARI WITH KINETIC DESTROYERS, ADEPTUS CUSTODES, EXPLOSIVES, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_3054-9e1a-2c7e-f11f"
+    ],
+    "DefaultFront": 3,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_dbf0-5211-463c-40ec",
+    "Name": "Caladius Annihilator Grav-tank",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "VEHICLE, FLY, IMPERIUM, ADEPTUS CUSTODES, FRAME, GRAV-ASSAULT, CALADIUS ANNIHILATOR GRAV-TANK, EMISSARIES"
+    },
+    "BasicProfileIds": [
+      "profile_dbf0-5211-463c-40ec"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  }
+]

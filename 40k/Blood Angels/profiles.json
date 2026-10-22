@@ -1,0 +1,509 @@
+[
+  {
+    "Id": "profile_bd83-7f95-9b20-3b25",
+    "Name": "Astorath",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1432"
+      },
+      {
+        "Id": "rule_c5e1-99a6-a51e-251e"
+      },
+      {
+        "Id": "rule_2cc0-3a51-cd4f-429e"
+      },
+      {
+        "Id": "rule_7ee0-8183-ece2-25c9"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "d655-eefd-e172-20ae"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_6f69-eb86-620f-80c",
+    "Name": "Baal Predator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1433"
+      },
+      {
+        "Id": "rule_acf-498-6031-bf2f"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
+      },
+      {
+        "Id": "c81b-a87b-817e-44a0"
+      },
+      {
+        "Id": "b5db-e041-7cef-e591"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_5bf5-5db9-18d4-55d1",
+    "Name": "Chief Librarian Mephiston",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1434"
+      },
+      {
+        "Id": "rule_kw_the-quickening",
+        "Info": "psychic level 1"
+      },
+      {
+        "Id": "rule_kw_transfixing-gaze",
+        "Info": "psychic level 2"
+      },
+      {
+        "Id": "rule_kw_chief-librarian",
+        "Info": "Psyker level 3"
+      },
+      {
+        "Id": "rule_a8a0-8fe7-898-e0f3"
+      },
+      {
+        "Id": "rule_24-c886-e8ba-5a89"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "eb07-22b3-d1eb-7552"
+      },
+      {
+        "Id": "9fcd-a0d8-4804-c08a"
+      },
+      {
+        "Id": "3da4-7876-bd83-6904"
+      },
+      {
+        "Id": "a00b-6bcb-c59b-1376"
+      },
+      {
+        "Id": "f7dc-7751-1d2d-4220"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_b450-c96f-6de3-ce60",
+    "Name": "Commander Dante",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1435"
+      },
+      {
+        "Id": "rule_edcb-c05a-9bcb-12c7"
+      },
+      {
+        "Id": "rule_56e5-d5ec-38c6-e113"
+      },
+      {
+        "Id": "rule_b139-df4f-7162-cce8"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "8a9c-58f8-e882-c7d"
+      },
+      {
+        "Id": "49e5-830e-9a2d-1b9a"
+      }
+    ],
+    "BaseId": "5"
+  },
+  {
+    "Id": "profile_f844-d1c0-c50d-cfa0",
+    "Name": "Lemartes",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1437"
+      },
+      {
+        "Id": "rule_e07d-ca56-c77-2dce"
+      },
+      {
+        "Id": "rule_3863-f078-be63-9230"
+      },
+      {
+        "Id": "rule_b59a-25b8-9dc3-3f25"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "13fa-271d-cece-f0b6"
+      },
+      {
+        "Id": "2cbf-d021-e04e-31e4"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_d95e-595c-4f55-49ce",
+    "Name": "Sanguinary Guard",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1438"
+      },
+      {
+        "Id": "rule_5a4f-9341-88c9-9038"
+      },
+      {
+        "Id": "rule_48cf-9858-89c4-f598"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "3981-32e4-157b-6ece"
+      },
+      {
+        "Id": "13c6-39cb-bc57-3ee0"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_4aba-1b11-e595-e9c9",
+    "Name": "Sanguinary Priest",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1439"
+      },
+      {
+        "Id": "rule_bb06-73be-d05e-4541"
+      },
+      {
+        "Id": "rule_2271-e1ab-2fb9-93c5"
+      },
+      {
+        "Id": "rule_5d3b-5258-5aad-75ca"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "cb64-ddb1-cbc3-3621"
+      },
+      {
+        "Id": "30c8-dbcd-c7c7-d911"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_afc7-e00f-adf2-3858",
+    "Name": "The Sanguinor",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1440"
+      },
+      {
+        "Id": "rule_a3b2-4a68-fe8f-f5fa"
+      },
+      {
+        "Id": "rule_9c8e-d8c0-5604-60f0"
+      },
+      {
+        "Id": "rule_a8a0-8fe7-898-e0f3"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_24-c886-e8ba-5a89"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "65a-5211-e46e-2a8f"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_c34d-a6ef-672d-eaff",
+    "Name": "Death Company Marine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_4d41-5eed-844a-2b1c"
+      },
+      {
+        "Id": "rule_6353-b576-82ad-a3fb"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "d928-3007-aed9-1b7d"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_2904-9a20-a6eb-83dc",
+    "Name": "Blood Angels Captain",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1441"
+      },
+      {
+        "Id": "rule_a4a8-f68b-1cd2-e2e7"
+      },
+      {
+        "Id": "rule_90c7-c55c-21e2-2232"
+      },
+      {
+        "Id": "rule_fdf1-64a5-906c-3474"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_c6cc-c38c-dfe6-dbb8"
+      },
+      {
+        "Id": "1077-f195-c047-6ef0"
+      },
+      {
+        "Id": "d928-3007-aed9-1b7d"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_75c4-36b0-af42-362b",
+    "Name": "Death Company Captain",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1442"
+      },
+      {
+        "Id": "rule_d95d-9ac9-252e-b1fa"
+      },
+      {
+        "Id": "rule_064b-d740-a982-6678"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_b276-0bcd-8baf-3c14"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "e8db-6fb3-ff75-f784"
+      },
+      {
+        "Id": "87ae-2329-48ed-fb7d"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_7c67-3ef1-6e01-f830",
+    "Name": "Death Company Captain with Jump Pack",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1443"
+      },
+      {
+        "Id": "rule_2569-0de4-1748-b6da"
+      },
+      {
+        "Id": "rule_38fc-ca21-107e-ed79"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_7cb5-dd6b-dd87-ad3b"
+      },
+      {
+        "Id": "rule_b276-0bcd-8baf-3c14"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "33d2-4cb7-c90f-5e88"
+      },
+      {
+        "Id": "960d-da5a-6963-cf83"
+      }
+    ],
+    "BaseId": "4"
+  },
+  {
+    "Id": "profile_1fcf-41cb-e457-99e3",
+    "Name": "Death Company Marine",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1445"
+      },
+      {
+        "Id": "rule_e4bd-d365-f2b5-26d1"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "d928-3007-aed9-1b7d"
+      },
+      {
+        "Id": "6f0d-9f9f-21d6-a85e"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_b62d-bfee-e5d1-fcaf",
+    "Name": "Death Company Marine w/Eviscerator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1445"
+      },
+      {
+        "Id": "rule_e4bd-d365-f2b5-26d1"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3b76-4053-ece9-6e7d"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "equipment_1764758377504"
+      }
+    ],
+    "BaseId": "1"
+  },
+  {
+    "Id": "profile_938d-28a6-8b07-8cc6",
+    "Name": "Death Company Dreadnought",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1446"
+      },
+      {
+        "Id": "rule_973b-a866-fedb-54d7"
+      },
+      {
+        "Id": "rule_b68a-5ded-65ac-98c",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_9bf4-280f-bbe2-6fbb",
+        "Info": "6+"
+      },
+      {
+        "Id": "rule_3e0a-31f-8be-e293"
+      },
+      {
+        "Id": "rule_c68c-a968-354f-bb99",
+        "Info": "4"
+      },
+      {
+        "Id": "equipment_1764758133792"
+      },
+      {
+        "Id": "1aee-2354-83bf-5d88"
+      }
+    ],
+    "BaseId": "21"
+  }
+]

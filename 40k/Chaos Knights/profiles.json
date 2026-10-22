@@ -1,0 +1,905 @@
+[
+  {
+    "Id": "profile_b861-c239-8fa2-afa5",
+    "Name": "War Dog Executioner",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1689"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_795"
+      },
+      {
+        "Id": "rule_796",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_868"
+      },
+      {
+        "Id": "ffca-811e-9ca8-4222"
+      },
+      {
+        "Id": "a4fb-4101-1b27-d2db"
+      },
+      {
+        "Id": "432a-109c-aeaa-84d2"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_ce7f-d704-a682-dcd6",
+    "Name": "War Dog Stalker",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1690"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_21",
+        "Info": "6\""
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_797"
+      },
+      {
+        "Id": "rule_798",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_868"
+      },
+      {
+        "Id": "2ba6-4ed1-9dbe-cece"
+      },
+      {
+        "Id": "a4fb-4101-1b27-d2db"
+      },
+      {
+        "Id": "509e-6a22-be2b-c499"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_a907-b7f9-b9cf-a620",
+    "Name": "War Dog Karnivore",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1691"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_799"
+      },
+      {
+        "Id": "rule_800",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_868"
+      },
+      {
+        "Id": "a4fb-4101-1b27-d2db"
+      },
+      {
+        "Id": "equipment_1775553332451"
+      },
+      {
+        "Id": "70ef-396b-bb23-6560"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_2a67-fd95-e3f9-420e",
+    "Name": "War Dog Brigand",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1692"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_801"
+      },
+      {
+        "Id": "rule_802",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_868"
+      },
+      {
+        "Id": "2ba6-4ed1-9dbe-cece"
+      },
+      {
+        "Id": "cae9-9335-5429-9523"
+      },
+      {
+        "Id": "a4fb-4101-1b27-d2db"
+      },
+      {
+        "Id": "432a-109c-aeaa-84d2"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_540b-339c-30a4-fb9d",
+    "Name": "War Dog Huntsman",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1693"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_803"
+      },
+      {
+        "Id": "rule_804",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_868"
+      },
+      {
+        "Id": "cae9-9335-5429-9523"
+      },
+      {
+        "Id": "a4fb-4101-1b27-d2db"
+      },
+      {
+        "Id": "cb63-4c38-2886-64ee"
+      },
+      {
+        "Id": "28e3-9284-5a98-daa7"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_0487-2918-c4e9-735f",
+    "Name": "Knight Despoiler",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1694"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_806",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_807"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_869"
+      },
+      {
+        "Id": "75c0-6077-3c29-fe59"
+      },
+      {
+        "Id": "aad8-5fd2-d082-9bde"
+      },
+      {
+        "Id": "c90a-f924-3747-d0c0"
+      },
+      {
+        "Id": "c9d8-2338-850e-45c6"
+      },
+      {
+        "Id": "584c-1ff6-83a0-94d3"
+      },
+      {
+        "Id": "8dbe-4e7a-8b59-1524"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_160e-7198-c314-f89c",
+    "Name": "Knight Desecrator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1695"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_810"
+      },
+      {
+        "Id": "rule_809",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_869"
+      },
+      {
+        "Id": "54d1-9fb5-ea42-08c6"
+      },
+      {
+        "Id": "ffc0-0726-99fb-fc11"
+      },
+      {
+        "Id": "aad8-5fd2-d082-9bde"
+      },
+      {
+        "Id": "c90a-f924-3747-d0c0"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_bade-b185-e569-edc1",
+    "Name": "Knight Rampager",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1696"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_813"
+      },
+      {
+        "Id": "rule_812",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_869"
+      },
+      {
+        "Id": "a4fb-4101-1b27-d2db"
+      },
+      {
+        "Id": "815-bc92-c750-fde7"
+      },
+      {
+        "Id": "c9aa-1054-c816-8c79"
+      },
+      {
+        "Id": "8a66-42f3-470-2067"
+      },
+      {
+        "Id": "5c72-6f33-e9c8-5d0f"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_b5fe-c12f-7cfd-152d",
+    "Name": "Knight Abominant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1697"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_815",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_816",
+        "Info": "(Psychic)"
+      },
+      {
+        "Id": "rule_869"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "a4fb-4101-1b27-d2db"
+      },
+      {
+        "Id": "19b7-9d13-3590-27dc"
+      },
+      {
+        "Id": "76d6-265c-e9e8-cada"
+      },
+      {
+        "Id": "90db-08d8-a005-310e"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_868c-dc0a-4bc2-55ad",
+    "Name": "Knight Tyrant",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1698"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_817",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_818"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_870"
+      },
+      {
+        "Id": "4ac0-abd4-dd0c-686d"
+      },
+      {
+        "Id": "d476-28a4-cb23-c7c4"
+      },
+      {
+        "Id": "8c11-0e26-88a7-d38d"
+      },
+      {
+        "Id": "5ac3-daa9-5b46-b247"
+      },
+      {
+        "Id": "83a6-06f5-e131-7bca"
+      },
+      {
+        "Id": "ce4c-8f32-75cd-a68d"
+      },
+      {
+        "Id": "6e62-ed67-6e74-1fa2"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_6b1e-130c-63fa-2e7d",
+    "Name": "Chaos Acastus Knight Asterius",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1699"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "2D6"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_821"
+      },
+      {
+        "Id": "rule_820",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_870"
+      },
+      {
+        "Id": "8ef2-44e8-d00c-ebe6"
+      },
+      {
+        "Id": "b377-6e1c-4b6d-2681"
+      },
+      {
+        "Id": "7322-a1c5-255-ed8b"
+      },
+      {
+        "Id": "9ce8-7e93-8963-59e3"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_310d-1486-55e8-2d6c",
+    "Name": "Chaos Acastus Knight Porphyrion",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1700"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "2D6"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_823"
+      },
+      {
+        "Id": "rule_822",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_870"
+      },
+      {
+        "Id": "cdca-553e-e7d3-8d78"
+      },
+      {
+        "Id": "4588-c0e0-6cd-ae7"
+      },
+      {
+        "Id": "f407-c2ad-122e-228c"
+      },
+      {
+        "Id": "9ce8-7e93-8963-59e3"
+      }
+    ],
+    "BaseId": "3"
+  },
+  {
+    "Id": "profile_2916-a86d-a98f-b9fb",
+    "Name": "Chaos Cerastus Knight Lancer",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1701"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_825"
+      },
+      {
+        "Id": "rule_826",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_824",
+        "Info": "4+"
+      },
+      {
+        "Id": "rule_870"
+      },
+      {
+        "Id": "8c6d-af66-a0aa-cea6"
+      },
+      {
+        "Id": "da4d-3a50-d9a6-bb1d"
+      },
+      {
+        "Id": "a0a8-3a3-bfce-777a"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_c85c-2c10-9dab-f10f",
+    "Name": "Chaos Cerastus Knight Castigator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1702"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_828"
+      },
+      {
+        "Id": "rule_829",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_827",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_870"
+      },
+      {
+        "Id": "94c3-ace-1f3c-87ee"
+      },
+      {
+        "Id": "7ab9-95e4-95f3-6736"
+      },
+      {
+        "Id": "e651-a733-cc20-c647"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_5403-3f13-3ca6-22b6",
+    "Name": "Chaos Cerastus Knight Acheron",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1703"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_831"
+      },
+      {
+        "Id": "rule_832",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_830",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_870"
+      },
+      {
+        "Id": "a166-c3be-78c2-5dd9"
+      },
+      {
+        "Id": "a701-7b9a-ff40-af1f"
+      },
+      {
+        "Id": "1787-669c-9ba8-465f"
+      },
+      {
+        "Id": "59dc-5722-7844-79a6"
+      }
+    ],
+    "BaseId": "11"
+  },
+  {
+    "Id": "profile_76f5-bb5c-ae0e-950e",
+    "Name": "Chaos Cerastus Knight Atrapos",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1704"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6+2"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_834"
+      },
+      {
+        "Id": "rule_835",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_833",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_870"
+      },
+      {
+        "Id": "4e9-f5e5-9f32-520e"
+      },
+      {
+        "Id": "1105-7920-ddf8-4cae"
+      },
+      {
+        "Id": "458a-6dc-7607-2669"
+      },
+      {
+        "Id": "6b03-8129-9435-adbb"
+      },
+      {
+        "Id": "b582-f54d-7ba2-17b5"
+      },
+      {
+        "Id": "2f08-1615-1fe4-5531"
+      }
+    ],
+    "BaseId": "11"
+  },
+  {
+    "Id": "profile_a69c-d32c-a409-86bd",
+    "Name": "Chaos Questoris Knight Magaera",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1705"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_871",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_837"
+      },
+      {
+        "Id": "rule_836",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_869"
+      },
+      {
+        "Id": "c59e-7343-2e7-6d7f"
+      },
+      {
+        "Id": "dee7-d73f-44d4-9bda"
+      },
+      {
+        "Id": "aad8-5fd2-d082-9bde"
+      },
+      {
+        "Id": "c90a-f924-3747-d0c0"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_fe0a-7433-490d-b27",
+    "Name": "Chaos Questoris Knight Styrix",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1706"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D6"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_840",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_839"
+      },
+      {
+        "Id": "rule_838",
+        "Info": "5+"
+      },
+      {
+        "Id": "rule_869"
+      },
+      {
+        "Id": "bbc9-ae78-78d3-a91b"
+      },
+      {
+        "Id": "2554-21b4-d8e0-1b20"
+      },
+      {
+        "Id": "aad8-5fd2-d082-9bde"
+      },
+      {
+        "Id": "c90a-f924-3747-d0c0"
+      }
+    ],
+    "BaseId": "23"
+  },
+  {
+    "Id": "profile_edf-bf86-2acc-2b21",
+    "Name": "War Dog Moirax",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1707"
+      },
+      {
+        "Id": "rule_24",
+        "Info": "D3"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_873"
+      },
+      {
+        "Id": "rule_842"
+      },
+      {
+        "Id": "rule_841",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_868"
+      },
+      {
+        "Id": "3558-5e50-322f-9ee6"
+      },
+      {
+        "Id": "2b0c-2aed-a612-c979"
+      },
+      {
+        "Id": "432a-109c-aeaa-84d2"
+      }
+    ],
+    "BaseId": "12"
+  },
+  {
+    "Id": "profile_3bc9-aaff-0392-6cb1",
+    "Name": "Knight Ruinator",
+    "Type": "Profile",
+    "Children": [
+      {
+        "Id": "statline_1708"
+      },
+      {
+        "Id": "rule_24"
+      },
+      {
+        "Id": "rule_874"
+      },
+      {
+        "Id": "rule_26"
+      },
+      {
+        "Id": "rule_844"
+      },
+      {
+        "Id": "rule_845",
+        "Info": "(Aura)"
+      },
+      {
+        "Id": "rule_122",
+        "Info": "5+ (Ranged)"
+      },
+      {
+        "Id": "rule_869"
+      },
+      {
+        "Id": "abfa-0c6d-627f-3989"
+      },
+      {
+        "Id": "60e2-30d0-5d84-df0e"
+      },
+      {
+        "Id": "8607-3727-9026-6f98"
+      },
+      {
+        "Id": "6edb-b414-5785-3cd9"
+      }
+    ],
+    "BaseId": "23"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "Id": "unit_339f-9776-243d-69a6",
+    "Name": "Kayvaan Shrike",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "EPIC HERO, CHARACTER, INFANTRY, IMPERIUM, FLY, JUMP PACK, ADEPTUS ASTARTES, RAVEN GUARD, KAYVAAN SHRIKE, PHOBOS, LEADER, SMOKE, EXPLOSIVES, CAPTAIN"
+    },
+    "BasicProfileIds": [
+      "profile_8753-86b1-ba10-487a"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  },
+  {
+    "Id": "unit_cbb9-15e9-16ae-6597",
+    "Name": "Aethon Shaan",
+    "Type": "Unit",
+    "Attributes": {
+      "Keywords": "CHARACTER, EPIC HERO, INFANTRY, FLY, JUMP PACK, IMPERIUM, ADEPTUS ASTARTES, RAVEN GUARD, TACTICUS, CHAPTER MASTER, AETHON SHAAN, LEADER, EXPLOSIVES, SMOKE"
+    },
+    "BasicProfileIds": [
+      "profile_8df6-281c-884c-7c5c"
+    ],
+    "DefaultFront": 1,
+    "Formation": 3
+  }
+]

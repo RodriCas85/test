@@ -1,0 +1,100 @@
+{
+  "BattlegroundWidth": 60,
+  "BattlegroundHeight": 44,
+  "SoldierSnap": true,
+  "WoundsAttribute": "W",
+  "MaxCloudSeparation": 2,
+  "DefaultSoldierSelectionMode": true,
+  "ShowObjectiveSection": false,
+  "DefaultFormation": "Cloud",
+  "QuickResultPanel": true,
+  "BattleReportScreenshotTiming": "AtEndOfTurn",
+  "BattleReportScreenshotCardStackId": "2, 3",
+  "BattleReportScreenshotAtDeployment": true,
+  "UseTurnController": true,
+  "Formations": [
+    {
+      "Index": 0,
+      "Type": "Cloud"
+    },
+    {
+      "Index": 1,
+      "Type": "CloudExtended"
+    },
+    {
+      "Index": 2,
+      "Type": "CloudCompressed"
+    }
+  ],
+  "FormationChangingRules": [
+    {
+      "Rule": "Skirmishers",
+      "FormationType": "Cloud"
+    }
+  ],
+  "DefaultZenithLight": true,
+  "GameStateViewSections": [
+    8
+  ],
+  "PointCounting": "Disabled",
+  "ShowGroupHeader": false,
+  "ShowStatlineHeader": false,
+  "ListParsingAlgorithm": 3,
+  "AvailableDice": [
+    "D6",
+    "D3",
+    "Order",
+    "Pair",
+    "Trio"
+  ],
+  "DefaultCardConfig": {
+    "Width": 63.5,
+    "Length": 88.9,
+    "IsRound": false,
+    "ShowInitials": true,
+    "TextColor": "#000000",
+    "Border": true,
+    "BorderColor": "#000000"
+  },
+  "ArmyListKeywords": [
+    {
+      "Keyword": "Take and Hold",
+      "Color": "#4F8A3C"
+    },
+    {
+      "Keyword": "Disruption",
+      "Color": "#2878B5"
+    },
+    {
+      "Keyword": "Purge the Foe",
+      "Color": "#C83A3A"
+    },
+    {
+      "Keyword": "Priority Assets",
+      "Color": "#D5A62A"
+    },
+    {
+      "Keyword": "Reconnaissance",
+      "Color": "#39A9A5"
+    }
+  ],
+  "ShownButtons": [
+    "Radius",
+    "Base Size",
+    "Base Color",
+    "Delete",
+    "Draw Card Stack",
+    "Duplicate",
+    "Flip Card",
+    "Reform",
+    "Reorder",
+    "Reset Card Stack",
+    "Return Card",
+    "Rotate 90",
+    "Shuffle Card Stack",
+    "Add wounds",
+    "Remove wounds",
+    "Concentric lines",
+    "Magnet"
+  ]
+}

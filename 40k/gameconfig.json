@@ -9,9 +9,9 @@
   "DefaultFormation": "Cloud",
   "QuickResultPanel": true,
   "BattleReportScreenshotTiming": "AtEndOfTurn",
-  "BattleReportScreenshotCardStackId": "2, 3",
   "BattleReportScreenshotAtDeployment": true,
   "UseTurnController": true,
+  "PassTimerOnTurnPass": true,
   "Formations": [
     {
       "Index": 0,
@@ -96,5 +96,46 @@
     "Remove wounds",
     "Concentric lines",
     "Magnet"
-  ]
+  ],
+  
+  "ExtraLines": {
+    "Quadrants": true,
+    "QuadrantsName": "Quadrants",
+    "Borders": [
+      { "Name": "6\" border", "Values": [6] }
+    ],
+    "MiddleCircles": [
+      { "Name": "3\" / 6\" circles", "Values": [3, 6] },
+      { "Name": "9\" circle", "Values": [9] }
+    ],
+    "Grid": [
+      { "Name": "1\" grid", "Values": [1] }
+    ]
+  },
+  "Scoreboard": {
+    "Enabled": true,
+    "Rows": [
+      { "Label": "R1" },
+      { "Label": "R2" },
+      { "Label": "R3" },
+      { "Label": "R4" },
+      { "Label": "R5" }
+    ],
+    "Columns": [
+      { "Label": " Primary " },
+      { "Label": "Secondary" }
+    ],
+    "PlayerTrackers": [
+      { "Label": "CP", "ShowOverShared": "CP" }
+    ],
+    "PlayerColors": "Keyword"
+  },
+  "WoundCount": "Down",
+  "RandomTerrainGenerator": "Infinity",
+  "MarkShowsTrails": true,
+  "ChessClockDefaultMinutes": 90,
+  "VisibilityBlockUnits": false,
+  "VisibilityBlockAllies": false,
+  "VisibilityBlockTerrainBases": true,
+  "VisibilityBlockTerrain3D": true
 }
